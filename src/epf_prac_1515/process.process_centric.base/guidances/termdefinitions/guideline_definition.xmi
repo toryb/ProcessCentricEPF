@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wcAlevp26naM9YD612QX9w" name="new_term_definition,_E-yGAKHWEeaNLag47uRY2w" guid="-wcAlevp26naM9YD612QX9w">
+  <mainDescription>&lt;p>&#xD;
+    Guidlines provide additional detail about how to perform a particular task or grouping of tasks, or that provides&#xD;
+    additional details, rules, and recommendations about work products and their properties.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Among others things, a guideline can include details about best practices and different approaches for doing work,&#xD;
+    about how to use particular types of work products, information about different subtypes and variants of the work&#xD;
+    product and how they evolve throughout a lifecycle, discussions about skills the performing roles should acquire or&#xD;
+    improve upon, and measurements for progress and maturity.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

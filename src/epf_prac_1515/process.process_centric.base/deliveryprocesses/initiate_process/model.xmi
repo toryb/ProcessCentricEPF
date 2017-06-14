@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_GqXZ4KHdEeaNLag47uRY2w" guid="_GqXZ4KHdEeaNLag47uRY2w">
+    <resourceDescriptors xmi:id="_GqXZ4aHdEeaNLag47uRY2w" id="-xYniUx5rd9hqnO3703JNgw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nF8pgKHfEeaNLag47uRY2w" id="-imsYaKG06EqfWBeUpokFUA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_L0QdUKIIEeaNLag47uRY2w" id="-ytZXsCCT-GLvsQHD_w_LCg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_L0UHsKIIEeaNLag47uRY2w" id="-1c3s9FOvijppZcbFrgkERg" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_GpjhkKHdEeaNLag47uRY2w" name="initiate_process" guid="_GpjhkKHdEeaNLag47uRY2w">
+    <methodElementProperty xmi:id="_GpjhkqHdEeaNLag47uRY2w" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_Ome74KHdEeaNLag47uRY2w" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_tLsxsKHdEeaNLag47uRY2w" name="Prepare Project" guid="_tLsxsKHdEeaNLag47uRY2w">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_tLsxsaHdEeaNLag47uRY2w" name="Prepare Project" guid="_tLsxsaHdEeaNLag47uRY2w" presentationName="Define Project" superActivities="_GpjhkaHdEeaNLag47uRY2w" linkToPredecessor="_Q3b1YKHeEeaNLag47uRY2w">
+        <methodElementProperty xmi:id="_-K3okKHdEeaNLag47uRY2w" name="wbe_GlobalPresentedAfter" value="_6ZPxEaHdEeaNLag47uRY2w"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Q3b1YKHeEeaNLag47uRY2w" guid="_Q3b1YKHeEeaNLag47uRY2w" pred="_6ZPxEaHdEeaNLag47uRY2w"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_3UwFUKHdEeaNLag47uRY2w" name="Define Solution" guid="_3UwFUKHdEeaNLag47uRY2w">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_3UwFUaHdEeaNLag47uRY2w" name="Define Solution" guid="_3UwFUaHdEeaNLag47uRY2w" presentationName="Define Solution" superActivities="_GpjhkaHdEeaNLag47uRY2w" linkToPredecessor="_Rbgy0aHeEeaNLag47uRY2w">
+        <methodElementProperty xmi:id="_9xoCIKHdEeaNLag47uRY2w" name="wbe_GlobalPresentedAfter" value="_tLsxsaHdEeaNLag47uRY2w"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Rbgy0aHeEeaNLag47uRY2w" guid="_Rbgy0aHeEeaNLag47uRY2w" pred="_6ZPxEaHdEeaNLag47uRY2w"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6ZPxEKHdEeaNLag47uRY2w" name="Prepare Internally for Project" guid="_6ZPxEKHdEeaNLag47uRY2w">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_6ZPxEaHdEeaNLag47uRY2w" name="Prepare Internally for Project" guid="_6ZPxEaHdEeaNLag47uRY2w" presentationName="Prepare Internally for Project" briefDescription="During this process we prepare our internal project team for a succesful project delivery." superActivities="_GpjhkaHdEeaNLag47uRY2w" breakdownElements="_Jz1dsKIIEeaNLag47uRY2w _Jz3S4KIIEeaNLag47uRY2w _Jz3S4qIIEeaNLag47uRY2w">
+        <methodElementProperty xmi:id="_9xopMKHdEeaNLag47uRY2w" name="wbe_GlobalPresentedAfter" value="_GpjhkaHdEeaNLag47uRY2w"/>
+        <presentation xmi:id="-imsYaKG06EqfWBeUpokFUA" href="uma://-xYniUx5rd9hqnO3703JNgw#-imsYaKG06EqfWBeUpokFUA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Jz1dsKIIEeaNLag47uRY2w" name="conduct_sales_handoff_meeting" guid="_Jz1dsKIIEeaNLag47uRY2w" presentationName="Conduct Sales Handoff Meeting" briefDescription="Once the project resources have been identified, Stoneridge Software will hold an internal meeting to transition the customer from the diagnose (sales) phase to the Initiate phase." superActivities="_6ZPxEaHdEeaNLag47uRY2w" mandatoryInput="_Jz3S4KIIEeaNLag47uRY2w" optionalInput="_Jz3S4qIIEeaNLag47uRY2w">
+        <methodElementProperty xmi:id="_Jz6WMKIIEeaNLag47uRY2w" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-ytZXsCCT-GLvsQHD_w_LCg" href="uma://-xYniUx5rd9hqnO3703JNgw#-ytZXsCCT-GLvsQHD_w_LCg"/>
+        <Task href="uma://_M9BD8KE-EeaNLag47uRY2w#_qxMzQKHfEeaNLag47uRY2w"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Jz3S4KIIEeaNLag47uRY2w" name="project_profile" guid="_Jz3S4KIIEeaNLag47uRY2w" presentationName="Project Profile" briefDescription="The project profile contains a summary of the information gathered during the diagnose phase." isPlanned="false" superActivities="_6ZPxEaHdEeaNLag47uRY2w">
+        <methodElementProperty xmi:id="_Jz3S4aIIEeaNLag47uRY2w" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Jz7kUKIIEeaNLag47uRY2w" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-1c3s9FOvijppZcbFrgkERg" href="uma://-xYniUx5rd9hqnO3703JNgw#-1c3s9FOvijppZcbFrgkERg"/>
+        <templates href="uma://_M9BD8KE-EeaNLag47uRY2w#_DkyWwKHiEeaNLag47uRY2w"/>
+        <WorkProduct href="uma://_M9BD8KE-EeaNLag47uRY2w#_yksvUKHgEeaNLag47uRY2w"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Jz3S4qIIEeaNLag47uRY2w" name="estimate_worksheet" guid="_Jz3S4qIIEeaNLag47uRY2w" presentationName="Estimate Worksheet" isPlanned="false" superActivities="_6ZPxEaHdEeaNLag47uRY2w">
+        <methodElementProperty xmi:id="_Jz3S46IIEeaNLag47uRY2w" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_Jz8LYKIIEeaNLag47uRY2w" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <WorkProduct href="uma://_M9BD8KE-EeaNLag47uRY2w#_jWzMUKHhEeaNLag47uRY2w"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6jSM0OopEeau28ltOqQLcw" name="Test Activity" guid="_6jSM0OopEeau28ltOqQLcw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__ICU8OoqEeau28ltOqQLcw" name="Sub Activity" guid="__ICU8OoqEeau28ltOqQLcw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="__ICU8eoqEeau28ltOqQLcw" name="Sub Activity" guid="__ICU8eoqEeau28ltOqQLcw" presentationName="Sub Activity" superActivities="_6jSM0eopEeau28ltOqQLcw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_6jSM0eopEeau28ltOqQLcw" name="Test Activity" guid="_6jSM0eopEeau28ltOqQLcw" presentationName="Test Activity" superActivities="_GpjhkaHdEeaNLag47uRY2w" breakdownElements="__ICU8eoqEeau28ltOqQLcw"/>
+    </childPackages>
+    <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_TqPUMKHeEeaNLag47uRY2w" name="Project Kickoff" guid="_TqPUMKHeEeaNLag47uRY2w" presentationName="Project Kickoff" superActivities="_GpjhkaHdEeaNLag47uRY2w" linkToPredecessor="_Y9_FwKHeEeaNLag47uRY2w _Y9_FwaHeEeaNLag47uRY2w"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Y9_FwKHeEeaNLag47uRY2w" guid="_Y9_FwKHeEeaNLag47uRY2w" pred="_tLsxsaHdEeaNLag47uRY2w"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Y9_FwaHeEeaNLag47uRY2w" guid="_Y9_FwaHeEeaNLag47uRY2w" pred="_3UwFUaHdEeaNLag47uRY2w"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_GpjhkaHdEeaNLag47uRY2w" name="initiate_process" guid="_GpjhkaHdEeaNLag47uRY2w" presentationName="Initiate Process" briefDescription="During the Initiation phase we collaborate with the customer to plan the project. This will include determining the initial scope, budget and time line for the project. It will also include an agreed upon methodology and governance of the project execution.&#xD;&#xA;" breakdownElements="_6ZPxEaHdEeaNLag47uRY2w _tLsxsaHdEeaNLag47uRY2w _3UwFUaHdEeaNLag47uRY2w _TqPUMKHeEeaNLag47uRY2w _6jSM0eopEeau28ltOqQLcw">
+      <presentation xmi:id="-xYniUx5rd9hqnO3703JNgw" href="uma://-xYniUx5rd9hqnO3703JNgw#-xYniUx5rd9hqnO3703JNgw"/>
+      <defaultContext href="uma://_T6l317ekEd-D7YZN9NgldQ#_hV0lkKE9EeaNLag47uRY2w"/>
+      <validContext href="uma://_T6l317ekEd-D7YZN9NgldQ#_hV0lkKE9EeaNLag47uRY2w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

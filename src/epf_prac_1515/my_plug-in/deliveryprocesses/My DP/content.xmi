@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-LmJj6SVOwTysZ2SdSBzArA" name="My DP,_ivyrMaEnEeaNLag47uRY2w" guid="-LmJj6SVOwTysZ2SdSBzArA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YJqVnrkkfz9ok-Gi6VbbYQ" name="develop_technical_vision,_yy14EKEnEeaNLag47uRY2w" guid="-YJqVnrkkfz9ok-Gi6VbbYQ">
+    <keyConsiderations>&lt;p>&#xD;
+    Use-case modeling&amp;nbsp;is one technique that can prove useful in defining the system boundaries and system behavior.&#xD;
+&lt;/p></keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kAiy_ljSz39bOwzK3u4qAg" name="architect,_yy3GMqEnEeaNLag47uRY2w" guid="-kAiy_ljSz39bOwzK3u4qAg">
+    <refinedDescription>&lt;p>&#xD;
+    The person in this role leads or coordinates the technical design of the system and has overall responsibility for&#xD;
+    facilitating the major technical decisions expressed as software architecture. This typically includes identifying and&#xD;
+    documenting the architecturally significant aspects of the system as views that describe requirements, design,&#xD;
+    implementation, and deployment.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This role is also responsible for providing the rationale for these decisions, balancing the concerns of the various&#xD;
+    stakeholders, reducing technical risks, and ensuring that decisions are effectively communicated, validated, and&#xD;
+    followed.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This role works closely with project managers in staffing and planning the project, because it is recommended&#xD;
+    that the team be organized around the architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This role also works closely with analysts and developers to make sure that the architecturally significant&#xD;
+    requirements are assigned to the proper components of the system. &#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TKjs8QvmClkgTqHhFwknEQ" name="project_manager,_yy3tQaEnEeaNLag47uRY2w" guid="-TKjs8QvmClkgTqHhFwknEQ">
+    <refinedDescription>&lt;p>&#xD;
+    The person in this role:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Coaches the team to drive a successful outcome of the project and the acceptance of the product by the customer&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Is accountable for the outcome of the project and the acceptance of the product by the customer&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Is responsible for the evaluation of project's risks and for controlling those risks through mitigation strategies&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Applies management knowledge, skills, tools, and techniques to a broad range of tasks to deliver the&#xD;
+        desired result for a particular project in a timely manner&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ZUxOwqpg4byFQg8lzXSScQ" name="vision,_yy4UUKEnEeaNLag47uRY2w" guid="-ZUxOwqpg4byFQg8lzXSScQ">
+    <keyConsiderations>&lt;p>&#xD;
+    It is good practice to keep this artifact brief, so you can release it to stakeholders as soon as possible, and to make&#xD;
+    the artifact easy for stakeholders to read and understand. You can accomplish this by including only the most important&#xD;
+    features and avoiding details of requirements.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Projects that focus on product development might extend the marketing section and include a more detailed product&#xD;
+    position statement that is based on their needs and research.&#xD;
+&lt;/p></keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-jWduNktVi1IgyTZbFrbNPA" name="glossary,_yy4UUqEnEeaNLag47uRY2w" guid="-jWduNktVi1IgyTZbFrbNPA">
+    <keyConsiderations>&lt;p>&#xD;
+    Although listed as an &lt;i>output from&lt;/i> and an &lt;i>input to&lt;/i> tasks associated with the requirements discipline, this&#xD;
+    artifact can be updated at any time and by any role as new terms are identified. The terms defined should be used&#xD;
+    according to the recorded definitions in all project documentation so that all stakeholders can clearly see that terms&#xD;
+    are being used consistently.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    One of the primary decisions when developing&amp;nbsp;this artifact&amp;nbsp;is whether to have all terms in a single glossary&#xD;
+    or to maintain terms in several glossaries, business terms artifacts, or models.&amp;nbsp;If terms are defined in multiple&#xD;
+    places, you need to communicate all of those sources to the team and decide which take precedence.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It may be important, even in small projects, to reference and use existing broader glossaries, business terms&#xD;
+    artifacts, or data models, where they exist.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Industry- and organization-wide glossaries may be referenced, and compliance with such specific chosen standards may be&#xD;
+    required.&#xD;
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    This artifact&amp;nbsp;helps you avoid miscommunication by providing two essential resources:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        A central location to look for terms and abbreviations that are new to development team members&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Definitions of terms that are used in specific ways within the domain&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Definitions for the glossary terms come from several sources, such as requirements documents, specifications, and&#xD;
+    discussions with stakeholders and domain experts.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BLCOcY-dUFckn-3OHonxdA" name="system_wide_requirements,_yzG90aEnEeaNLag47uRY2w" guid="-BLCOcY-dUFckn-3OHonxdA">
+    <keyConsiderations>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        When you document system-wide requirements, ensure that the needs of all of the stakeholders are represented. In&#xD;
+        particular, include the needs of those who are responsible for maintaining or supporting the system after it is&#xD;
+        delivered.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Typically, there are some overlaps and gray areas between system-wide requirements and other requirements work&#xD;
+        products. For example, the authorization behavior of a system can be specified as use cases or as statements within&#xD;
+        system-wide requirements. The overall driving need is that no important requirements are missed or duplicated, and&#xD;
+        that there is an agreed upon approach for capturing and processing every type of requirement.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        System-wide requirements originate from many places. Documenting the source of the requirement is particularly&#xD;
+        important when you separate externally mandated requirements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Requirements are often thought of as &quot;Qualitative&quot; (specifying a quality or desirable characteristic) versus&#xD;
+        &quot;Quantitative&quot; (specifying a quantity). Qualitative requirements can sometimes be elaborated into quantitative&#xD;
+        requirements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A good quality requirement is one that you can verify, either through testing or some other objective evaluation.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        You must evaluate system-wide requirements for cost, schedule impact, and level of contribution to business goals.&#xD;
+        Based on your evaluation, the system-wide requirements should be iteratively challenged, defended, and amended.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-KJEHdMqjgQnycdgBEcd2oA" name="architecture_notebook,_yzVAQaEnEeaNLag47uRY2w" guid="-KJEHdMqjgQnycdgBEcd2oA">
+    <refinedDescription>&lt;p>&#xD;
+    This artifact&amp;nbsp;describes the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../core.tech.common.extend_supp/guidances/concepts/software_architecture_59A08DE0.html&quot;&#xD;
+    guid=&quot;__O7tAMVvEduLYZUGfgZrkQ&quot;>Software Architecture&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It provides a place for maintaining the list of architectural issues, along with the associated architectural&#xD;
+    decisions, designs, patterns, code documented (or pointed to), and so forth -- all at appropriate levels to make it&#xD;
+    easy to understand what architectural decisions have been made and remain to be made.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is helpful for architects to use this artifact to collaborate with other team members in developing the architecture&#xD;
+    and to help team members understand the motivation behind architectural decisions so that those decisions can be&#xD;
+    robustly implemented. For example, the architect may put constraints on how data is packaged and communicated between&#xD;
+    different parts of the system. This may appear to be a burden, but the justification in the Architecture Notebook can&#xD;
+    explain that there is a significant performance bottleneck when communicating with a legacy system. The rest of the&#xD;
+    system must adapt to this bottleneck by following a specific data packaging scheme.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This artifact should also inform the team members how the system is partitioned or organized so that the team can adapt&#xD;
+    to the needs of the system. It also gives a first glimpse of the system and its technical motivations to whoever must&#xD;
+    maintain and change the architecture later.&lt;br />&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-t94Q7WKSEasWMgf3MCu4gQ" name="iteration_plan,_yzZRsaEnEeaNLag47uRY2w" guid="-t94Q7WKSEasWMgf3MCu4gQ">
+    <keyConsiderations>&lt;p>&#xD;
+    Work items assigned to an iteration do not necessarily have the same priority. When selecting work items from the Work&#xD;
+    Items List, the iteration plan may end up having work items with different priorities (for example, you assign the&#xD;
+    remaining high priority work items, plus a few mid-priority ones from the Work Items List). Once work items have been&#xD;
+    assigned to the iteration, the team ensures that they can complete all work, regardless of original work item&#xD;
+    priorities. Deciding what to develop first on an iteration will vary across projects and iterations.&#xD;
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    This artifact captures the key milestones of an iteration, showing start and end dates, intermediate milestones,&#xD;
+    synchronization points with other teams, demos, and so on. This artifact is also used to capture issues that need to be&#xD;
+    solved during the iteration.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    You should list a few objectives for the iteration, which will help guide you throughout the iteration. Also, assess at&#xD;
+    the end if those objectives have been achieved.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The task assignments for an iteration are a subset of all tasks on the &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../core.mgmt.common.extend_supp/workproducts/work_items_list_39D03CC8.html&quot;&#xD;
+    guid=&quot;_rGNWsCbSEdqh1LYUOGRh2A&quot;>Artifact: Work Items List&lt;/a>. Therefore, the iteration plan ideally references those&#xD;
+    work items.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The evaluation criteria and iteration assessment information are captured in this artifact, so that you can communicate&#xD;
+    results and actions from assessments.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7oe-0bslpz1Z4w153FAyuw" name="risk_list,_yzZ4waEnEeaNLag47uRY2w" guid="-7oe-0bslpz1Z4w153FAyuw">
+    <keyConsiderations>&lt;p>&#xD;
+    This list should capture the critical and serious risks. If you find this list extending beyond 20 items, carefully&#xD;
+    consider whether they are really serious risks. Tracking more than 20 risks is an onerous task.&#xD;
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    This list identifies, in decreasing order of priority, all the &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+    href=&quot;./../../core.mgmt.common.base/guidances/termdefinitions/risk_33255339.html&quot;&#xD;
+    guid=&quot;_ii2LUEvGEdunZcj9T5hrMQ&quot;>risks&lt;/a> associated to a project.&amp;nbsp;It serves as a focal point for project&#xD;
+    activities, and is the basis around which iterations are organized.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../core.mgmt.common.extend_supp/guidances/concepts/risk_AF5840DA.html&quot;&#xD;
+    guid=&quot;_0bsLgMlgEdmt3adZL5Dmdw&quot;>Concept: Risk&lt;/a>&amp;nbsp;for more details.&lt;!--EndFragment-->&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-A_VifdGBqJASyhCw4atZzw" name="work_items_list,_yzaf0aEnEeaNLag47uRY2w" guid="-A_VifdGBqJASyhCw4atZzw">
+    <keyConsiderations>&lt;p>&#xD;
+    Work Items should contain estimates. See guidelines on managing work items and agile estimation.&#xD;
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    This artifact provides a focal point for the entire team:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        It provides one list containing all requests for additional capabilities or enhancement for that application. Note&#xD;
+        that some of these requests may never be implemented, or be implemented in later projects.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        It provides one list of all the work to be prioritized, estimated, and assigned within the project. The risk list&#xD;
+        is prioritized separately.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        It provides one place to go to for the development team to understand what&amp;nbsp;micro-increments&amp;nbsp;need to be&#xD;
+        delivered, get references to material required to carry out the work, and report progress made.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    These are the typical work items that go on this list:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Use cases (and references to use-case specifications)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        System-wide requirements&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Changes and enhancement requests&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Defects&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Development tasks&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Work items can be very large in scope, especially when capturing requests for enhancements, such as &quot;Support Financial&#xD;
+    Planning&quot; for a personal finance application. To allow the application to be developed in micro-increments, work items&#xD;
+    are analyzed and broken down into smaller work items so that they can be assigned to an iteration, such as a use-case&#xD;
+    scenario for&amp;nbsp;&quot;Calculate Net Worth&quot;. Further breakdown may be required to identify suitable tasks to be assigned to&#xD;
+    developers, such as &quot;Develop UI for Calculate Net Worth&quot;. This means that work items often have parent/child&#xD;
+    relationships, where the lowest level is a specification and tracking device for micro-increments.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ttd7UGD_oD57Gds9JmUjgw" name="project_plan,_yzbt8aEnEeaNLag47uRY2w" guid="-ttd7UGD_oD57Gds9JmUjgw">
+    <keyConsiderations>Create and update the project plan in planning sessions that involve the whole team and appropriate project stakeholders in&#xD;
+order to make sure that everybody agrees with it.</keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    This artifact describes how the project is organized, and identifies what practices will be followed. Additionally, it&#xD;
+    defines the parameters for tracking project progress, and specifies the high-level objectives of the iterations and&#xD;
+    their milestones.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The project plan allows stakeholders and other team members to understand the big picture and, roughly, when to expect&#xD;
+    a certain level of functionality be available.&amp;nbsp;Update the plan&amp;nbsp;as often as necessary, usually at the end of&#xD;
+    each iteration, in order to reflect changing priorities and needs, as well as record the lessons learned from the&#xD;
+    project.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-MAw2wcdweex8AHtBsSiiSA" name="my_extend_and_replace_tester,_z7TU86EnEeaNLag47uRY2w" guid="-MAw2wcdweex8AHtBsSiiSA">
+    <refinedDescription>My extend and replace main description</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3jy3huftzlY-h21i351XmQ" name="developer_test,_z9oQMaEnEeaNLag47uRY2w" guid="-3jy3huftzlY-h21i351XmQ">
+    <refinedDescription>&lt;p>&#xD;
+    This artifact covers all of the steps to validate a specific aspect of an implementation element. For example, a test&#xD;
+    could ensure that the parameters of a method properly accept the uppermost and lowermost required values. A developer&#xD;
+    test specifies test entries, execution conditions, and expected results. These details are identified to evaluate a&#xD;
+    particular aspect of a scenario.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    When you collect developer tests for a specific implementation element, you can validate that the element performs as&#xD;
+    specified.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The tests be self-documenting so that it is clear upon completion of the test whether the implementation element has&#xD;
+    run correctly.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oSO_u4HSe_BLyaMsq5530g" name="implementation,_z9peUaEnEeaNLag47uRY2w" guid="-oSO_u4HSe_BLyaMsq5530g">
+    <refinedDescription>&lt;p>&#xD;
+    This artifact is the collection of one or more of these elements:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Source code files&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Data files&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Build scripts&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Other files that are transformed into the executable system&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fMS5-6S1DM8i_vaE63eSUQ" name="build,_z9qscaEnEeaNLag47uRY2w" guid="-fMS5-6S1DM8i_vaE63eSUQ">
+    <refinedDescription>&lt;p>&#xD;
+    This working version of the system or part of the system&amp;nbsp;is the result of putting the implementation through a&#xD;
+    build process (typically an automated build script) that creates an executable version, or one that runs. This&#xD;
+    executable version will typically have a number of supporting files that are also considered part of this artifact.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VoH1HyfRLxjLu0vMngoxJg" name="design,_z9r6kaEnEeaNLag47uRY2w" guid="-VoH1HyfRLxjLu0vMngoxJg">
+    <refinedDescription>&lt;p>&#xD;
+    This work product describes the elements that will make up the implemented system. It communicates abstractions of&#xD;
+    particular portions of the implementation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    While architecture focuses on interfaces, patterns, and key decisions, the design fleshes out the technical details in&#xD;
+    readiness for implementation, or as part of implementation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This product can describe multiple static and dynamic views of the system for examination. Although various views may&#xD;
+    focus on divergent, seemingly independent issues of how the system will be put together and work, they should fit&#xD;
+    together without contradiction.&lt;br />&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--xoAQUv8PFt1xt0SA7gFDQ" name="test_case,_z92SoaEnEeaNLag47uRY2w" guid="--xoAQUv8PFt1xt0SA7gFDQ">
+    <refinedDescription>&lt;p>&#xD;
+    A test case specifies the conditions that must be validated to enable an assessment of aspects of the system under&#xD;
+    test. A test case is more formal than a test idea; typically, a test case takes the form of a specification. In less&#xD;
+    formal environments, you can create test cases by identifying a unique ID, name, associated test data, and expected&#xD;
+    results.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Test cases can be derived from many sources, and typically include a subset of the requirements (such as use cases,&#xD;
+    performance characteristics, and reliability concerns) and other types of quality attributes. For more information on&#xD;
+    types of tests and their relationships to quality test attributes, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../core.tech.common.extend_supp/guidances/concepts/testing_qualitative_rqmts_CAE80710.html&quot;&#xD;
+    guid=&quot;_0aJ6cMlgEdmt3adZL5Dmdw&quot;>Concept: Testing Qualitative Requirements&lt;/a>.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fe_QFNbdzoqekfciCk4PgQ" name="test_log,_z94H0aEnEeaNLag47uRY2w" guid="-fe_QFNbdzoqekfciCk4PgQ">
+    <refinedDescription>This artifact provides a detailed, typically time-based record that both verifies that a set of tests were run, and&#xD;
+provides information that relates to the success of those tests. The focus is typically on providing an accurate audit&#xD;
+trail, which enables you to undertake a post-run diagnosis of failures. This raw data is subsequently analyzed to determine&#xD;
+the results of an aspect of the test effort.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ksxtvWtCs_avzmiNhiV0gg" name="detail_system_wide_requirements,_1DZlcKEnEeaNLag47uRY2w" guid="-ksxtvWtCs_avzmiNhiV0gg">
+    <keyConsiderations>To avoid unnecessary rework, only those requirements that are scheduled for implementation in the near term (in the next&#xD;
+iteration or two)&amp;nbsp;must be detailed.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-bWSavN_H_NxM0_kCuu_fNw" name="setup_tools,_3MJwMpoQEeGnJt_Qpwdfdg" guid="-bWSavN_H_NxM0_kCuu_fNw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ud665nP30EcfStWlCaVG1g" name="verify_tool_config_installation,_3MJwM5oQEeGnJt_Qpwdfdg" guid="-ud665nP30EcfStWlCaVG1g"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wr2feu_yE2fPeUL-W-3twA" name="project_defined_process,_3MJwNJoQEeGnJt_Qpwdfdg" guid="-wr2feu_yE2fPeUL-W-3twA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NXW1GBbxMr1lLmId65GjLQ" name="process_engineer,_3MJwMJoQEeGnJt_Qpwdfdg_jmrVYL9xEd-AG_DXKKgAXg" guid="-NXW1GBbxMr1lLmId65GjLQ"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-tKKvDNb_C5JVbwKwdBbC0A" name="plan_manage_iteration,_oZgCsdOEEdyqlogshP8l4g" guid="-tKKvDNb_C5JVbwKwdBbC0A" version="7.2.0">
+    <mainDescription>&lt;p>
+    This activity is performed throughout the project lifecycle. The goal of this activity is to identify risks and issues
+    early enough that they can be mitigated, to establish the goals for the iteration, and to support the development team
+    in reaching these goals.
+&lt;/p>
+&lt;p>
+    The project manager and the team launch the iteration. The prioritization of work for a given iteration takes place.
+    The project manager, stakeholders, and team members agree on what is supposed to be developed during that iteration.
+&lt;/p>
+&lt;p>
+    Team members sign up for the work items they will develop in that iteration. Each team member breaks down the work
+    items into development tasks and estimates the effort. This provides a more accurate estimate of the amount of time
+    that will be spent, and of what can be realistically achieved, in a given iteration.
+&lt;/p>
+&lt;p>
+    As the iteration runs, the team meets regularly to report status of work completed, the work to do next, and issues
+    blocking the progress. In some projects, this status checking occurs in daily meetings, which allows for a more precise
+    understanding of how the work in an iteration is progressing. As necessary, the team makes corrections to achieve what
+    was planned. The overall idea is that risks and issues are identified and managed throughout the iteration, and
+    everyone knows the project status in a timely manner.
+&lt;/p>
+&lt;p>
+    During iteration assessments, the key success criterion is the demonstration that planned functionality has been
+    implemented. Lessons learned are captured in order to modify the project or improve the process. If the iteration end
+    coincides with the phase end, make sure the objectives for that phase have been met (see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../practice.mgmt.risk_value_lifecycle.base/guidances/concepts/phase_milestones_5678231E.html&quot; guid=&quot;_HNxbwMBJEdqSgKaj2SZBmg&quot;>Concept: Phase Milestones&lt;/a> for more information).
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5Ehp0cS_MZcMWN7-aR2jDg" name="plan_iteration,_y05RQNOJEdyqlogshP8l4g" guid="-5Ehp0cS_MZcMWN7-aR2jDg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YaDdIIk7u1LF22Wu1CotEw" name="iteration_plan,_y1MMMNOJEdyqlogshP8l4g" guid="-YaDdIIk7u1LF22Wu1CotEw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_AQGrArpfDnQrLdIfT7yEA" name="risk_list,_y1MMMdOJEdyqlogshP8l4g" guid="-_AQGrArpfDnQrLdIfT7yEA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-bqJUuFY5HuU5djbwa0Un-w" name="work_items_list,_y1MMMtOJEdyqlogshP8l4g" guid="-bqJUuFY5HuU5djbwa0Un-w"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wTr0VAO55dyxLtJMbZXB8A" name="manage_iteration,_zjF0ANOJEdyqlogshP8l4g" guid="-wTr0VAO55dyxLtJMbZXB8A"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-OjpMjEGXHE9cTMNiOLhELw" name="assess_results,_0Qiv4NOJEdyqlogshP8l4g" guid="-OjpMjEGXHE9cTMNiOLhELw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-G-uoDhIn5mu6KXLuHPSFVQ" name="project_manager,_0Qiv4NOJEdyqlogshP8l4g_0a0o0MlgEdmt3adZL5Dmdw" guid="-G-uoDhIn5mu6KXLuHPSFVQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NL6ID-s5AEd5C_KSrqhx3w" name="architect,_0Qiv4NOJEdyqlogshP8l4g_0X9iEMlgEdmt3adZL5Dmdw" guid="-NL6ID-s5AEd5C_KSrqhx3w"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XwbMlAXJSIPu38V_Yb76Aw" name="my_extend_and_replace_tester,_0Qiv4NOJEdyqlogshP8l4g_RITiAKElEeaNLag47uRY2w" guid="-XwbMlAXJSIPu38V_Yb76Aw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-O4F9ZkSqq6f-KzaKZ0tMZg" name="vision,_y05RQNOJEdyqlogshP8l4g_0VxJsMlgEdmt3adZL5Dmdw_0WVxcMlgEdmt3adZL5Dmdw" guid="-O4F9ZkSqq6f-KzaKZ0tMZg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-f-eygmv84huaQ8gMVRkUzA" name="glossary,_y05RQNOJEdyqlogshP8l4g_0VxJsMlgEdmt3adZL5Dmdw_Wn7HcNcEEdqz_d2XWoVt6Q" guid="-f-eygmv84huaQ8gMVRkUzA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7CEFZlLW03GuDB8OjN4Yuw" name="system_wide_requirements,_y05RQNOJEdyqlogshP8l4g_0VxJsMlgEdmt3adZL5Dmdw_BVh9cL-CEdqb7N6KIeDL8Q" guid="-7CEFZlLW03GuDB8OjN4Yuw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-JfGt0x9p3erDv70vu_JnwA" name="test_case,_y05RQNOJEdyqlogshP8l4g_RITiAKElEeaNLag47uRY2w_0ZS-0MlgEdmt3adZL5Dmdw" guid="-JfGt0x9p3erDv70vu_JnwA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-05z8koGzfjZjrhCGqr-ynA" name="test_log,_y05RQNOJEdyqlogshP8l4g_RITiAKElEeaNLag47uRY2w_0ZlSsMlgEdmt3adZL5Dmdw" guid="-05z8koGzfjZjrhCGqr-ynA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TRufS4RVqapn0WnFxUKsQQ" name="project_plan,_y05RQNOJEdyqlogshP8l4g_0a0o0MlgEdmt3adZL5Dmdw_0a6vcMlgEdmt3adZL5Dmdw" guid="-TRufS4RVqapn0WnFxUKsQQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-WHIB7JKz-BZbMy2HMBPyTQ" name="developer_test,_y05RQNOJEdyqlogshP8l4g_0YDosMlgEdmt3adZL5Dmdw_kh9FcJ02EdyQ3oTO93enUw" guid="-WHIB7JKz-BZbMy2HMBPyTQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-grkukydgP3wOv0oUvM6EwA" name="implementation,_y05RQNOJEdyqlogshP8l4g_0YDosMlgEdmt3adZL5Dmdw_JqYbgJ01EdyQ3oTO93enUw" guid="-grkukydgP3wOv0oUvM6EwA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kdzJKJnKqbnMkbHBrAaYSA" name="build,_y05RQNOJEdyqlogshP8l4g_0YDosMlgEdmt3adZL5Dmdw_0YuXEMlgEdmt3adZL5Dmdw" guid="-kdzJKJnKqbnMkbHBrAaYSA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mYxSQ72wzkYHeY3mobRqtg" name="design,_y05RQNOJEdyqlogshP8l4g_0YDosMlgEdmt3adZL5Dmdw_0WuL8slgEdmt3adZL5Dmdw" guid="-mYxSQ72wzkYHeY3mobRqtg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aurH0-8IqNFOxGHfMyZ74A" name="architecture_notebook,_y05RQNOJEdyqlogshP8l4g_0X9iEMlgEdmt3adZL5Dmdw_0XAf0MlgEdmt3adZL5Dmdw" guid="-aurH0-8IqNFOxGHfMyZ74A"/>
+</xmi:XMI>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-94ePuA6sGg0NR5RURi1U7Q" name="new_term_definition,_2agHwKHWEeaNLag47uRY2w" guid="-94ePuA6sGg0NR5RURi1U7Q">
+  <mainDescription>&lt;p>&#xD;
+    A roadmap describes how a process is typically performed.&amp;nbsp; Processes can often be much easier understood by&#xD;
+    providing a walkthrough of a typical instance of the process.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In addition to making the process practitioner understand how the work in the process is being performed, a roadmap&#xD;
+    provides additional information about how activities and tasks relate to each other over time.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

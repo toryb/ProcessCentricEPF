@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_M9FVYKE-EeaNLag47uRY2w" guid="_M9FVYKE-EeaNLag47uRY2w">
+    <subManagers xmi:id="_GqXZ4KHdEeaNLag47uRY2w" href="uma://_GpjhkKHdEeaNLag47uRY2w#_GqXZ4KHdEeaNLag47uRY2w"/>
+    <subManagers xmi:id="_-Xi6MKH_EeaNLag47uRY2w" href="uma://_-Uvd0KH_EeaNLag47uRY2w#_-Xi6MKH_EeaNLag47uRY2w"/>
+    <resourceDescriptors xmi:id="_pPcQYKFBEeaNLag47uRY2w" id="-xMleufYGUV3oGiq7du2tfg" uri="guidances/practices/process_centric_overview.xmi"/>
+    <resourceDescriptors xmi:id="_S5XuYKHSEeaNLag47uRY2w" id="-RZO1xfRrPPXhIf3a0-WHDA" uri="guidances/practices/introduction_to_the_client_delivery_playbook.xmi"/>
+    <resourceDescriptors xmi:id="_4iGi4KHVEeaNLag47uRY2w" id="-p_-9TqerRy7orpBfaO95fA" uri="guidances/termdefinitions/checklist_term_definition.xmi"/>
+    <resourceDescriptors xmi:id="__bNIsKHVEeaNLag47uRY2w" id="-luiVPlPBXq6vWGaeCe5VCg" uri="guidances/termdefinitions/concept_term_definition.xmi"/>
+    <resourceDescriptors xmi:id="_D-GFEKHWEeaNLag47uRY2w" id="-bgP0s8WKeal6I-HV4uU2aw" uri="guidances/termdefinitions/example_definition.xmi"/>
+    <resourceDescriptors xmi:id="_PxrA0KHWEeaNLag47uRY2w" id="-wcAlevp26naM9YD612QX9w" uri="guidances/termdefinitions/guideline_definition.xmi"/>
+    <resourceDescriptors xmi:id="_XPyYMKHWEeaNLag47uRY2w" id="-IbNFSOl_XM6lFStcFwVnSQ" uri="guidances/termdefinitions/estimation_considerations_definition.xmi"/>
+    <resourceDescriptors xmi:id="_tscygKHWEeaNLag47uRY2w" id="-Vi265nkhwNga9NSVjpvBwA" uri="guidances/termdefinitions/report_definition.xmi"/>
+    <resourceDescriptors xmi:id="_1GW_UKHWEeaNLag47uRY2w" id="-W3WYRwsbgIYU91Q5kzbLtQ" uri="guidances/termdefinitions/reusable_asset_definition.xmi"/>
+    <resourceDescriptors xmi:id="_-PEQQKHWEeaNLag47uRY2w" id="-94ePuA6sGg0NR5RURi1U7Q" uri="guidances/termdefinitions/road_map_definition.xmi"/>
+    <resourceDescriptors xmi:id="_EncuoKHXEeaNLag47uRY2w" id="-Ks4bljDj3iXoc293a52bpg" uri="guidances/termdefinitions/supporting_material_definition.xmi"/>
+    <resourceDescriptors xmi:id="_FOI7MKHXEeaNLag47uRY2w" id="-wAiDeVASGr-sH0AHQznURA" uri="guidances/termdefinitions/practice_definition.xmi"/>
+    <resourceDescriptors xmi:id="_MczhUKHXEeaNLag47uRY2w" id="-wPl2EWMw0Pjm-ZLheuN6jg" uri="guidances/termdefinitions/template_definition.xmi"/>
+    <resourceDescriptors xmi:id="_Zsa9QKHXEeaNLag47uRY2w" id="-VeBarcaLBZF0G5UPqHW3RQ" uri="guidances/termdefinitions/term_definition_definition.xmi"/>
+    <resourceDescriptors xmi:id="_L359IKHaEeaNLag47uRY2w" id="-g0ZvkvzHMSIqLMnzoSVdYg" uri="tasks/create_solution_overview.xmi"/>
+    <resourceDescriptors xmi:id="_pII9AKHaEeaNLag47uRY2w" id="-ewiafA7MMYSBVg_oDVGQgw" uri="tasks/manage_proposals.xmi"/>
+    <resourceDescriptors xmi:id="_GpoaEKHdEeaNLag47uRY2w" id="_GpjhkKHdEeaNLag47uRY2w" uri="deliveryprocesses/initiate_process/model.xmi"/>
+    <resourceDescriptors xmi:id="_ucOeEKHgEeaNLag47uRY2w" id="-CKz4wg5YGuWRJ1-0dMUnaw" uri="tasks/conduct_sales_handoff_meeting.xmi"/>
+    <resourceDescriptors xmi:id="_Gr0OkKHhEeaNLag47uRY2w" id="-dVbCgG2LguDhp3qdNIsLaw" uri="workproducts/project_profile.xmi"/>
+    <resourceDescriptors xmi:id="_VmSNUKHiEeaNLag47uRY2w" id="-6tP3pxphIn9TiVMc8r7NLQ" uri="guidances/templates/project_profile_template.xmi"/>
+    <resourceDescriptors xmi:id="_590YUKHoEeaNLag47uRY2w" id="-IiDw5Do2b1jvOgfhYKiU-A" uri="customcategories/capacity_and_availability_management_cam_.xmi"/>
+    <resourceDescriptors xmi:id="_fV_vsKHpEeaNLag47uRY2w" id="-Cts9LhP2edc-YOvj_mKlWw" uri="customcategories/causal_analysis_and_resolution_car.xmi"/>
+    <resourceDescriptors xmi:id="_jvpOgKH_EeaNLag47uRY2w" id="-hV4fPS1PO1L-XVYsUqs_Og" uri="guidances/concepts/diagnose_phase_overview.xmi"/>
+    <resourceDescriptors xmi:id="_-Wr-kKH_EeaNLag47uRY2w" id="_-Uvd0KH_EeaNLag47uRY2w" uri="deliveryprocesses/diagnose_process/model.xmi"/>
+    <resourceDescriptors xmi:id="_WfhU4KICEeaNLag47uRY2w" id="-vOGtlkekvA5aCNG2Nn_fIw" uri="guidances/guidelines/search_the_playbook.xmi"/>
+    <resourceDescriptors xmi:id="_fCVDcKICEeaNLag47uRY2w" id="-xM_B7oAB6qoJwQHBwZYhbg" uri="guidances/guidelines/contribute_to_the_playbook.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_M9BD8KE-EeaNLag47uRY2w" name="process.process_centric.base" guid="_M9BD8KE-EeaNLag47uRY2w" presentationName="Process Centric Plug-in" briefDescription="Stoneridge Software Process Centric Method Plug-in" authors="Tory Bjorklund" changeDate="2016-11-03T09:12:32.245-0500">
+    <methodElementProperty xmi:id="_M9FVYqE-EeaNLag47uRY2w" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_Y4vc0KFDEeaNLag47uRY2w" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M9BrAKE-EeaNLag47uRY2w" name="Content" guid="_M9BrAKE-EeaNLag47uRY2w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M9BrAaE-EeaNLag47uRY2w" name="Categories" guid="_M9BrAaE-EeaNLag47uRY2w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M9BrAqE-EeaNLag47uRY2w" name="Domains" guid="_M9BrAqE-EeaNLag47uRY2w">
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_UO7aAKH8EeaNLag47uRY2w" name="project_management_domain" guid="_UO7aAKH8EeaNLag47uRY2w" variabilityType="contributes" workProducts="_fqD8MKHeEeaNLag47uRY2w _yksvUKHgEeaNLag47uRY2w">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Domain" href="uma://_MRPloEFXEdy9ENCpSugIjA#_8M6J4K80Edy9cPK11VzBuQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M9BrA6E-EeaNLag47uRY2w" name="Disciplines" guid="_M9BrA6E-EeaNLag47uRY2w">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_2X7XEKHlEeaNLag47uRY2w" name="process_centric_architecture_discipline" guid="_2X7XEKHlEeaNLag47uRY2w" presentationName="Architecture Discipline" variabilityType="extends">
+            <methodElementProperty xmi:id="_VbI-MKHrEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_MRPloEFXEdy9ENCpSugIjA#_iGSHsFZ-EdyIUdvDLLUdeg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_WtjBQKHrEeaNLag47uRY2w" name="functional_consulting_dispcipline" guid="_WtjBQKHrEeaNLag47uRY2w" presentationName="Functional Consulting Dispcipline">
+            <methodElementProperty xmi:id="_Y82xcKHrEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_j8OpEKHrEeaNLag47uRY2w" name="business_analyst_discipline" guid="_j8OpEKHrEeaNLag47uRY2w" presentationName="Business Analyst Discipline" variabilityType="extends">
+            <methodElementProperty xmi:id="_lvEfsKHrEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_MRPloEFXEdy9ENCpSugIjA#_iGSHtVZ-EdyIUdvDLLUdeg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_mc9gcKHrEeaNLag47uRY2w" name="process_centric_project_management_discipline" guid="_mc9gcKHrEeaNLag47uRY2w" presentationName="Process Centric Project Management Discipline" variabilityType="extends">
+            <methodElementProperty xmi:id="_sTxi0KHrEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_MRPloEFXEdy9ENCpSugIjA#_iGSHtFZ-EdyIUdvDLLUdeg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_tV68UKHrEeaNLag47uRY2w" name="process_centric_development_discipline" guid="_tV68UKHrEeaNLag47uRY2w" presentationName="Process Centric Development Discipline" variabilityType="extends">
+            <methodElementProperty xmi:id="_EY03QKHsEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_MRPloEFXEdy9ENCpSugIjA#_iGSHsVZ-EdyIUdvDLLUdeg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_yvea8KHrEeaNLag47uRY2w" name="process_centric_technical_consulting_discipline" guid="_yvea8KHrEeaNLag47uRY2w" presentationName="Process Centric Technical Consulting Discipline" variabilityType="extends">
+            <methodElementProperty xmi:id="_EY9aIKHsEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_MRPloEFXEdy9ENCpSugIjA#_OjzNEJoGEeGnJt_Qpwdfdg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="__C-M4KHrEeaNLag47uRY2w" name="process_centric_tester_discipline" guid="__C-M4KHrEeaNLag47uRY2w" presentationName="Process Centric Tester Discipline" variabilityType="extends">
+            <methodElementProperty xmi:id="_D-o1oKHsEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_MRPloEFXEdy9ENCpSugIjA#_iGSHtlZ-EdyIUdvDLLUdeg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M9BrBKE-EeaNLag47uRY2w" name="RoleSets" guid="_M9BrBKE-EeaNLag47uRY2w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M9BrBaE-EeaNLag47uRY2w" name="WP Types" guid="_M9BrBaE-EeaNLag47uRY2w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M9BrBqE-EeaNLag47uRY2w" name="Tools" guid="_M9BrBqE-EeaNLag47uRY2w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M9BrB6E-EeaNLag47uRY2w" name="StandardCategories" guid="_M9BrB6E-EeaNLag47uRY2w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M9BrCKE-EeaNLag47uRY2w" name="CustomCategories" guid="_M9BrCKE-EeaNLag47uRY2w">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M9BrCaE-EeaNLag47uRY2w" name="Hidden" guid="_M9BrCaE-EeaNLag47uRY2w">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_M9BrCqE-EeaNLag47uRY2w" name="Custom Categories" guid="_M9BrCqE-EeaNLag47uRY2w" categorizedElements="_w7H4sKH8EeaNLag47uRY2w _ivFbUKH9EeaNLag47uRY2w"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_vt4rgKHmEeaNLag47uRY2w" name="capacity_and_availability_management_cam_" guid="_vt4rgKHmEeaNLag47uRY2w" presentationName="Capacity and Availability Management (CAM) " briefDescription="The purpose of Capacity and Availability Management (CAM) is to ensure effective service system performance and ensure that resources are provided and used effectively to support service requirements. " categorizedElements="_W5xvIKHaEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_yf9KgKHmEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-IiDw5Do2b1jvOgfhYKiU-A" href="uma://-IiDw5Do2b1jvOgfhYKiU-A#-IiDw5Do2b1jvOgfhYKiU-A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_0QAy4KHmEeaNLag47uRY2w" name="causal_analysis_and_resolution_car" guid="_0QAy4KHmEeaNLag47uRY2w" presentationName="Causal Analysis and Resolution (CAR)" briefDescription="The purpose of Causal Analysis and Resolution (CAR) is to identify causes of selected outcomes and take action to improve process performance.">
+            <methodElementProperty xmi:id="_27hW4KHmEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-Cts9LhP2edc-YOvj_mKlWw" href="uma://-Cts9LhP2edc-YOvj_mKlWw#-Cts9LhP2edc-YOvj_mKlWw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_4tttQKHmEeaNLag47uRY2w" name="configuration_management_cm" guid="_4tttQKHmEeaNLag47uRY2w" presentationName="Configuration Management (CM)" briefDescription="The purpose of Configuration Management (CM) is to establish and maintain the integrity of work products using configuration identification, configuration control, configuration status accounting, and configuration audits">
+            <methodElementProperty xmi:id="_6GI4wKHmEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_9TKOYKHmEeaNLag47uRY2w" name="decision_analysis_and_resolution_dar" guid="_9TKOYKHmEeaNLag47uRY2w" presentationName="Decision Analysis and Resolution (DAR)" briefDescription="The purpose of Decision Analysis and Resolution (DAR) is to analyze possible decisions using a formal evaluation process that evaluates identified alternatives against established criteria.">
+            <methodElementProperty xmi:id="_-EsZAKHmEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ARwGcKHnEeaNLag47uRY2w" name="incident_resolution_and_prevention_irp" guid="_ARwGcKHnEeaNLag47uRY2w" presentationName="Incident Resolution and Prevention (IRP)" briefDescription="The purpose of Incident Resolution and Prevention (IRP) is to ensure timely and effective resolution of service incidents and prevention of service incidents as appropriate.">
+            <methodElementProperty xmi:id="_A85VMKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Cz_ZsKHnEeaNLag47uRY2w" name="integrated_work_management_iwm" guid="_Cz_ZsKHnEeaNLag47uRY2w" presentationName="Integrated Work Management (IWM)" briefDescription="The purpose of Integrated Work Management (IWM) is to establish and manage the work and the involvement of relevant stakeholders according to an integrated and defined process that is tailored from the organization’s set of standard processes.">
+            <methodElementProperty xmi:id="_DXS7EKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Gd4RgKHnEeaNLag47uRY2w" name="measurement_and_analysis_ma" guid="_Gd4RgKHnEeaNLag47uRY2w" presentationName="Measurement and Analysis (MA)" briefDescription="The purpose of Measurement and Analysis (MA) is to develop and sustain a measurement capability used to support management information needs.">
+            <methodElementProperty xmi:id="_HH6F8KHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_JgFeQKHnEeaNLag47uRY2w" name="organizational_process_definition_opd" guid="_JgFeQKHnEeaNLag47uRY2w" presentationName="Organizational Process Definition (OPD)" briefDescription="The purpose of Organizational Process Definition (OPD) is to establish and maintain a usable set of organizational process assets, work environment standards, and rules and guidelines for teams.">
+            <methodElementProperty xmi:id="_KIMnIKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_MOZeoKHnEeaNLag47uRY2w" name="organizational_process_focus_opf" guid="_MOZeoKHnEeaNLag47uRY2w" presentationName="Organizational Process Focus (OPF)" briefDescription="The purpose of Organizational Process Focus (OPF) is to plan, implement, and deploy organizational process improvements based on a thorough understanding of current strengths and weaknesses of the organization’s processes and process assets.">
+            <methodElementProperty xmi:id="_Muy18KHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_O1WSwKHnEeaNLag47uRY2w" name="organizational_performance_management_opm" guid="_O1WSwKHnEeaNLag47uRY2w" presentationName="Organizational Performance Management (OPM)" briefDescription="The purpose of Organizational Performance Management (OPM) is to proactively manage the organization’s performance to meet its business objectives.">
+            <methodElementProperty xmi:id="_PcMQUKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_RnS18KHnEeaNLag47uRY2w" name="organizational_process_performance_opp" guid="_RnS18KHnEeaNLag47uRY2w" presentationName="Organizational Process Performance (OPP)" briefDescription="The purpose of Organizational Process Performance (OPP) is to establish and maintain a quantitative understanding of the performance of selected processes in the organization’s set of standard processes in support of achieving quality and process performance objectives, and to provide process performance data, baselines, and models to quantitatively manage the organization’s work.">
+            <methodElementProperty xmi:id="_SQEtMKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_UCshYKHnEeaNLag47uRY2w" name="organizational_training_ot" guid="_UCshYKHnEeaNLag47uRY2w" presentationName="Organizational Training (OT)" briefDescription="The purpose of Organizational Training (OT) is to develop skills and knowledge of people so they can perform their roles effectively and efficiently.">
+            <methodElementProperty xmi:id="_Uj370KHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_WathoKHnEeaNLag47uRY2w" name="process_and_product_quality_assurance_ppqa" guid="_WathoKHnEeaNLag47uRY2w" presentationName="Process and Product Quality Assurance (PPQA)" briefDescription="The purpose of Process and Product Quality Assurance (PPQA) is to provide staff and management with objective insight into processes and associated work products.">
+            <methodElementProperty xmi:id="_XRMdsKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Ypbb8KHnEeaNLag47uRY2w" name="quantitative_work_management_qwm" guid="_Ypbb8KHnEeaNLag47uRY2w" presentationName="Quantitative Work Management (QWM)" briefDescription="The purpose of Quantitative Work Management (QWM) is to quantitatively manage the work to achieve the established quality and process performance objectives for the work.">
+            <methodElementProperty xmi:id="_ZQZVUKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_bZDD4KHnEeaNLag47uRY2w" name="requirements_management_reqm" guid="_bZDD4KHnEeaNLag47uRY2w" presentationName="Requirements Management (REQM)" briefDescription="The purpose of Requirements Management (REQM) is to manage requirements of products and product components and to ensure alignment between those requirements and the work plans and work products." categorizedElements="_CI8kgKHaEeaNLag47uRY2w _Pg75UKHaEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_cCqooKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_da_tgKHnEeaNLag47uRY2w" name="risk_management_rskm" guid="_da_tgKHnEeaNLag47uRY2w" presentationName="Risk Management (RSKM)" briefDescription="The purpose of Risk Management (RSKM) is to identify potential problems before they occur so that risk handling activities can be planned and invoked as needed across the life of the product or work to mitigate adverse impacts on achieving objectives." categorizedElements="_kMgwgKHaEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_d-KsAKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_fpx5QKHnEeaNLag47uRY2w" name="supplier_agreement_management_sam" guid="_fpx5QKHnEeaNLag47uRY2w" presentationName="Supplier Agreement Management (SAM)" briefDescription="The purpose of Supplier Agreement Management (SAM) is to manage the acquisition of products and services from suppliers." categorizedElements="_smALAKHaEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_gPnKMKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ihBzMKHnEeaNLag47uRY2w" name="service_continuity_scon" guid="_ihBzMKHnEeaNLag47uRY2w" presentationName="Service Continuity (SCON)" briefDescription="The purpose of Service Continuity (SCON) is to establish and maintain plans to ensure continuity of services during and following any significant disruption of normal operations.">
+            <methodElementProperty xmi:id="_jLMKgKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_kmQaUKHnEeaNLag47uRY2w" name="service_delivery_sd" guid="_kmQaUKHnEeaNLag47uRY2w" presentationName="Service Delivery (SD)" briefDescription="The purpose of Service Delivery (SD) is to deliver services in accordance with service agreements." categorizedElements="_smALAKHaEeaNLag47uRY2w _mt3S8KHaEeaNLag47uRY2w _iAdIoKHaEeaNLag47uRY2w _AXem4KHaEeaNLag47uRY2w _6Ym0sKHZEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_lPjO8KHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mVoGMKHnEeaNLag47uRY2w" name="service_system_development_ssd" guid="_mVoGMKHnEeaNLag47uRY2w" presentationName="Service System Development (SSD)" briefDescription="The purpose of Service System Development (SSD) is to analyze, design, develop, integrate, verify, and validate service systems, including service system components, to satisfy existing or anticipated service agreements.">
+            <methodElementProperty xmi:id="_n1bFAKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qi7NEKHnEeaNLag47uRY2w" name="service_system_transition_sst" guid="_qi7NEKHnEeaNLag47uRY2w" presentationName="Service System Transition (SST)" briefDescription="The purpose of Service System Transition (SST) is to deploy new or significantly changed service system components while managing their effect on ongoing service delivery.">
+            <methodElementProperty xmi:id="_rFE34KHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_sv2XoKHnEeaNLag47uRY2w" name="strategic_service_management_stsm" guid="_sv2XoKHnEeaNLag47uRY2w" presentationName="Strategic Service Management (STSM)" briefDescription="The purpose of Strategic Service Management (STSM) is to establish and maintain standard services in concert with strategic needs and plans.">
+            <methodElementProperty xmi:id="_tVe0QKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_uh2gwKHnEeaNLag47uRY2w" name="work_monitoring_and_control_wmc" guid="_uh2gwKHnEeaNLag47uRY2w" presentationName="Work Monitoring and Control (WMC)" briefDescription="The purpose of Work Monitoring and Control (WMC) is to provide an understanding of the ongoing work so that appropriate corrective actions can be taken when the performance deviates significantly from the plan.">
+            <methodElementProperty xmi:id="_vBwI0KHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_wnjB8KHnEeaNLag47uRY2w" name="work_planning_wp" guid="_wnjB8KHnEeaNLag47uRY2w" presentationName="Work Planning (WP)" briefDescription="The purpose of Work Planning (WP) is to establish and maintain plans that define work activities." categorizedElements="_qxMzQKHfEeaNLag47uRY2w _fqD8MKHeEeaNLag47uRY2w _yksvUKHgEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_xNUogKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_w7H4sKH8EeaNLag47uRY2w" name="playbook_navigation" guid="_w7H4sKH8EeaNLag47uRY2w" presentationName="Playbook Navigation" categorizedElements="_4L3J8KHREeaNLag47uRY2w _cSIqAKHREeaNLag47uRY2w _jBsY0KH-EeaNLag47uRY2w _yfcOUKIAEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_zaA9AKH8EeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ivFbUKH9EeaNLag47uRY2w" name="cmmi-srv" guid="_ivFbUKH9EeaNLag47uRY2w" presentationName="CMMI-SRV" briefDescription="Category hierarchy based CCMI for Services, VErsion 1.3" categorizedElements="_vt4rgKHmEeaNLag47uRY2w _0QAy4KHmEeaNLag47uRY2w _4tttQKHmEeaNLag47uRY2w _9TKOYKHmEeaNLag47uRY2w _ARwGcKHnEeaNLag47uRY2w _Cz_ZsKHnEeaNLag47uRY2w _Gd4RgKHnEeaNLag47uRY2w _O1WSwKHnEeaNLag47uRY2w _JgFeQKHnEeaNLag47uRY2w _MOZeoKHnEeaNLag47uRY2w _RnS18KHnEeaNLag47uRY2w _UCshYKHnEeaNLag47uRY2w _WathoKHnEeaNLag47uRY2w _Ypbb8KHnEeaNLag47uRY2w _bZDD4KHnEeaNLag47uRY2w _da_tgKHnEeaNLag47uRY2w _ihBzMKHnEeaNLag47uRY2w _kmQaUKHnEeaNLag47uRY2w _mVoGMKHnEeaNLag47uRY2w _qi7NEKHnEeaNLag47uRY2w _sv2XoKHnEeaNLag47uRY2w _fpx5QKHnEeaNLag47uRY2w _uh2gwKHnEeaNLag47uRY2w _wnjB8KHnEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_qGyBoKH9EeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_jBsY0KH-EeaNLag47uRY2w" name="diagnose" guid="_jBsY0KH-EeaNLag47uRY2w" presentationName="Diagnose">
+            <methodElementProperty xmi:id="_kWEKwKH-EeaNLag47uRY2w" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="#_twL70KH-EeaNLag47uRY2w"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_-Uvd0KH_EeaNLag47uRY2w#_-Uvd0aH_EeaNLag47uRY2w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_yfcOUKIAEeaNLag47uRY2w" name="initiate" guid="_yfcOUKIAEeaNLag47uRY2w" presentationName="Initiate">
+            <methodElementProperty xmi:id="_053pYKIAEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_GpjhkKHdEeaNLag47uRY2w#_GpjhkaHdEeaNLag47uRY2w"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M9BrC6E-EeaNLag47uRY2w" name="CoreContent" guid="_M9BrC6E-EeaNLag47uRY2w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_liUJQKE_EeaNLag47uRY2w" name="common" guid="_liUJQKE_EeaNLag47uRY2w" presentationName="Common" briefDescription="Content package that holds elements that are not specific to a phase or other area of the methodology.">
+          <methodElementProperty xmi:id="_liUJQaE_EeaNLag47uRY2w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_wdak4KE_EeaNLag47uRY2w" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_04zLEKE_EeaNLag47uRY2w" name="process_centric_overview" guid="_04zLEKE_EeaNLag47uRY2w" presentationName="Process Centric Overview" briefDescription="Process Centric Implementation is a business software solution implementation methodology that is used by Stoneridge Software to ensure a consistent, predictable and successful implementation for our clients.">
+            <methodElementProperty xmi:id="_05Fe8KE_EeaNLag47uRY2w" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_pPbCQKFBEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-xMleufYGUV3oGiq7du2tfg" href="uma://-xMleufYGUV3oGiq7du2tfg#-xMleufYGUV3oGiq7du2tfg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_cSIqAKHREeaNLag47uRY2w" name="using_this_playbook" guid="_cSIqAKHREeaNLag47uRY2w" presentationName="Using This Playbook" guidelines="_-wQqQKIBEeaNLag47uRY2w _Q3bD8KICEeaNLag47uRY2w _bQzSkKICEeaNLag47uRY2w _jNeHoKHVEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_iebNIKHREeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_4L3J8KHREeaNLag47uRY2w" name="introduction_to_the_client_delivery_playbook" guid="_4L3J8KHREeaNLag47uRY2w" presentationName="Introduction to the Client Delivery Playbook" briefDescription="This playbook is intended to give our consultants the information they need to delivery cliemt solutions consistently.">
+            <methodElementProperty xmi:id="_4MI2wKHREeaNLag47uRY2w" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_S5VSIKHSEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-RZO1xfRrPPXhIf3a0-WHDA" href="uma://-RZO1xfRrPPXhIf3a0-WHDA#-RZO1xfRrPPXhIf3a0-WHDA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_jNeHoKHVEeaNLag47uRY2w" name="using_guidance" guid="_jNeHoKHVEeaNLag47uRY2w" presentationName="Using Guidance" briefDescription="There are 14 types of guidance elements. Each one provides unique value to your project." supportingMaterials="_rayccKHXEeaNLag47uRY2w _6E6ukKHXEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_FurccKHXEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_zJEBoKHVEeaNLag47uRY2w" name="checklist_term_definition" guid="_zJEBoKHVEeaNLag47uRY2w" presentationName="Checklist Term Definition">
+            <methodElementProperty xmi:id="_4iFUwKHVEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-p_-9TqerRy7orpBfaO95fA" href="uma://-p_-9TqerRy7orpBfaO95fA#-p_-9TqerRy7orpBfaO95fA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_6NcqYKHVEeaNLag47uRY2w" name="concept_term_definition" guid="_6NcqYKHVEeaNLag47uRY2w" presentationName="Concept Term Definition">
+            <methodElementProperty xmi:id="__bLTgKHVEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-luiVPlPBXq6vWGaeCe5VCg" href="uma://-luiVPlPBXq6vWGaeCe5VCg#-luiVPlPBXq6vWGaeCe5VCg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_CEjwkKHWEeaNLag47uRY2w" name="example_definition" guid="_CEjwkKHWEeaNLag47uRY2w" presentationName="Example Definition">
+            <methodElementProperty xmi:id="_D-EP4KHWEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-bgP0s8WKeal6I-HV4uU2aw" href="uma://-bgP0s8WKeal6I-HV4uU2aw#-bgP0s8WKeal6I-HV4uU2aw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_E-yGAKHWEeaNLag47uRY2w" name="guideline_definition" guid="_E-yGAKHWEeaNLag47uRY2w" presentationName="Guideline Definition">
+            <methodElementProperty xmi:id="_PxpLoKHWEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-wcAlevp26naM9YD612QX9w" href="uma://-wcAlevp26naM9YD612QX9w#-wcAlevp26naM9YD612QX9w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_RWKSYKHWEeaNLag47uRY2w" name="estimation_considerations_definition" guid="_RWKSYKHWEeaNLag47uRY2w" presentationName="Estimation Considerations Definition">
+            <methodElementProperty xmi:id="_XPwjAKHWEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-IbNFSOl_XM6lFStcFwVnSQ" href="uma://-IbNFSOl_XM6lFStcFwVnSQ#-IbNFSOl_XM6lFStcFwVnSQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_YixqEKHWEeaNLag47uRY2w" name="practice_definition" guid="_YixqEKHWEeaNLag47uRY2w" presentationName="Practice Definition">
+            <methodElementProperty xmi:id="_FOHGAKHXEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-wAiDeVASGr-sH0AHQznURA" href="uma://-wAiDeVASGr-sH0AHQznURA#-wAiDeVASGr-sH0AHQznURA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_eMJGUKHWEeaNLag47uRY2w" name="report_definition" guid="_eMJGUKHWEeaNLag47uRY2w" presentationName="Report Definition">
+            <methodElementProperty xmi:id="_tsa9UKHWEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-Vi265nkhwNga9NSVjpvBwA" href="uma://-Vi265nkhwNga9NSVjpvBwA#-Vi265nkhwNga9NSVjpvBwA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_xA8CEKHWEeaNLag47uRY2w" name="reusable_asset_definition" guid="_xA8CEKHWEeaNLag47uRY2w" presentationName="Reusable Asset Definition">
+            <methodElementProperty xmi:id="_1GT8AKHWEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-W3WYRwsbgIYU91Q5kzbLtQ" href="uma://-W3WYRwsbgIYU91Q5kzbLtQ#-W3WYRwsbgIYU91Q5kzbLtQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_2agHwKHWEeaNLag47uRY2w" name="road_map_definition" guid="_2agHwKHWEeaNLag47uRY2w" presentationName="Road Map Definition">
+            <methodElementProperty xmi:id="_-PCbEKHWEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-94ePuA6sGg0NR5RURi1U7Q" href="uma://-94ePuA6sGg0NR5RURi1U7Q#-94ePuA6sGg0NR5RURi1U7Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_AlTu4KHXEeaNLag47uRY2w" name="supporting_material_definition" guid="_AlTu4KHXEeaNLag47uRY2w" presentationName="Supporting Material Definition">
+            <methodElementProperty xmi:id="_EnaSYKHXEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-Ks4bljDj3iXoc293a52bpg" href="uma://-Ks4bljDj3iXoc293a52bpg#-Ks4bljDj3iXoc293a52bpg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GmZHkKHXEeaNLag47uRY2w" name="template_definition" guid="_GmZHkKHXEeaNLag47uRY2w" presentationName="Template Definition">
+            <methodElementProperty xmi:id="_McxsIKHXEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-wPl2EWMw0Pjm-ZLheuN6jg" href="uma://-wPl2EWMw0Pjm-ZLheuN6jg#-wPl2EWMw0Pjm-ZLheuN6jg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_RiJqgKHXEeaNLag47uRY2w" name="term_definition_definition" guid="_RiJqgKHXEeaNLag47uRY2w" presentationName="Term Definition Definition">
+            <methodElementProperty xmi:id="_ZsZIEKHXEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-VeBarcaLBZF0G5UPqHW3RQ" href="uma://-VeBarcaLBZF0G5UPqHW3RQ#-VeBarcaLBZF0G5UPqHW3RQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_rayccKHXEeaNLag47uRY2w" name="checklist_definition" guid="_rayccKHXEeaNLag47uRY2w" presentationName="Checklist Definition" briefDescription="A checklist Identifies a series of items that need to be completed or verified.  Checklists are often used in reviews, such as walkthroughs or inspections.">
+            <methodElementProperty xmi:id="_1F0-YKHXEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_6E6ukKHXEeaNLag47uRY2w" name="concept_definition" guid="_6E6ukKHXEeaNLag47uRY2w" presentationName="Concept Definition" briefDescription="Concepts outline key ideas associated with basic principles underlying the referenced item.  Concepts normally address more general topics than guidelines and span across several work product, tasks, or activities">
+            <methodElementProperty xmi:id="_ABs2EKHYEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_-wQqQKIBEeaNLag47uRY2w" name="access_the_playbook" guid="_-wQqQKIBEeaNLag47uRY2w" presentationName="Access the Playbook" briefDescription="This is where we will put the instructions to access the playbook">
+            <methodElementProperty xmi:id="_C7qTsKICEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_Q3bD8KICEeaNLag47uRY2w" name="search_the_playbook" guid="_Q3bD8KICEeaNLag47uRY2w" presentationName="Search the Playbook" briefDescription="We have designed the playbook to provide what you need at your fingertips. Although the structure should make it easy to go directly to the content you need, sometimes you just need to search for something.">
+            <methodElementProperty xmi:id="_TFihUKICEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-vOGtlkekvA5aCNG2Nn_fIw" href="uma://-vOGtlkekvA5aCNG2Nn_fIw#-vOGtlkekvA5aCNG2Nn_fIw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_bQzSkKICEeaNLag47uRY2w" name="contribute_to_the_playbook" guid="_bQzSkKICEeaNLag47uRY2w" presentationName="Contribute to the Playbook" briefDescription="This playbook is a living document. We want to continuously improve our methodology to remain the best in our industry. To accomplish that we need your input.">
+            <methodElementProperty xmi:id="_fCTOQKICEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-xM_B7oAB6qoJwQHBwZYhbg" href="uma://-xM_B7oAB6qoJwQHBwZYhbg#-xM_B7oAB6qoJwQHBwZYhbg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iZIj0KHZEeaNLag47uRY2w" name="diagnose_phase" guid="_iZIj0KHZEeaNLag47uRY2w" presentationName="Diagnose Phase" briefDescription="This is where we define the diagnose phase.">
+          <methodElementProperty xmi:id="_iZIj0aHZEeaNLag47uRY2w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_rLr-kKHZEeaNLag47uRY2w" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_zqk2cKHZEeaNLag47uRY2w" name="solution_overview" guid="_zqk2cKHZEeaNLag47uRY2w" presentationName="Solution Overview">
+            <methodElementProperty xmi:id="_TtpxYKHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6Ym0sKHZEeaNLag47uRY2w" name="select_lead" guid="_6Ym0sKHZEeaNLag47uRY2w" presentationName="Select Lead">
+            <methodElementProperty xmi:id="__wQ14KHZEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_AXem4KHaEeaNLag47uRY2w" name="qualify_lead" guid="_AXem4KHaEeaNLag47uRY2w" presentationName="Qualify Lead">
+            <methodElementProperty xmi:id="_BTVyMKHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CI8kgKHaEeaNLag47uRY2w" name="create_solution_overview" guid="_CI8kgKHaEeaNLag47uRY2w" presentationName="Create Solution Overview" output="_zqk2cKHZEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_L34H8KHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-g0ZvkvzHMSIqLMnzoSVdYg" href="uma://-g0ZvkvzHMSIqLMnzoSVdYg#-g0ZvkvzHMSIqLMnzoSVdYg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Pg75UKHaEeaNLag47uRY2w" name="develop_strategy" guid="_Pg75UKHaEeaNLag47uRY2w" presentationName="Develop Strategy">
+            <methodElementProperty xmi:id="_SZWQ4KHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_W5xvIKHaEeaNLag47uRY2w" name="conduct_sales_discovery" guid="_W5xvIKHaEeaNLag47uRY2w" presentationName="Conduct Sales Discovery">
+            <methodElementProperty xmi:id="_YKM1MKHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_iAdIoKHaEeaNLag47uRY2w" name="present_value" guid="_iAdIoKHaEeaNLag47uRY2w" presentationName="Present Value">
+            <methodElementProperty xmi:id="_jISTYKHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_kMgwgKHaEeaNLag47uRY2w" name="negotiate_terms" guid="_kMgwgKHaEeaNLag47uRY2w" presentationName="Negotiate Terms">
+            <methodElementProperty xmi:id="_lsiY0KHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mt3S8KHaEeaNLag47uRY2w" name="manage_proposals" guid="_mt3S8KHaEeaNLag47uRY2w" presentationName="Manage Proposals">
+            <methodElementProperty xmi:id="_nkZ5YKHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-ewiafA7MMYSBVg_oDVGQgw" href="uma://-ewiafA7MMYSBVg_oDVGQgw#-ewiafA7MMYSBVg_oDVGQgw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_smALAKHaEeaNLag47uRY2w" name="manage_contracts" guid="_smALAKHaEeaNLag47uRY2w" presentationName="Manage Contracts" briefDescription="Description of Manage Contracts goes here." mandatoryInput="_zqk2cKHZEeaNLag47uRY2w" output="_woAA0KHaEeaNLag47uRY2w _DSwPwKHbEeaNLag47uRY2w _5NyK4KHaEeaNLag47uRY2w _2UV4kKHaEeaNLag47uRY2w" optionalInput="_AeRV8KHbEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_tTvawKHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_woAA0KHaEeaNLag47uRY2w" name="master_service_agreement_msa" guid="_woAA0KHaEeaNLag47uRY2w" presentationName="Master Service Agreement (MSA)">
+            <methodElementProperty xmi:id="_1UVNEKHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_2UV4kKHaEeaNLag47uRY2w" name="software_purchase_agreement_spa" guid="_2UV4kKHaEeaNLag47uRY2w" presentationName="Software Purchase Agreement (SPA)">
+            <methodElementProperty xmi:id="_4FSRwKHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_5NyK4KHaEeaNLag47uRY2w" name="satement_of_work_sow" guid="_5NyK4KHaEeaNLag47uRY2w" presentationName="Satement of Work (SOW)">
+            <methodElementProperty xmi:id="_6RlKMKHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_76uSQKHaEeaNLag47uRY2w" name="change_order" guid="_76uSQKHaEeaNLag47uRY2w" presentationName="Change Order">
+            <methodElementProperty xmi:id="_81OysKHaEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_AeRV8KHbEeaNLag47uRY2w" name="subcontract_agreement" guid="_AeRV8KHbEeaNLag47uRY2w" presentationName="Subcontract Agreement">
+            <methodElementProperty xmi:id="_B4f4QKHbEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_DSwPwKHbEeaNLag47uRY2w" name="non-disclosure_agreement_nda" guid="_DSwPwKHbEeaNLag47uRY2w" presentationName="Non-Disclosure Agreement (NDA)">
+            <methodElementProperty xmi:id="_F-_MgKHbEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jWzMUKHhEeaNLag47uRY2w" name="estimate_worksheet" guid="_jWzMUKHhEeaNLag47uRY2w" presentationName="Estimate Worksheet">
+            <methodElementProperty xmi:id="_kvUecKHhEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_twL70KH-EeaNLag47uRY2w" name="diagnose_phase_overview" guid="_twL70KH-EeaNLag47uRY2w" presentationName="Diagnose Phase Overview">
+            <methodElementProperty xmi:id="_jvk9EKH_EeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-hV4fPS1PO1L-XVYsUqs_Og" href="uma://-hV4fPS1PO1L-XVYsUqs_Og#-hV4fPS1PO1L-XVYsUqs_Og"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_71zgkKHbEeaNLag47uRY2w" name="initiate_phase" guid="_71zgkKHbEeaNLag47uRY2w" presentationName="Initiate Phase" briefDescription="During the Initiation phase we collaborate with the customer to plan the project. This will include determining the initial scope, budget and time line for the project. It will also include an agreed upon methodology and governance of the project execution.&#xD;&#xA;">
+          <methodElementProperty xmi:id="_71zgkaHbEeaNLag47uRY2w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_DNv-gKHcEeaNLag47uRY2w" name="me_edited" value="true"/>
+          <methodElementProperty xmi:id="_KNQHQKHcEeaNLag47uRY2w" name="pakage_supporting" value="false"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_fqD8MKHeEeaNLag47uRY2w" name="project_management_plan_pmp" guid="_fqD8MKHeEeaNLag47uRY2w" presentationName="Project Management Plan (PMP)">
+            <methodElementProperty xmi:id="_v0GP8KHgEeaNLag47uRY2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qxMzQKHfEeaNLag47uRY2w" name="conduct_sales_handoff_meeting" guid="_qxMzQKHfEeaNLag47uRY2w" presentationName="Conduct Sales Handoff Meeting" briefDescription="Once the project resources have been identified, Stoneridge Software will hold an internal meeting to transition the customer from the diagnose (sales) phase to the Initiate phase." mandatoryInput="_yksvUKHgEeaNLag47uRY2w" optionalInput="_jWzMUKHhEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_ucKMoKHgEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-CKz4wg5YGuWRJ1-0dMUnaw" href="uma://-CKz4wg5YGuWRJ1-0dMUnaw#-CKz4wg5YGuWRJ1-0dMUnaw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yksvUKHgEeaNLag47uRY2w" name="project_profile" guid="_yksvUKHgEeaNLag47uRY2w" presentationName="Project Profile" briefDescription="The project profile contains a summary of the information gathered during the diagnose phase." templates="_DkyWwKHiEeaNLag47uRY2w">
+            <methodElementProperty xmi:id="_GrwkMKHhEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-dVbCgG2LguDhp3qdNIsLaw" href="uma://-dVbCgG2LguDhp3qdNIsLaw#-dVbCgG2LguDhp3qdNIsLaw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_DkyWwKHiEeaNLag47uRY2w" name="project_profile_template" guid="_DkyWwKHiEeaNLag47uRY2w" presentationName="Project Profile Template">
+            <methodElementProperty xmi:id="_VmPKAKHiEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-6tP3pxphIn9TiVMc8r7NLQ" href="uma://-6tP3pxphIn9TiVMc8r7NLQ#-6tP3pxphIn9TiVMc8r7NLQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_M9BrDKE-EeaNLag47uRY2w" name="CapabilityPatterns" guid="_M9BrDKE-EeaNLag47uRY2w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_M9BrDaE-EeaNLag47uRY2w" name="DeliveryProcesses" guid="_M9BrDaE-EeaNLag47uRY2w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_GpjhkKHdEeaNLag47uRY2w" href="uma://_GpjhkKHdEeaNLag47uRY2w#_GpjhkKHdEeaNLag47uRY2w"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_-Uvd0KH_EeaNLag47uRY2w" href="uma://_-Uvd0KH_EeaNLag47uRY2w#_-Uvd0KH_EeaNLag47uRY2w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_M9BrDqE-EeaNLag47uRY2w" name="ProcessContributions" guid="_M9BrDqE-EeaNLag47uRY2w"/>
+    <bases href="uma://_MRPloEFXEdy9ENCpSugIjA#_MRPloEFXEdy9ENCpSugIjA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

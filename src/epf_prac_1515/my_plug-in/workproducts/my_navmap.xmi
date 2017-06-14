@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wihiOAUPGoED3fcFWDx6Rg" name="new_artifact,_AsNZcKEZEeaNLag47uRY2w" guid="-wihiOAUPGoED3fcFWDx6Rg" changeDate="2016-11-02T11:27:56.265-0500">
+  <purpose>Used as an example of how to create a work product in epf.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

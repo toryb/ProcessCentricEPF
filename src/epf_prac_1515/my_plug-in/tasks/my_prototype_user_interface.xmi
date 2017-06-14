@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-snyVMIg8ej1lU374kMLymg" name=",_9YmowKEaEeaNLag47uRY2w" guid="-snyVMIg8ej1lU374kMLymg" changeDate="2016-11-02T11:40:27.100-0500">
+  <sections xmi:id="_E0pjkKEbEeaNLag47uRY2w" name="Design the user interface prototype" guid="_E0pjkKEbEeaNLag47uRY2w"/>
+  <sections xmi:id="_FwPpIKEbEeaNLag47uRY2w" name="Implement the user interface prototype" guid="_FwPpIKEbEeaNLag47uRY2w"/>
+  <purpose>To prototype the system's user interface in an atte mpt to validate the user-interface design against the func tional and&#xD;
+usability requirements.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ewiafA7MMYSBVg_oDVGQgw" name=",_mt3S8KHaEeaNLag47uRY2w" guid="-ewiafA7MMYSBVg_oDVGQgw">
+  <sections xmi:id="_oFDIUKHaEeaNLag47uRY2w" name="Respond to RFP" guid="_oFDIUKHaEeaNLag47uRY2w"/>
+  <sections xmi:id="_pfzPEKHaEeaNLag47uRY2w" name="Demonstrate Proposed Solution" guid="_pfzPEKHaEeaNLag47uRY2w"/>
+</org.eclipse.epf.uma:TaskDescription>

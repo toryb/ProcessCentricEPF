@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-p_-9TqerRy7orpBfaO95fA" name="new_term_definition,_zJEBoKHVEeaNLag47uRY2w" guid="-p_-9TqerRy7orpBfaO95fA">
+  <mainDescription>A checklist Identifies a series of items that need to be completed or verified.&amp;nbsp; Checklists are often used in reviews,&#xD;
+such as walkthroughs or inspections.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

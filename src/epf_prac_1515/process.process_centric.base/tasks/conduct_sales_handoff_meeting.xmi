@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CKz4wg5YGuWRJ1-0dMUnaw" name=",_qxMzQKHfEeaNLag47uRY2w" guid="-CKz4wg5YGuWRJ1-0dMUnaw" changeDate="2016-11-03T11:09:09.429-0500">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The sales handoff meeting is lead by the sales team. The intention is to provide to the project team,&#xD;
+    relevant information that was gathered during the sales cycle. The primary means for providing that information is the&#xD;
+    Project Profile. The project profile will be provided by the sales team and reviewed during the Sales Handoff&#xD;
+    meeting.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        All members of the sales team that were involved in this sale will participate in the sales handoff meeting&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        All expected delivery team members will participate in the sales handoff meeting&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A representative from the Accounting team will participate in the sales handoff meeting (for billing and&#xD;
+        collections details)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The sales team and Project Manager will schedule the Sales Handoff meeting within one week of signing the contract&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A completed version the Project Profile will be delivered to the delivery team at least 48 hours prior to the sales&#xD;
+        handoff meeting&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <purpose>&lt;p>&#xD;
+    The purpose of the Sales Handoff Meeting is to provide a knowledge transfer from the sales team to the project team.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

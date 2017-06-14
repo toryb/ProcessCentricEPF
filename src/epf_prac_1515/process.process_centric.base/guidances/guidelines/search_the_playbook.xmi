@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vOGtlkekvA5aCNG2Nn_fIw" name="new_guideline,_Q3bD8KICEeaNLag47uRY2w" guid="-vOGtlkekvA5aCNG2Nn_fIw">
+  <mainDescription>This is where the instructions will go to search the playbook.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

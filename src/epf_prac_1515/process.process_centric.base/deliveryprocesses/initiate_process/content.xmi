@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-xYniUx5rd9hqnO3703JNgw" name="Initiate,_GpjhkaHdEeaNLag47uRY2w" guid="-xYniUx5rd9hqnO3703JNgw">
+    <purpose>&amp;nbsp;The goal for the Initiation phase is to agree on and document the project and solution definition.</purpose>
+    <scope>The scope of the initiate process starts from a signed Statement of Work and ends with the Project Kickoff</scope>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-imsYaKG06EqfWBeUpokFUA" name="Prepare Internally for Project,_6ZPxEaHdEeaNLag47uRY2w" guid="-imsYaKG06EqfWBeUpokFUA">
+    <mainDescription>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>After completing the sale, the Stoneridge management team will determine which resources should be&#xD;
+    allocated to this particular implementation project. He/she will work with the project manager, once assigned, to&#xD;
+    understand the project plan and who is going to be needed at what time on the project. Once the resources have been&#xD;
+    identified, Stoneridge Software will hold an internal meeting to transition the customer from the sales phase to the&#xD;
+    implementation planning phase.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+    <purpose>The purpose of this process is to make sure the correct resources are assigned to the project, that the project is fully&#xD;
+resrouced and the project team has all of the information learned during the Diagnose phase.</purpose>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ytZXsCCT-GLvsQHD_w_LCg" name="conduct_sales_handoff_meeting,_Jz1dsKIIEeaNLag47uRY2w" guid="-ytZXsCCT-GLvsQHD_w_LCg">
+    <keyConsiderations>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        All members of the sales team that were involved in this sale will participate in the sales handoff meeting&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        All expected delivery team members will participate in the sales handoff meeting&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A representative from the Accounting team will participate in the sales handoff meeting (for billing and&#xD;
+        collections details)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The sales team and Project Manager will schedule the Sales Handoff meeting within one week of signing the contract&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A completed version the Project Profile will be delivered to the delivery team at least 48 hours prior to the sales&#xD;
+        handoff meeting&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+    <refinedDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The sales handoff meeting is lead by the sales team. The intention is to provide to the project team,&#xD;
+    relevant information that was gathered during the sales cycle. The primary means for providing that information is the&#xD;
+    Project Profile. The project profile will be provided by the sales team and reviewed during the Sales Handoff&#xD;
+    meeting.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1c3s9FOvijppZcbFrgkERg" name="project_profile,_Jz3S4KIIEeaNLag47uRY2w" guid="-1c3s9FOvijppZcbFrgkERg">
+    <refinedDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px'>&#xD;
+    &lt;font size=&quot;2&quot;>The purpose of this document is to provide a basis for a smooth transition of an account from sales to&#xD;
+    operations and serve as a general agenda to facilitate the Sales Handoff meeting itself. It will additionally serve as&#xD;
+    a reference for the delivery team, recognizing the data was captured at a point in time, and is subject to change. The&#xD;
+    sales team owns this document and included content, but will ask for contribution from Finance and Delivery team&#xD;
+    members for certain portions. A completed version of this document is to be delivered to the delivery team at least 48&#xD;
+    hours prior to the sales handoff meeting.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px'>&#xD;
+    &lt;font size=&quot;2&quot;>All members of the sales team will participate in the sales handoff meeting, as will all expected&#xD;
+    delivery team members, and a representative from the Accounting team (for billing and collections details).&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px'>&#xD;
+    &lt;font size=&quot;2&quot;>The sales team, and PM will schedule the Sales Handoff meeting within one week of signing the contract.&#xD;
+    The sales team will facilitate completion of this document and collection of any artifacts and documents herein.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px'>&#xD;
+    &lt;font size=&quot;2&quot;>This document is initiated as soon as the sales process starts, and subsets of the information contained&#xD;
+    within this document will be used as input into the SOW. However, the purpose of this document is to state the&#xD;
+    background and reasons on how the sales team came to conclusions as to what is included in the estimates supporting the&#xD;
+    SOW.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

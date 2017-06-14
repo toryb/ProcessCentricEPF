@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xMleufYGUV3oGiq7du2tfg" name="process_centric_overview,_04zLEKE_EeaNLag47uRY2w" guid="-xMleufYGUV3oGiq7du2tfg" changeDate="2016-11-03T09:44:11.181-0500">
+  <mainDescription>&lt;br />&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&lt;img alt=&quot;Process Centric Methodology Infographic&quot; src=&quot;resources/PCM.png&quot; width=&quot;600&quot; height=&quot;428&quot; />&#xD;
+&lt;/p></mainDescription>
+  <problem>&lt;p>&#xD;
+    The purpose of Process Centric Implementation is to succesfully implement a business&amp;nbsp;software solution with&#xD;
+    predictable outcomes.&#xD;
+&lt;/p></problem>
+  <background>Process Centric Implementation was developed over multiple decades of consulting by Tory Bjorklund to fill a void in the&#xD;
+marketplace. Tory joined Stoneridge Software in 2013 and led an initiative to adopt this methodology for all implementation&#xD;
+projects undertaken by Stoneridge Software.</background>
+  <goals>&lt;p>&#xD;
+    Process Centric Implementation is driven by the Client Delivery Manifesto (link) that was developed by Stoneridge&#xD;
+    Software as a declaration of our intent to create an implementation methodology that would meet the demands of the&#xD;
+    marketplace and fill a void to delivery usable business software solution in a predictable manner with outcomes that&#xD;
+    meet our client expectations.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The specific goals Process Centric implementation addresses as outlined in the manifesto are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Deliver a solution within the time and budget constraints of the original Statement of Work&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Measurably enhance the client's ability to conduct their business&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Maintain and support the solution for its entire lifecycle&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></goals>
+</org.eclipse.epf.uma:PracticeDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0W_q3qrVqmXePzmO1eHBcQ" name="my_design_user_interface,_4jd7QKEZEeaNLag47uRY2w" guid="-0W_q3qrVqmXePzmO1eHBcQ" changeDate="2016-11-02T11:32:51.461-0500">
+  <sections xmi:id="_AQ79QKEaEeaNLag47uRY2w" name="Describe the characteristics of related users" guid="_AQ79QKEaEeaNLag47uRY2w"/>
+  <sections xmi:id="_D_6JYKEaEeaNLag47uRY2w" name="Identify the primary user interface element" guid="_D_6JYKEaEeaNLag47uRY2w"/>
+  <purpose>To produce a design of the user interface that can be used to validate the new layout.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

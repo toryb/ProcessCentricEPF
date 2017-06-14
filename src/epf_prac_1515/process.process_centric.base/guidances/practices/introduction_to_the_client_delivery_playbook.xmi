@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RZO1xfRrPPXhIf3a0-WHDA" name="new_practice,_4L3J8KHREeaNLag47uRY2w" guid="-RZO1xfRrPPXhIf3a0-WHDA" changeDate="2016-11-03T09:31:44.139-0500">
+  <goals>&lt;p>&#xD;
+    The goals for this playbook are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Goal 1&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Goal 2&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></goals>
+</org.eclipse.epf.uma:PracticeDescription>

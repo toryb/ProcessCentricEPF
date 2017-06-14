@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MNNdVEvvsYK2uIMqed6AoQ" name="new_checklist,_hgkgAKEcEeaNLag47uRY2w" guid="-MNNdVEvvsYK2uIMqed6AoQ">
+  <sections xmi:id="_mSldgKEcEeaNLag47uRY2w" name="Create branding specifications" guid="_mSldgKEcEeaNLag47uRY2w"/>
+  <sections xmi:id="_n8_J0KEcEeaNLag47uRY2w" name="Define physical specifications" guid="_n8_J0KEcEeaNLag47uRY2w"/>
+</org.eclipse.epf.uma:ContentDescription>

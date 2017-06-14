@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nPi84nrlXbZVKo24lxi-5g" name="functional_deisgn_document_fdd,_wulSwFEaEee9psJ80yTN6Q" guid="-nPi84nrlXbZVKo24lxi-5g" changeDate="2017-06-14T11:08:41.275-0500">
+  <mainDescription>This is where we put the main description.</mainDescription>
+  <purpose>The purpose for the FDD is to document the functional desig for the implementation of a process</purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

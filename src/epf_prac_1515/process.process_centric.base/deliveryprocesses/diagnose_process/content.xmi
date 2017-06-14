@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliveryProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-agmsmUqstnDoCOPbVCU9iw" name="Diagnose,_-Uvd0aH_EeaNLag47uRY2w" guid="-agmsmUqstnDoCOPbVCU9iw">
+  <purpose>&lt;p class=&quot;MsoNormal&quot;>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 9pt&quot;>The goal for the diagnose process is to help the client determine the right solution to&#xD;
+    meet their needs.&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:DeliveryProcessDescription>

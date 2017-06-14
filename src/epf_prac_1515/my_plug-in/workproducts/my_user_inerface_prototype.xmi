@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AveCFucllN7zG5zUfStRSg" name="new_artifact,_WnBq8KEZEeaNLag47uRY2w" guid="-AveCFucllN7zG5zUfStRSg">
+  <purpose>To provide a realistic experience of the look and f eel of a user interface.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-luiVPlPBXq6vWGaeCe5VCg" name="new_term_definition,_6NcqYKHVEeaNLag47uRY2w" guid="-luiVPlPBXq6vWGaeCe5VCg">
+  <mainDescription>Concepts outline key ideas associated with basic principles underlying the referenced item.&amp;nbsp; Concepts normally address&#xD;
+more general topics than guidelines and span across several work product, tasks, or activities</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

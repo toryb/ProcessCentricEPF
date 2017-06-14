@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wPl2EWMw0Pjm-ZLheuN6jg" name="new_term_definition,_GmZHkKHXEeaNLag47uRY2w" guid="-wPl2EWMw0Pjm-ZLheuN6jg" changeDate="2016-11-03T10:06:46.836-0500">
+  <mainDescription>A template provides for a work product a predefined table of contents, sections, packages, headings, a standardised format,&#xD;
+in addition to descriptions about how the sections and packages are supposed to be used and completed.&amp;nbsp; Templates can&#xD;
+be provided for documents and also for conceptual models or physical data stores.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

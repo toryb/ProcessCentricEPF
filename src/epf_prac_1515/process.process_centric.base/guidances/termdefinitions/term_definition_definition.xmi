@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VeBarcaLBZF0G5UPqHW3RQ" name="new_term_definition,_RiJqgKHXEeaNLag47uRY2w" guid="-VeBarcaLBZF0G5UPqHW3RQ" changeDate="2016-11-03T10:08:07.920-0500">
+  <mainDescription>&lt;p>&#xD;
+    Term definitions define concepts used to enhance the Glossary.&amp;nbsp; A term definition is not directly related to&#xD;
+    content elements, but its relationship is being derived when the term is used in the content elements description text.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This element is a term definition.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

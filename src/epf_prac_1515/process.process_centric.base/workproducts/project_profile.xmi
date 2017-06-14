@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dVbCgG2LguDhp3qdNIsLaw" name="new_artifact,_yksvUKHgEeaNLag47uRY2w" guid="-dVbCgG2LguDhp3qdNIsLaw" changeDate="2016-11-03T11:19:25.445-0500">
+  <mainDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px'>&#xD;
+    &lt;font size=&quot;2&quot;>The purpose of this document is to provide a basis for a smooth transition of an account from sales to&#xD;
+    operations and serve as a general agenda to facilitate the Sales Handoff meeting itself. It will additionally serve as&#xD;
+    a reference for the delivery team, recognizing the data was captured at a point in time, and is subject to change. The&#xD;
+    sales team owns this document and included content, but will ask for contribution from Finance and Delivery team&#xD;
+    members for certain portions. A completed version of this document is to be delivered to the delivery team at least 48&#xD;
+    hours prior to the sales handoff meeting.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px'>&#xD;
+    &lt;font size=&quot;2&quot;>All members of the sales team will participate in the sales handoff meeting, as will all expected&#xD;
+    delivery team members, and a representative from the Accounting team (for billing and collections details).&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px'>&#xD;
+    &lt;font size=&quot;2&quot;>The sales team, and PM will schedule the Sales Handoff meeting within one week of signing the contract.&#xD;
+    The sales team will facilitate completion of this document and collection of any artifacts and documents herein.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px'>&#xD;
+    &lt;font size=&quot;2&quot;>This document is initiated as soon as the sales process starts, and subsets of the information contained&#xD;
+    within this document will be used as input into the SOW. However, the purpose of this document is to state the&#xD;
+    background and reasons on how the sales team came to conclusions as to what is included in the estimates supporting the&#xD;
+    SOW.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>The purpose of the project profile is to provide a summary of the project information gathered during the diagnose phase.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

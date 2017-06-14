@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Svllcalp2HABLlIVdopIdg" name=",_Y45GQKEhEeaNLag47uRY2w" guid="-Svllcalp2HABLlIVdopIdg" changeDate="2016-11-02T12:26:41.063-0500">
+  <mainDescription>Contributing Main Description text</mainDescription>
+  <sections xmi:id="_kp_VwKEhEeaNLag47uRY2w" name="Contributing Step 2" guid="_kp_VwKEhEeaNLag47uRY2w"/>
+  <sections xmi:id="_jz4NIKEhEeaNLag47uRY2w" name="Contributing Step 1" guid="_jz4NIKEhEeaNLag47uRY2w"/>
+  <purpose>Contributing Purpose text</purpose>
+</org.eclipse.epf.uma:TaskDescription>
