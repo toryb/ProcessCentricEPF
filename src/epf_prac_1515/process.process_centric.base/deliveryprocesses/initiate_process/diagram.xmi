@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:org.eclipse.epf.diagram.model="http://www.eclipse.org/epf/diagram/1.0.0/diagram.ecore" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
   <uml:Activity xmi:id="_HbffYKHeEeaNLag47uRY2w" name="Initiate">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_HbffYaHeEeaNLag47uRY2w" source="uma_element">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HbffYqHeEeaNLag47uRY2w" key="uri" value="uma://_GpjhkKHdEeaNLag47uRY2w#_GpjhkaHdEeaNLag47uRY2w"/>
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HbffY6HeEeaNLag47uRY2w" key="type" value="Activity"/>
     </eAnnotations>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_Hb9ZcKHeEeaNLag47uRY2w" name="Prepare Internally for Project" outgoing="_QPBxkKHeEeaNLag47uRY2w">
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_Hb9ZcKHeEeaNLag47uRY2w" name="Project Preparation" outgoing="_QPBxkKHeEeaNLag47uRY2w">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Hb9ZcaHeEeaNLag47uRY2w" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Hb9ZcqHeEeaNLag47uRY2w" key="uri" value="uma://_GpjhkKHdEeaNLag47uRY2w#_6ZPxEaHdEeaNLag47uRY2w"/>
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Hb9Zc6HeEeaNLag47uRY2w" key="type" value="Activity"/>
@@ -145,5 +145,37 @@
       <styles xmi:type="notation:LineStyle" xmi:id="_Y9_s06HeEeaNLag47uRY2w" lineColor="0"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Y9_s1KHeEeaNLag47uRY2w" points="[1, 4, -8, -64]$[44, 70, 35, 2]"/>
     </edges>
+  </notation:Diagram>
+  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="__T3Z0POTEeapmpGtP1xa_w">
+    <linkedElement xmi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_GpjhkKHdEeaNLag47uRY2w#_GpjhkaHdEeaNLag47uRY2w"/>
+  </org.eclipse.epf.diagram.model:ActivityDetailDiagram>
+  <notation:Diagram xmi:id="__T3Z0fOTEeapmpGtP1xa_w" type="ADD" element="__T3Z0POTEeapmpGtP1xa_w" name="initiate_process" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="__T3Z0vOTEeapmpGtP1xa_w"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="__T3Z0_OTEeapmpGtP1xa_w"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="__T3Z1POTEeapmpGtP1xa_w"/>
+  </notation:Diagram>
+  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="__WZwcPOTEeapmpGtP1xa_w">
+    <linkedElement xmi:type="org.eclipse.epf.uma:Activity" href="uma://_GpjhkKHdEeaNLag47uRY2w#_6ZPxEaHdEeaNLag47uRY2w"/>
+  </org.eclipse.epf.diagram.model:ActivityDetailDiagram>
+  <notation:Diagram xmi:id="__WZwcfOTEeapmpGtP1xa_w" type="ADD" element="__WZwcPOTEeapmpGtP1xa_w" name="Project Preparation" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="__WZwcvOTEeapmpGtP1xa_w"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="__WZwc_OTEeapmpGtP1xa_w"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="__WZwdPOTEeapmpGtP1xa_w"/>
+  </notation:Diagram>
+  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="__WZwdfOTEeapmpGtP1xa_w">
+    <linkedElement xmi:type="org.eclipse.epf.uma:Activity" href="uma://_GpjhkKHdEeaNLag47uRY2w#_tLsxsaHdEeaNLag47uRY2w"/>
+  </org.eclipse.epf.diagram.model:ActivityDetailDiagram>
+  <notation:Diagram xmi:id="__WZwdvOTEeapmpGtP1xa_w" type="ADD" element="__WZwdfOTEeapmpGtP1xa_w" name="Prepare Project" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="__WZwd_OTEeapmpGtP1xa_w"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="__WZwePOTEeapmpGtP1xa_w"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="__WZwefOTEeapmpGtP1xa_w"/>
+  </notation:Diagram>
+  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="__Wi6YPOTEeapmpGtP1xa_w">
+    <linkedElement xmi:type="org.eclipse.epf.uma:Activity" href="uma://_GpjhkKHdEeaNLag47uRY2w#_3UwFUaHdEeaNLag47uRY2w"/>
+  </org.eclipse.epf.diagram.model:ActivityDetailDiagram>
+  <notation:Diagram xmi:id="__Wi6YfOTEeapmpGtP1xa_w" type="ADD" element="__Wi6YPOTEeapmpGtP1xa_w" name="Define Solution" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="__Wi6YvOTEeapmpGtP1xa_w"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="__Wi6Y_OTEeapmpGtP1xa_w"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="__Wi6ZPOTEeapmpGtP1xa_w"/>
   </notation:Diagram>
 </xmi:XMI>

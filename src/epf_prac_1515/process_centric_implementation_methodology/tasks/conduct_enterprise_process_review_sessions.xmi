@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b_7exYtzSj80RUyiflRvyg" name=",_rl6ccFtlEeehWO5wp7dvHQ" guid="-b_7exYtzSj80RUyiflRvyg" changeDate="2017-06-27T13:24:07.408-0500">
+  <mainDescription>&lt;p>&#xD;
+    The purpose of the Enterprise Process Review is to verify and document the agreed upon scope and approximate size of an&#xD;
+    implementation project. The scope is defined and documented by identifying the Process Groups and business Processes to&#xD;
+    be implemented. We use the complexity of the client's requirements for these processes to estimate the approximate&#xD;
+    effort to complete the implementation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In this process we Interview Subject Matter Experts (SMEs) and other process stakeholders to review process groups and&#xD;
+    processes. During this interview you will seek to understand the requirements related to a process through a discussion&#xD;
+    of their existing processes, a review of their existing process artifacts and reviewing what works well and what causes&#xD;
+    pain in their existing processes.&lt;br />&#xD;
+    &lt;br />&#xD;
+    We also identify any new process requirements, confirm and identify roles for each process, confirm and identify&#xD;
+    external system integrations and confirm and identify risks.&lt;br />&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Verify and document the agreed upon scope and approximate size of an implementation project&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understand in-scope as-is processes&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understand requirements for in-scope to-be processes&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identify risks and gaps&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

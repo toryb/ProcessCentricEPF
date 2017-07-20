@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oFWFcOMsWMRz6wV1V8y3XQ" name="project_management_plan_pmp,_fqD8MKHeEeaNLag47uRY2w" guid="-oFWFcOMsWMRz6wV1V8y3XQ" changeDate="2017-02-15T10:25:25.201-0600">
+  <mainDescription>&lt;p>&#xD;
+    Obtain template from &lt;a&#xD;
+    href=&quot;https://stoneridgesoft.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=MT7fpOHoByUjlJicpCfCO3GMFN+jO6LD61xMHEvZygQ=&amp;amp;docid=2_1d1965835254047b6bd44b470669cfbaf&amp;amp;rev=1&quot;&#xD;
+     target=&quot;_blank&quot;>here&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+  <packagingGuidance>&lt;p>&#xD;
+    Obtain template from &lt;a&#xD;
+    href=&quot;https://stoneridgesoft.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=MT7fpOHoByUjlJicpCfCO3GMFN+jO6LD61xMHEvZygQ=&amp;amp;docid=2_1d1965835254047b6bd44b470669cfbaf&amp;amp;rev=1&quot;&#xD;
+     target=&quot;_blank&quot;>here&lt;/a>.&#xD;
+&lt;/p></packagingGuidance>
+</org.eclipse.epf.uma:DeliverableDescription>

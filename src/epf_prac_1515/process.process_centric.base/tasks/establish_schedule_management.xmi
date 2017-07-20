@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wxvN13XELL_mmaCflTLhFw" name=",_hphNwPIHEeauf5O-IzarUA" guid="-wxvN13XELL_mmaCflTLhFw" changeDate="2017-02-13T10:15:05.033-0600">
+  <mainDescription>&lt;p>&#xD;
+    In this process we establish the policies, procedures and documentation for planning, developing, managing, executing&#xD;
+    and controlling the project schedule.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    These policies and procedures are established in collaboration with the client and are documented in the &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../process.process_centric.base/workproducts/schedule_management_plan_E89F0664.html&quot;&#xD;
+    guid=&quot;_05mFYPIJEeauf5O-IzarUA&quot;>Schedule Management Plan&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_W4LqwPIKEeauf5O-IzarUA" name="Define Activities" guid="_W4LqwPIKEeauf5O-IzarUA"/>
+  <sections xmi:id="_Yfp-4PIKEeauf5O-IzarUA" name="Sequence Activities" guid="_Yfp-4PIKEeauf5O-IzarUA"/>
+  <sections xmi:id="_ZnjbEPIKEeauf5O-IzarUA" name="Estimate Activity Resources" guid="_ZnjbEPIKEeauf5O-IzarUA"/>
+  <sections xmi:id="_a_jIwPIKEeauf5O-IzarUA" name="Estimate Activity Durations" guid="_a_jIwPIKEeauf5O-IzarUA"/>
+  <sections xmi:id="_c8MboPIKEeauf5O-IzarUA" name="Develop Schedule" guid="_c8MboPIKEeauf5O-IzarUA"/>
+  <sections xmi:id="_df93EPIKEeauf5O-IzarUA" name="Control Schedule" guid="_df93EPIKEeauf5O-IzarUA"/>
+</org.eclipse.epf.uma:TaskDescription>

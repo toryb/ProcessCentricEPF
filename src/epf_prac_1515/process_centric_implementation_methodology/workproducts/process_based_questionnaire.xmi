@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AayV3PS_jOfzz52yKVFFNw" name="new_artifact,_vxRQUFtqEeehWO5wp7dvHQ" guid="-AayV3PS_jOfzz52yKVFFNw">
+  <purpose>Provide guidance for the consultant during the EPR sessions to assure the necessary information is gathered from the&#xD;
+session.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

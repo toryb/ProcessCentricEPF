@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zqom9KwMO_MPJseiyLmXMQ" name=",_Ut9Q8POhEeapmpGtP1xa_w" guid="-zqom9KwMO_MPJseiyLmXMQ">
+  <sections xmi:id="_cWMNoPOhEeapmpGtP1xa_w" name="Identify Stakeholders" guid="_cWMNoPOhEeapmpGtP1xa_w"/>
+  <sections xmi:id="_dlG30POhEeapmpGtP1xa_w" name="Conduct Stakeholder Analysis" guid="_dlG30POhEeapmpGtP1xa_w"/>
+  <sections xmi:id="_e2lt0POhEeapmpGtP1xa_w" name="Identify Risks" guid="_e2lt0POhEeapmpGtP1xa_w"/>
+  <sections xmi:id="_ft-BwPOhEeapmpGtP1xa_w" name="Identify Project Milestones" guid="_ft-BwPOhEeapmpGtP1xa_w"/>
+  <sections xmi:id="_h3DOIPOhEeapmpGtP1xa_w" name="Review Project Charter " guid="_h3DOIPOhEeapmpGtP1xa_w"/>
+  <sections xmi:id="_juURwPOhEeapmpGtP1xa_w" name="Management Stakeholder Engagement" guid="_juURwPOhEeapmpGtP1xa_w"/>
+  <sections xmi:id="_kn_EsPOhEeapmpGtP1xa_w" name="Control Stakeholder Engagment" guid="_kn_EsPOhEeapmpGtP1xa_w"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Tq-5bxHiyUzuIWZEYH1f_A" name=",_7rZxIEC9EeeuGKojIEpoMQ" guid="-Tq-5bxHiyUzuIWZEYH1f_A" changeDate="2017-05-24T15:19:07.484-0500">
+  <mainDescription>&lt;p>&#xD;
+    This task represents the necessary work to prepare all participating parties and stakeholders for the Enterprise&#xD;
+    Process Review Sessions.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To prepare the client for the EPR the SDM or Project Manager should send out an &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../process_centric_implementation_methodology/workproducts/enterprise_review_communication_packet_3BA61FF0.html&quot;&#xD;
+     guid=&quot;_8kYScEC7EeeuGKojIEpoMQ&quot;>Enterprise Process Review Communication Packet&lt;/a> to the client.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To prepare the functional consultant and the SDM, each party should review the Statement of Work, should identify the&#xD;
+    SME leads for each functional area (process category or process group) and should review the initial in-scope process&#xD;
+    list.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_XFAxIEC_EeeuGKojIEpoMQ" name="Review Statement of Work and Project Profile" guid="_XFAxIEC_EeeuGKojIEpoMQ"/>
+  <sections xmi:id="_gAsSsEC_EeeuGKojIEpoMQ" name="Review initial in-scope process list" guid="_gAsSsEC_EeeuGKojIEpoMQ"/>
+  <sections xmi:id="_bMY6MFtuEeehWO5wp7dvHQ" name="Instantiate Initial Process Catalog" guid="_bMY6MFtuEeehWO5wp7dvHQ">
+    <sectionDescription>An instance of the process catalog should be instantiated at this time (if it hasn't already). The processes included in&#xD;
+the initial in-scope process list should be marked as &quot;in scope&quot; in the catalog.</sectionDescription>
+  </sections>
+  <sections xmi:id="_bTNP4EC_EeeuGKojIEpoMQ" name="Create list of proposed review sessions" guid="_bTNP4EC_EeeuGKojIEpoMQ">
+    <sectionDescription>Based on the Initial in-scope process list&amp;nbsp;and the estimated time allotted for the EPR, a proposed list of sessions&#xD;
+should be created. This list, along with the SME list&amp;nbsp;will be used to schedule each session.</sectionDescription>
+  </sections>
+  <sections xmi:id="_nxXZsEC_EeeuGKojIEpoMQ" name="Obtain list of process stakeholders from client" guid="_nxXZsEC_EeeuGKojIEpoMQ"/>
+  <sections xmi:id="_uLzGgEC_EeeuGKojIEpoMQ" name="Map client process stakeholders to review sessions" guid="_uLzGgEC_EeeuGKojIEpoMQ">
+    <sectionDescription>Using the SME list provided by the client, the client resources should be mapped to each proposed process review session to&#xD;
+identify the required people for each session.</sectionDescription>
+  </sections>
+  <sections xmi:id="_KGaFUEDCEeeuGKojIEpoMQ" name="Create proposed review schedule" guid="_KGaFUEDCEeeuGKojIEpoMQ">
+    <sectionDescription>Based on the proposed review sessions and the consultants' schedules a proposed review schedule can be created for all the&#xD;
+proposed review sessions.</sectionDescription>
+  </sections>
+  <sections xmi:id="_cN-tsEDNEeeuGKojIEpoMQ" name="Send EPR communication Packet to client" guid="_cN-tsEDNEeeuGKojIEpoMQ">
+    <sectionDescription>&lt;p>&#xD;
+    Send the Enterprise Process Review communication packet to the client. This packet should include:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Explanation of EPR and client responsibilities&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Request SMEs and process owners attend the review sessions along with any other process stakeholders the client&#xD;
+        would like to have attend&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Request any existing process documentation, reports, training manuals, screen captures or other related documents&#xD;
+        from existing processes&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Proposed review schedule to the client for review&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_kltOoEDCEeeuGKojIEpoMQ" name="Collaborate with Client to firm review schedule " guid="_kltOoEDCEeeuGKojIEpoMQ">
+    <sectionDescription>Collaborate with the client to obtained a firm review schedule for all the EPR sessions.</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    Prepare the functional consultants, the Solution Delivery Manager and the client for the EPR sessions and agree on a&#xD;
+    review schedule.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3KdGwZeodySQD7jPKMoRVA" name=",_Jwq6kPINEeauf5O-IzarUA" guid="-3KdGwZeodySQD7jPKMoRVA" changeDate="2017-02-13T10:55:27.158-0600">
+  <mainDescription>&amp;nbsp;The risk management plan includes the following: &#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0in; unicode-bidi: embed; MARGIN-TOP: 0in; DIRECTION: ltr; MARGIN-LEFT: 0.3in&quot; type=&quot;disc&quot;>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Methodology&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Risk team roles and responsibilities&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Contingency budget&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Risk management activities that will included in the project&#xD;
+        schedule&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>When and how often risk management activities will be&#xD;
+        performed&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Protocols for applying schedule contingency reserves&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Risk categories&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Definition of risk probability and impact&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Probability and impact matrix&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Stakeholders' tolerances&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Reporting formats&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Risk Tracking&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <sections xmi:id="_YATCAPINEeauf5O-IzarUA" name="Identify Risks" guid="_YATCAPINEeauf5O-IzarUA"/>
+  <sections xmi:id="_Z9EQsPINEeauf5O-IzarUA" name="Perform Qualitative Risk Analysis" guid="_Z9EQsPINEeauf5O-IzarUA"/>
+  <sections xmi:id="_a36IUPINEeauf5O-IzarUA" name="Perform Quantitative Risk Analysis" guid="_a36IUPINEeauf5O-IzarUA"/>
+  <sections xmi:id="_dSsvwPINEeauf5O-IzarUA" name="Plan Risk Responses" guid="_dSsvwPINEeauf5O-IzarUA"/>
+  <sections xmi:id="_eBPQwPINEeauf5O-IzarUA" name="Control Risks" guid="_eBPQwPINEeauf5O-IzarUA"/>
+  <purpose>&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    To define how to conduct risk management activities for the project.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

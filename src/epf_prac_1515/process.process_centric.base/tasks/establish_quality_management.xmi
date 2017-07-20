@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Fm7-8N9WpzlABNC4F_yqhw" name=",_2-PLwPILEeauf5O-IzarUA" guid="-Fm7-8N9WpzlABNC4F_yqhw" changeDate="2017-02-13T10:46:20.497-0600">
+  <mainDescription>We identify quality requirements and/or standards for the project and its deliverables and document how the project will&#xD;
+demonstrate compliance with quality requirements and/or standards.</mainDescription>
+  <sections xmi:id="__hqlYPILEeauf5O-IzarUA" name="Perform Quality Assurance" guid="__hqlYPILEeauf5O-IzarUA"/>
+  <sections xmi:id="_A3w1oPIMEeauf5O-IzarUA" name="Control Quality" guid="_A3w1oPIMEeauf5O-IzarUA"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mmp_xhmWkNT78wi8upghfA" name=",_EKC7MPILEeauf5O-IzarUA" guid="-mmp_xhmWkNT78wi8upghfA" changeDate="2017-02-13T10:40:40.659-0600">
+  <mainDescription>&lt;p>&#xD;
+    In this process we establish the policies, procedures and documentation for planning, managing, expending and&#xD;
+    controlling the project costs.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    These policies and procedures are established in collaboration with the client and are documented in the &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../process.process_centric.base/workproducts/cost_management_plan_1C69F19.html&quot;&#xD;
+    guid=&quot;_RXd-wPILEeauf5O-IzarUA&quot;>Cost Management Plan&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_M3ZF0PILEeauf5O-IzarUA" name="Estimate Costs" guid="_M3ZF0PILEeauf5O-IzarUA"/>
+  <sections xmi:id="_OYE1cPILEeauf5O-IzarUA" name="Determine Budget" guid="_OYE1cPILEeauf5O-IzarUA"/>
+  <sections xmi:id="_PN-isPILEeauf5O-IzarUA" name="Control Costs" guid="_PN-isPILEeauf5O-IzarUA"/>
+</org.eclipse.epf.uma:TaskDescription>

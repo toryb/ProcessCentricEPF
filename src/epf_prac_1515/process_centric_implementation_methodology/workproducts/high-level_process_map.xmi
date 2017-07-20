@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wuKHCpkptL_aK7Gqxrij7w" name="new_deliverable,_TwNy0FuKEeehWO5wp7dvHQ" guid="-wuKHCpkptL_aK7Gqxrij7w" changeDate="2017-06-27T17:46:51.681-0500">
+  <keyConsiderations>This is an optional output of the EPR.</keyConsiderations>
+  <purpose>Provide a high-level graphical view of the enterprise processes determined to be in scope for the implementation project.</purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ucvBua1kGlYODgnqR3bd_w" name=",_YhXBUPIFEeauf5O-IzarUA" guid="-ucvBua1kGlYODgnqR3bd_w">
+  <sections xmi:id="_tdQMcPIFEeauf5O-IzarUA" name="Develop Project Management Plan" guid="_tdQMcPIFEeauf5O-IzarUA">
+    <sectionDescription>Develop Project Management Plan description</sectionDescription>
+  </sections>
+  <sections xmi:id="_zljAYPIFEeauf5O-IzarUA" name="Direct and Manage Project Work" guid="_zljAYPIFEeauf5O-IzarUA"/>
+  <sections xmi:id="_4Y3lcPIFEeauf5O-IzarUA" name="Monitor and Control Project Work" guid="_4Y3lcPIFEeauf5O-IzarUA"/>
+  <sections xmi:id="_NnopQPIGEeauf5O-IzarUA" name="Perform Integrated Change Control" guid="_NnopQPIGEeauf5O-IzarUA"/>
+  <sections xmi:id="_PHVhcPIGEeauf5O-IzarUA" name="Close Phase or Project" guid="_PHVhcPIGEeauf5O-IzarUA"/>
+</org.eclipse.epf.uma:TaskDescription>

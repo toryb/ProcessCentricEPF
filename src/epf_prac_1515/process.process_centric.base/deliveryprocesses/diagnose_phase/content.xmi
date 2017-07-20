@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliveryProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-agmsmUqstnDoCOPbVCU9iw" name="Diagnose,_-Uvd0aH_EeaNLag47uRY2w" guid="-agmsmUqstnDoCOPbVCU9iw">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot;>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 9pt&quot;>The Diagnose phase is designed to help the client determine the right solution to meet&#xD;
+    their needs.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;MsoNormal&quot;>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 9pt&quot;>The Diagnose phase should kickoff by establishing the purpose and objectives of the&#xD;
+    potential implementation project. &amp;nbsp;This includes creating an understanding of the client’s current situation,&#xD;
+    business environment, and the main pain points or areas of improvement, that have been identified. &amp;nbsp;Information&#xD;
+    regarding current and future state is gathered in order to determine the scope of the Diagnostic phase and to identify&#xD;
+    the appropriate skill sets and resources required for the Diagnostic activities.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;MsoNormal&quot;>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 9pt&quot;>Typically the client and solutions account teams engage in a dialogue involving high-level&#xD;
+    business process description and/or information related to the overall system landscape that the solution would replace&#xD;
+    and/or integrate with. &amp;nbsp;This information might be made available in an RFI (Request for Information) or an RFP/RFQ&#xD;
+    (Request for Proposal/Request for Quotation). &amp;nbsp;The information extracted from these and other documents&#xD;
+    (including, the client’s web site, company organizational charts, and annual financial reports) can help the solution&#xD;
+    account team to gain a good understanding of the client’s situation and business environment.&amp;nbsp; The goal of the&#xD;
+    account team should be to build credibility with the client, giving them confidence that the team understands their&#xD;
+    business, and ultimately in their proposal for the new solution.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;img style=&quot;HEIGHT: 515px; WIDTH: 1009px&quot; alt=&quot;Discovery Overview&quot; src=&quot;resources/DiscoveryOverview.jpg&quot; width=&quot;600&quot;&#xD;
+height=&quot;317&quot; />&lt;br class=&quot;MsoNormal&quot; />&#xD;
+&lt;br /></mainDescription>
+  <purpose>&lt;p class=&quot;MsoNormal&quot;>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 9pt&quot;>The goal for the diagnose phase is to help the client determine the right solution to meet&#xD;
+    their needs.&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:DeliveryProcessDescription>

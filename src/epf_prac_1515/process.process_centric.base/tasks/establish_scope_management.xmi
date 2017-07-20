@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VQqO2UPIwtPxFn8DS6c4qA" name=",_e0AOoPIGEeauf5O-IzarUA" guid="-VQqO2UPIwtPxFn8DS6c4qA" changeDate="2017-02-13T10:08:11.961-0600">
+  <mainDescription>Project Scope Management includes the processes required to ensure that the project includes all the work required, and&#xD;
+only the work required, to complete the project successfully. Managing the project scope is primarily concerned with&#xD;
+defining and controlling what is and is not included in the project (PMBOK v5, pg 105).</mainDescription>
+  <sections xmi:id="_-p-hsPIGEeauf5O-IzarUA" name="Collect Requirements" guid="_-p-hsPIGEeauf5O-IzarUA"/>
+  <sections xmi:id="_K0EgAPIHEeauf5O-IzarUA" name="Define Scope" guid="_K0EgAPIHEeauf5O-IzarUA"/>
+  <sections xmi:id="_Lx_g0PIHEeauf5O-IzarUA" name="Create WBS" guid="_Lx_g0PIHEeauf5O-IzarUA">
+    <sectionDescription>Create WBS is the process of subdividing project deliverables and project Work into smaller, more manageable components.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Psiq0PIHEeauf5O-IzarUA" name="Validate Scope" guid="_Psiq0PIHEeauf5O-IzarUA"/>
+  <sections xmi:id="_RAcisPIHEeauf5O-IzarUA" name="Control Scope" guid="_RAcisPIHEeauf5O-IzarUA"/>
+  <purpose>To establish and document the policies and procedures to define, validate and control project scope. These policies and&#xD;
+procedures are established in collaboration with the client and are documented in the &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../process.process_centric.base/workproducts/scope_management_plan_3F190621.html&quot;&#xD;
+guid=&quot;_EEi3gPIIEeauf5O-IzarUA&quot;>Scope Management Plan&lt;/a>.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

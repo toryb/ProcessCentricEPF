@@ -26,9 +26,30 @@
     <resourceDescriptors xmi:id="_590YUKHoEeaNLag47uRY2w" id="-IiDw5Do2b1jvOgfhYKiU-A" uri="customcategories/capacity_and_availability_management_cam_.xmi"/>
     <resourceDescriptors xmi:id="_fV_vsKHpEeaNLag47uRY2w" id="-Cts9LhP2edc-YOvj_mKlWw" uri="customcategories/causal_analysis_and_resolution_car.xmi"/>
     <resourceDescriptors xmi:id="_jvpOgKH_EeaNLag47uRY2w" id="-hV4fPS1PO1L-XVYsUqs_Og" uri="guidances/concepts/diagnose_phase_overview.xmi"/>
-    <resourceDescriptors xmi:id="_-Wr-kKH_EeaNLag47uRY2w" id="_-Uvd0KH_EeaNLag47uRY2w" uri="deliveryprocesses/diagnose_process/model.xmi"/>
+    <resourceDescriptors xmi:id="_-Wr-kKH_EeaNLag47uRY2w" id="_-Uvd0KH_EeaNLag47uRY2w" uri="deliveryprocesses/diagnose_phase/model.xmi"/>
     <resourceDescriptors xmi:id="_WfhU4KICEeaNLag47uRY2w" id="-vOGtlkekvA5aCNG2Nn_fIw" uri="guidances/guidelines/search_the_playbook.xmi"/>
     <resourceDescriptors xmi:id="_fCVDcKICEeaNLag47uRY2w" id="-xM_B7oAB6qoJwQHBwZYhbg" uri="guidances/guidelines/contribute_to_the_playbook.xmi"/>
+    <resourceDescriptors xmi:id="_ytOyYOowEeazUeLCxuGRog" id="-V9pE_uNHG98tkl2r9azTEA" uri="tasks/tactical_planning_meeting.xmi"/>
+    <resourceDescriptors xmi:id="_zL2uAPIFEeauf5O-IzarUA" id="-ucvBua1kGlYODgnqR3bd_w" uri="tasks/establish_project_integration_management.xmi"/>
+    <resourceDescriptors xmi:id="_uws74PIGEeauf5O-IzarUA" id="-VQqO2UPIwtPxFn8DS6c4qA" uri="tasks/establish_scope_management.xmi"/>
+    <resourceDescriptors xmi:id="_ob_nIPIHEeauf5O-IzarUA" id="-wxvN13XELL_mmaCflTLhFw" uri="tasks/establish_schedule_management.xmi"/>
+    <resourceDescriptors xmi:id="_Qtt-gvIIEeauf5O-IzarUA" id="-K4K7pxVP0B_ljgohY3TYFw" uri="workproducts/scope_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_MLHrIfIKEeauf5O-IzarUA" id="-pFCjc6icNnj14SDoABLFFA" uri="workproducts/schedule_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_KZNzMPILEeauf5O-IzarUA" id="-mmp_xhmWkNT78wi8upghfA" uri="tasks/establish_cost_management.xmi"/>
+    <resourceDescriptors xmi:id="_c6EfQPILEeauf5O-IzarUA" id="-ePdGsceWkA4weomjyCZs5g" uri="workproducts/cost_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_9ArPUPILEeauf5O-IzarUA" id="-Fm7-8N9WpzlABNC4F_yqhw" uri="tasks/establish_quality_management.xmi"/>
+    <resourceDescriptors xmi:id="_IWQngPIMEeauf5O-IzarUA" id="-Ung2rV79-4gDUtwEILqLBQ" uri="workproducts/quality_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_WoBc8PIMEeauf5O-IzarUA" id="-Sx37Dm2Eu9eOQVBJElXYDw" uri="tasks/establish_human_resource_management.xmi"/>
+    <resourceDescriptors xmi:id="_pzMRUPIMEeauf5O-IzarUA" id="-4p1VJMJtyy0XVcXR2xhfrA" uri="tasks/establish_communications_management.xmi"/>
+    <resourceDescriptors xmi:id="_z2_RgPIMEeauf5O-IzarUA" id="-BuciQfnJVqTcPWFTyXnZ6w" uri="workproducts/communications_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_W0hLYPINEeauf5O-IzarUA" id="-3KdGwZeodySQD7jPKMoRVA" uri="tasks/establish_risk_management.xmi"/>
+    <resourceDescriptors xmi:id="_clkVIPObEeapmpGtP1xa_w" id="-oFWFcOMsWMRz6wV1V8y3XQ" uri="workproducts/project_management_plan_pmp.xmi"/>
+    <resourceDescriptors xmi:id="_-XsZkPOgEeapmpGtP1xa_w" id="-K948YCS-dzv8Xw3LJIAzXA" uri="tasks/establish_procurement_management.xmi"/>
+    <resourceDescriptors xmi:id="_JUBkQPOhEeapmpGtP1xa_w" id="-H-eJR8pjZBuzeOiJRczZqA" uri="workproducts/procurement_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_nozKUvOhEeapmpGtP1xa_w" id="-zqom9KwMO_MPJseiyLmXMQ" uri="tasks/establish_stakeholder_management.xmi"/>
+    <resourceDescriptors xmi:id="_wU-3UPOhEeapmpGtP1xa_w" id="-pHJuuCOywBb7jZoNXCxKqg" uri="workproducts/stakeholder_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_JjUvEPOiEeapmpGtP1xa_w" id="-PmPDMKz2fwSJ7Yn2DqWe_w" uri="tasks/complete_process_based_questionnaire.xmi"/>
+    <resourceDescriptors xmi:id="_wnMzQfOiEeapmpGtP1xa_w" id="-8FMUuRP0SHxwdJ1cwU4U8w" uri="tasks/conduct_enterprise_process_review.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_M9BD8KE-EeaNLag47uRY2w" name="process.process_centric.base" guid="_M9BD8KE-EeaNLag47uRY2w" presentationName="Process Centric Plug-in" briefDescription="Stoneridge Software Process Centric Method Plug-in" authors="Tory Bjorklund" changeDate="2016-11-03T09:12:32.245-0500">
     <methodElementProperty xmi:id="_M9FVYqE-EeaNLag47uRY2w" name="plugin_synFree" value="true"/>
@@ -151,19 +172,16 @@
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_wnjB8KHnEeaNLag47uRY2w" name="work_planning_wp" guid="_wnjB8KHnEeaNLag47uRY2w" presentationName="Work Planning (WP)" briefDescription="The purpose of Work Planning (WP) is to establish and maintain plans that define work activities." categorizedElements="_qxMzQKHfEeaNLag47uRY2w _fqD8MKHeEeaNLag47uRY2w _yksvUKHgEeaNLag47uRY2w">
             <methodElementProperty xmi:id="_xNUogKHnEeaNLag47uRY2w" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_w7H4sKH8EeaNLag47uRY2w" name="playbook_navigation" guid="_w7H4sKH8EeaNLag47uRY2w" presentationName="Playbook Navigation" categorizedElements="_4L3J8KHREeaNLag47uRY2w _cSIqAKHREeaNLag47uRY2w _jBsY0KH-EeaNLag47uRY2w _yfcOUKIAEeaNLag47uRY2w">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_w7H4sKH8EeaNLag47uRY2w" name="playbook_navigation" guid="_w7H4sKH8EeaNLag47uRY2w" presentationName="Playbook Navigation" categorizedElements="_4L3J8KHREeaNLag47uRY2w _cSIqAKHREeaNLag47uRY2w _jBsY0KH-EeaNLag47uRY2w">
             <methodElementProperty xmi:id="_zaA9AKH8EeaNLag47uRY2w" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ivFbUKH9EeaNLag47uRY2w" name="cmmi-srv" guid="_ivFbUKH9EeaNLag47uRY2w" presentationName="CMMI-SRV" briefDescription="Category hierarchy based CCMI for Services, VErsion 1.3" categorizedElements="_vt4rgKHmEeaNLag47uRY2w _0QAy4KHmEeaNLag47uRY2w _4tttQKHmEeaNLag47uRY2w _9TKOYKHmEeaNLag47uRY2w _ARwGcKHnEeaNLag47uRY2w _Cz_ZsKHnEeaNLag47uRY2w _Gd4RgKHnEeaNLag47uRY2w _O1WSwKHnEeaNLag47uRY2w _JgFeQKHnEeaNLag47uRY2w _MOZeoKHnEeaNLag47uRY2w _RnS18KHnEeaNLag47uRY2w _UCshYKHnEeaNLag47uRY2w _WathoKHnEeaNLag47uRY2w _Ypbb8KHnEeaNLag47uRY2w _bZDD4KHnEeaNLag47uRY2w _da_tgKHnEeaNLag47uRY2w _ihBzMKHnEeaNLag47uRY2w _kmQaUKHnEeaNLag47uRY2w _mVoGMKHnEeaNLag47uRY2w _qi7NEKHnEeaNLag47uRY2w _sv2XoKHnEeaNLag47uRY2w _fpx5QKHnEeaNLag47uRY2w _uh2gwKHnEeaNLag47uRY2w _wnjB8KHnEeaNLag47uRY2w">
             <methodElementProperty xmi:id="_qGyBoKH9EeaNLag47uRY2w" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_jBsY0KH-EeaNLag47uRY2w" name="diagnose" guid="_jBsY0KH-EeaNLag47uRY2w" presentationName="Diagnose">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_jBsY0KH-EeaNLag47uRY2w" name="Process Centric Methodology" guid="_jBsY0KH-EeaNLag47uRY2w" presentationName="Process Centric Methodology">
             <methodElementProperty xmi:id="_kWEKwKH-EeaNLag47uRY2w" name="me_edited" value="true"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="#_twL70KH-EeaNLag47uRY2w"/>
+            <methodElementProperty xmi:id="_0FqmkPOUEeapmpGtP1xa_w" name="PUBLISH_CATEGORY" value="true"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_-Uvd0KH_EeaNLag47uRY2w#_-Uvd0aH_EeaNLag47uRY2w"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_yfcOUKIAEeaNLag47uRY2w" name="initiate" guid="_yfcOUKIAEeaNLag47uRY2w" presentationName="Initiate">
-            <methodElementProperty xmi:id="_053pYKIAEeaNLag47uRY2w" name="me_edited" value="true"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_GpjhkKHdEeaNLag47uRY2w#_GpjhkaHdEeaNLag47uRY2w"/>
           </contentElements>
         </childPackages>
@@ -319,8 +337,9 @@
           <methodElementProperty xmi:id="_71zgkaHbEeaNLag47uRY2w" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_DNv-gKHcEeaNLag47uRY2w" name="me_edited" value="true"/>
           <methodElementProperty xmi:id="_KNQHQKHcEeaNLag47uRY2w" name="pakage_supporting" value="false"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_fqD8MKHeEeaNLag47uRY2w" name="project_management_plan_pmp" guid="_fqD8MKHeEeaNLag47uRY2w" presentationName="Project Management Plan (PMP)">
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_fqD8MKHeEeaNLag47uRY2w" name="project_management_plan_pmp" guid="_fqD8MKHeEeaNLag47uRY2w" presentationName="Project Management Plan (PMP)" briefDescription="&#xD;&#xA;">
             <methodElementProperty xmi:id="_v0GP8KHgEeaNLag47uRY2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-oFWFcOMsWMRz6wV1V8y3XQ" href="uma://-oFWFcOMsWMRz6wV1V8y3XQ#-oFWFcOMsWMRz6wV1V8y3XQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qxMzQKHfEeaNLag47uRY2w" name="conduct_sales_handoff_meeting" guid="_qxMzQKHfEeaNLag47uRY2w" presentationName="Conduct Sales Handoff Meeting" briefDescription="Once the project resources have been identified, Stoneridge Software will hold an internal meeting to transition the customer from the diagnose (sales) phase to the Initiate phase." mandatoryInput="_yksvUKHgEeaNLag47uRY2w" optionalInput="_jWzMUKHhEeaNLag47uRY2w">
             <methodElementProperty xmi:id="_ucKMoKHgEeaNLag47uRY2w" name="me_edited" value="true"/>
@@ -333,6 +352,98 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_DkyWwKHiEeaNLag47uRY2w" name="project_profile_template" guid="_DkyWwKHiEeaNLag47uRY2w" presentationName="Project Profile Template">
             <methodElementProperty xmi:id="_VmPKAKHiEeaNLag47uRY2w" name="me_edited" value="true"/>
             <presentation xmi:id="-6tP3pxphIn9TiVMc8r7NLQ" href="uma://-6tP3pxphIn9TiVMc8r7NLQ#-6tP3pxphIn9TiVMc8r7NLQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CpVfMOowEeazUeLCxuGRog" name="sales_handoff_preparation" guid="_CpVfMOowEeazUeLCxuGRog" presentationName="Sales Handoff Preparation">
+            <methodElementProperty xmi:id="_HPys8OowEeazUeLCxuGRog" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_uZ8YQOowEeazUeLCxuGRog" name="tactical_planning_meeting" guid="_uZ8YQOowEeazUeLCxuGRog" presentationName="Tactical Planning Meeting" briefDescription="Once the internal sales handoff meeting is complete, the project team will take a deep dive into how they plan to execute on the project, with the playbook as their guide.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_ytFBYOowEeazUeLCxuGRog" name="me_edited" value="true"/>
+            <presentation xmi:id="-V9pE_uNHG98tkl2r9azTEA" href="uma://-V9pE_uNHG98tkl2r9azTEA#-V9pE_uNHG98tkl2r9azTEA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_YhXBUPIFEeauf5O-IzarUA" name="establish_project_integration_management" guid="_YhXBUPIFEeauf5O-IzarUA" presentationName="Establish Project Integration Management">
+            <methodElementProperty xmi:id="_rYT5MPIFEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ucvBua1kGlYODgnqR3bd_w" href="uma://-ucvBua1kGlYODgnqR3bd_w#-ucvBua1kGlYODgnqR3bd_w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_e0AOoPIGEeauf5O-IzarUA" name="establish_scope_management" guid="_e0AOoPIGEeauf5O-IzarUA" presentationName="Establish Scope Management" mandatoryInput="_EEi3gPIIEeauf5O-IzarUA">
+            <methodElementProperty xmi:id="_uwjK4PIGEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-VQqO2UPIwtPxFn8DS6c4qA" href="uma://-VQqO2UPIwtPxFn8DS6c4qA#-VQqO2UPIwtPxFn8DS6c4qA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hphNwPIHEeauf5O-IzarUA" name="establish_schedule_management" guid="_hphNwPIHEeauf5O-IzarUA" presentationName="Establish Schedule Management" mandatoryInput="_05mFYPIJEeauf5O-IzarUA">
+            <methodElementProperty xmi:id="_obssMPIHEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-wxvN13XELL_mmaCflTLhFw" href="uma://-wxvN13XELL_mmaCflTLhFw#-wxvN13XELL_mmaCflTLhFw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_EEi3gPIIEeauf5O-IzarUA" name="scope_management_plan" guid="_EEi3gPIIEeauf5O-IzarUA" presentationName="Scope Management Plan" briefDescription="The scope management plan is a component of the project management plan that describes how the scope will be defined, developed, monitored, controlled and verified.">
+            <methodElementProperty xmi:id="_Qtt-gPIIEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-K4K7pxVP0B_ljgohY3TYFw" href="uma://-K4K7pxVP0B_ljgohY3TYFw#-K4K7pxVP0B_ljgohY3TYFw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_05mFYPIJEeauf5O-IzarUA" name="schedule_management_plan" guid="_05mFYPIJEeauf5O-IzarUA" presentationName="Schedule Management Plan">
+            <methodElementProperty xmi:id="_MK96IPIKEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-pFCjc6icNnj14SDoABLFFA" href="uma://-pFCjc6icNnj14SDoABLFFA#-pFCjc6icNnj14SDoABLFFA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_EKC7MPILEeauf5O-IzarUA" name="establish_cost_management" guid="_EKC7MPILEeauf5O-IzarUA" presentationName="Establish Cost Management" mandatoryInput="_RXd-wPILEeauf5O-IzarUA">
+            <methodElementProperty xmi:id="_KZECMPILEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-mmp_xhmWkNT78wi8upghfA" href="uma://-mmp_xhmWkNT78wi8upghfA#-mmp_xhmWkNT78wi8upghfA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_RXd-wPILEeauf5O-IzarUA" name="cost_management_plan" guid="_RXd-wPILEeauf5O-IzarUA" presentationName="Cost Management Plan" briefDescription="The cost management plan is a component of the project management plan and describes how the project costs will be planned, structured and controlled.">
+            <methodElementProperty xmi:id="_c56uQPILEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ePdGsceWkA4weomjyCZs5g" href="uma://-ePdGsceWkA4weomjyCZs5g#-ePdGsceWkA4weomjyCZs5g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2-PLwPILEeauf5O-IzarUA" name="establish_quality_management" guid="_2-PLwPILEeauf5O-IzarUA" presentationName="Establish Quality Management" briefDescription="In this process we establish the policies, procedures and documentation for planning, managing, expending and controlling the project quality" mandatoryInput="_CnefwPIMEeauf5O-IzarUA">
+            <methodElementProperty xmi:id="_9AheUPILEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Fm7-8N9WpzlABNC4F_yqhw" href="uma://-Fm7-8N9WpzlABNC4F_yqhw#-Fm7-8N9WpzlABNC4F_yqhw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_CnefwPIMEeauf5O-IzarUA" name="quality_management_plan" guid="_CnefwPIMEeauf5O-IzarUA" presentationName="Quality Management Plan" briefDescription="The quality management plan is a component of the project management plan that describes how the project management team plans to meet the quality requirements set for the project.">
+            <methodElementProperty xmi:id="_IWHdkPIMEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Ung2rV79-4gDUtwEILqLBQ" href="uma://-Ung2rV79-4gDUtwEILqLBQ#-Ung2rV79-4gDUtwEILqLBQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NFORAPIMEeauf5O-IzarUA" name="establish_human_resource_management" guid="_NFORAPIMEeauf5O-IzarUA" presentationName="Establish Human Resource Management" briefDescription="In this process we identify and document project roles, responsibilities, required skills, reporting relationships and create a staffing management plan." mandatoryInput="_YSNG0PIMEeauf5O-IzarUA">
+            <methodElementProperty xmi:id="_Wn3r8PIMEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Sx37Dm2Eu9eOQVBJElXYDw" href="uma://-Sx37Dm2Eu9eOQVBJElXYDw#-Sx37Dm2Eu9eOQVBJElXYDw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_YSNG0PIMEeauf5O-IzarUA" name="human_resource_management_plan" guid="_YSNG0PIMEeauf5O-IzarUA" presentationName="Human Resource Management Plan">
+            <methodElementProperty xmi:id="_aEVy0PIMEeauf5O-IzarUA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f3h5cPIMEeauf5O-IzarUA" name="establish_communications_management" guid="_f3h5cPIMEeauf5O-IzarUA" presentationName="Establish Communications Management" briefDescription="In this process we establish an appropriate approach and plan for project communications based on stakeholder's information needs and requirements and available organizational assets." mandatoryInput="_qNNT0PIMEeauf5O-IzarUA">
+            <methodElementProperty xmi:id="_i-PywPIMEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-4p1VJMJtyy0XVcXR2xhfrA" href="uma://-4p1VJMJtyy0XVcXR2xhfrA#-4p1VJMJtyy0XVcXR2xhfrA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qNNT0PIMEeauf5O-IzarUA" name="communications_management_plan" guid="_qNNT0PIMEeauf5O-IzarUA" presentationName="Communications Management Plan" briefDescription="The communications management plan is a component of the project management plan that describes how project communications will be planned, structured monitored and controlled.">
+            <methodElementProperty xmi:id="_z21ggPIMEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-BuciQfnJVqTcPWFTyXnZ6w" href="uma://-BuciQfnJVqTcPWFTyXnZ6w#-BuciQfnJVqTcPWFTyXnZ6w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Jwq6kPINEeauf5O-IzarUA" name="establish_risk_management" guid="_Jwq6kPINEeauf5O-IzarUA" presentationName="Establish Risk Management" briefDescription="The risk management plan is a component of the project management plan and describes how risk management activities will be structured and performed." mandatoryInput="_iWpKwPINEeauf5O-IzarUA">
+            <methodElementProperty xmi:id="_W0YBcPINEeauf5O-IzarUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-3KdGwZeodySQD7jPKMoRVA" href="uma://-3KdGwZeodySQD7jPKMoRVA#-3KdGwZeodySQD7jPKMoRVA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_iWpKwPINEeauf5O-IzarUA" name="risk_management_plan" guid="_iWpKwPINEeauf5O-IzarUA" presentationName="Risk Management Plan">
+            <methodElementProperty xmi:id="_jcMdkPINEeauf5O-IzarUA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tXKQwPOgEeapmpGtP1xa_w" name="establish_procurement_management" guid="_tXKQwPOgEeapmpGtP1xa_w" presentationName="Establish Procurement Management" briefDescription="In this process we document project procurement decisions, specifying the approach and identifying potential sellers." mandatoryInput="_-XiokPOgEeapmpGtP1xa_w">
+            <methodElementProperty xmi:id="_wPd6oPOgEeapmpGtP1xa_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-K948YCS-dzv8Xw3LJIAzXA" href="uma://-K948YCS-dzv8Xw3LJIAzXA#-K948YCS-dzv8Xw3LJIAzXA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_-XiokPOgEeapmpGtP1xa_w" name="procurement_management_plan" guid="_-XiokPOgEeapmpGtP1xa_w" presentationName="Procurement Management Plan" briefDescription="The project management plan is a component of the project management plan that describes how a project team will acquire goods and services from outside the performing organization. IT describes how the procurement processes will be managed from developing procurement documents through contract closure.">
+            <methodElementProperty xmi:id="_JT4aUPOhEeapmpGtP1xa_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-H-eJR8pjZBuzeOiJRczZqA" href="uma://-H-eJR8pjZBuzeOiJRczZqA#-H-eJR8pjZBuzeOiJRczZqA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Ut9Q8POhEeapmpGtP1xa_w" name="establish_stakeholder_management" guid="_Ut9Q8POhEeapmpGtP1xa_w" presentationName="Establish Stakeholder Management" briefDescription="This process identifies how the project will affect various stakeholders and develops appropriate management strategies to effectively engage stakeholders throughout the project lifecycle based on the analysis of their needs, interests and potential impact on project success." mandatoryInput="_nozKUPOhEeapmpGtP1xa_w">
+            <methodElementProperty xmi:id="_xihBcPOhEeapmpGtP1xa_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-zqom9KwMO_MPJseiyLmXMQ" href="uma://-zqom9KwMO_MPJseiyLmXMQ#-zqom9KwMO_MPJseiyLmXMQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nozKUPOhEeapmpGtP1xa_w" name="stakeholder_management_plan" guid="_nozKUPOhEeapmpGtP1xa_w" presentationName="Stakeholder Management Plan" briefDescription="The stakeholder management plan is a component of the project management plan and identifies the management strategies required to effectively engage stakeholders.">
+            <methodElementProperty xmi:id="_wU1GUPOhEeapmpGtP1xa_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-pHJuuCOywBb7jZoNXCxKqg" href="uma://-pHJuuCOywBb7jZoNXCxKqg#-pHJuuCOywBb7jZoNXCxKqg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3FapUPOhEeapmpGtP1xa_w" name="establish_project_issue_management" guid="_3FapUPOhEeapmpGtP1xa_w" presentationName="Establish Project Issue Management">
+            <methodElementProperty xmi:id="_6tZcoPOhEeapmpGtP1xa_w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_AGJqAPOiEeapmpGtP1xa_w" name="complete_process_based_questionnaire" guid="_AGJqAPOiEeapmpGtP1xa_w" presentationName="Complete Process Based Questionnaire" briefDescription="After the Sales Handoff, the Functional Consultant will review the materials provided during the Sales Handoff in order to complete the Process-Based Questionnaire for the implementation.">
+            <methodElementProperty xmi:id="_JjLlIPOiEeapmpGtP1xa_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-PmPDMKz2fwSJ7Yn2DqWe_w" href="uma://-PmPDMKz2fwSJ7Yn2DqWe_w#-PmPDMKz2fwSJ7Yn2DqWe_w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_RAHQwPOiEeapmpGtP1xa_w" name="conduct_enterprise_process_review" guid="_RAHQwPOiEeapmpGtP1xa_w" presentationName="Conduct Enterprise Process Review">
+            <methodElementProperty xmi:id="_wnDCQPOiEeapmpGtP1xa_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-8FMUuRP0SHxwdJ1cwU4U8w" href="uma://-8FMUuRP0SHxwdJ1cwU4U8w#-8FMUuRP0SHxwdJ1cwU4U8w"/>
           </contentElements>
         </childPackages>
       </childPackages>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4p1VJMJtyy0XVcXR2xhfrA" name=",_f3h5cPIMEeauf5O-IzarUA" guid="-4p1VJMJtyy0XVcXR2xhfrA">
+  <sections xmi:id="_ka7zMPIMEeauf5O-IzarUA" name="Manage Communications" guid="_ka7zMPIMEeauf5O-IzarUA"/>
+  <sections xmi:id="_mgyFYPIMEeauf5O-IzarUA" name="Control Communications" guid="_mgyFYPIMEeauf5O-IzarUA"/>
+</org.eclipse.epf.uma:TaskDescription>

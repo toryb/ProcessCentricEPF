@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LcBz7QGy2sOSiEnweLFVYQ" name="new_artifact,_DdlxUFtoEeehWO5wp7dvHQ" guid="-LcBz7QGy2sOSiEnweLFVYQ" changeDate="2017-06-27T13:41:59.692-0500">
+  <mainDescription>The process catalog is a list of business processes that are organized by process category, then process group and finally&#xD;
+processes. Processes may also be made up of other sub-processes. We use the Process Catalog to provide a standardized means&#xD;
+of defining business process solutions to be implemented.</mainDescription>
+  <purpose>To provide a list of possible processes to be implemented in an implementation project.&amp;nbsp;</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

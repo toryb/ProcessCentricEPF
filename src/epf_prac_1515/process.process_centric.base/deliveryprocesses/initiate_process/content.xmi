@@ -8,9 +8,13 @@
     <mainDescription>&lt;p>&#xD;
     &lt;font size=&quot;2&quot;>After completing the sale, the Stoneridge management team will determine which resources should be&#xD;
     allocated to this particular implementation project. He/she will work with the project manager, once assigned, to&#xD;
-    understand the project plan and who is going to be needed at what time on the project. Once the resources have been&#xD;
-    identified, Stoneridge Software will hold an internal meeting to transition the customer from the sales phase to the&#xD;
-    implementation planning phase.&lt;/font>&#xD;
+    understand the project plan and determine which resources will be needed at what time on the project. Once the&#xD;
+    resources have been identified, Stoneridge Software will hold an internal meeting to transition the customer from the&#xD;
+    sales phase to the implementation planning phase.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;img src=&quot;./resources/clip_image001.png&quot; width=&quot;272&quot; height=&quot;340&quot; />&#xD;
 &lt;/p></mainDescription>
     <purpose>The purpose of this process is to make sure the correct resources are assigned to the project, that the project is fully&#xD;
 resrouced and the project team has all of the information learned during the Diagnose phase.</purpose>
@@ -68,6 +72,480 @@ style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE:
     within this document will be used as input into the SOW. However, the purpose of this document is to state the&#xD;
     background and reasons on how the sales team came to conclusions as to what is included in the estimates supporting the&#xD;
     SOW.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-s1kCNgXQibTR88as0NpTqQ" name="establish_scope_management,_V7e5UPIHEeauf5O-IzarUA" guid="-s1kCNgXQibTR88as0NpTqQ">
+    <refinedDescription>Project Scope Management includes the processes required to ensure that the project includes all the work required, and&#xD;
+only the work required, to complete the project successfully. Managing the project scope is primarily concerned with&#xD;
+defining and controlling what is and is not included in the project (PMBOK v5, pg 105).</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XhC-2WXtEFDF52PZ3t4leQ" name="scope_management_plan,_ih4HMfIJEeauf5O-IzarUA" guid="-XhC-2WXtEFDF52PZ3t4leQ">
+    <refinedDescription>&amp;nbsp; &#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    Components of the scope management plan include:&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0in; unicode-bidi: embed; MARGIN-TOP: 0in; DIRECTION: ltr; MARGIN-LEFT: 0.3in&quot; type=&quot;disc&quot;>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process for preparing a detailed project scope statement&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process that enables the creation of the WBS from the detailed&#xD;
+        scope statement&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process that establishes how the WBS will be maintained and&#xD;
+        approved&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process that specifies how formal acceptance of the completed&#xD;
+        project deliverables will be obtained&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process to control how requests for changes to the detailed&#xD;
+        project scope statement will be processed&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-doxd0urY2P7dNYhWinjXUw" name="establish_cost_management,_tS02YPILEeauf5O-IzarUA" guid="-doxd0urY2P7dNYhWinjXUw">
+    <refinedDescription>&lt;p>&#xD;
+    In this process we establish the policies, procedures and documentation for planning, managing, expending and&#xD;
+    controlling the project costs.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    These policies and procedures are established in collaboration with the client and are documented in the &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../process.process_centric.base/workproducts/cost_management_plan_1C69F19.html&quot;&#xD;
+    guid=&quot;_RXd-wPILEeauf5O-IzarUA&quot;>Cost Management Plan&lt;/a>.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HXqR5aBnQwTh7uM5adbEeg" name="cost_management_plan,_tS02YfILEeauf5O-IzarUA" guid="-HXqR5aBnQwTh7uM5adbEeg">
+    <refinedDescription>&amp;nbsp; &#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    The cost management plan may establish the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0in; unicode-bidi: embed; MARGIN-TOP: 0in; DIRECTION: ltr; MARGIN-LEFT: 0.3in&quot; type=&quot;disc&quot;>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Units of measure&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Level or precision&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Level of accuracy&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Organizational procedures links&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Control thresholds&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Rules of performance measurement&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Reporting formats&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process descriptions&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Additional details&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fapIA4oHB6zVawLi0t5Peg" name="establish_schedule_management,_z6ft8PILEeauf5O-IzarUA" guid="-fapIA4oHB6zVawLi0t5Peg">
+    <refinedDescription>&lt;p>&#xD;
+    In this process we establish the policies, procedures and documentation for planning, developing, managing, executing&#xD;
+    and controlling the project schedule.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    These policies and procedures are established in collaboration with the client and are documented in the &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../process.process_centric.base/workproducts/schedule_management_plan_E89F0664.html&quot;&#xD;
+    guid=&quot;_05mFYPIJEeauf5O-IzarUA&quot;>Schedule Management Plan&lt;/a>.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-hJykcub-MSRGak4SJAUDlQ" name="schedule_management_plan,_z6ft8fILEeauf5O-IzarUA" guid="-hJykcub-MSRGak4SJAUDlQ">
+    <refinedDescription>&amp;nbsp; &#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    The schedule management plan may establish the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0in; unicode-bidi: embed; MARGIN-TOP: 0in; DIRECTION: ltr; MARGIN-LEFT: 0.3in&quot; type=&quot;disc&quot;>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Project schedule model development&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Level of accuracy&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Units of measure&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Organizational procedures links&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Project schedule model maintenance&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Control thresholds&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Rules of performance measurement&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Reporting formats&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process descriptions&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-b7PAMJqFkd2wgw3yJVSVjg" name="establish_quality_management,_LGbCAPIMEeauf5O-IzarUA" guid="-b7PAMJqFkd2wgw3yJVSVjg">
+    <refinedDescription>We identify quality requirements and/or standards for the project and its deliverables and document how the project will&#xD;
+demonstrate compliance with quality requirements and/or standards.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-tS9yiwHQCdJMdPA7Lkcl7g" name="quality_management_plan,_LGbCAfIMEeauf5O-IzarUA" guid="-tS9yiwHQCdJMdPA7Lkcl7g">
+    <refinedDescription>The quality management plan will define how quality will be assured throughout the project life cycle. This will include&#xD;
+information on reviews (when, who, how), test scenarios (when, who, how) and UAT specific information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-DC7GrXcuIlzWqfx8QznYFA" name="communications_management_plan,_3TOu4fIMEeauf5O-IzarUA" guid="-DC7GrXcuIlzWqfx8QznYFA">
+    <refinedDescription>&amp;nbsp; The plan contains the following information: &#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0in; unicode-bidi: embed; MARGIN-TOP: 0in; DIRECTION: ltr; MARGIN-LEFT: 0.3in&quot; type=&quot;disc&quot;>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Stakeholder communications requirements&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>information to be communicated, including language, format,&#xD;
+        content and level of detail&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Reason for the distribution of the information&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Timeframe and frequency for the distribution of required&#xD;
+        information and the receipt of acknowledgment or response if applicable&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Person responsible for communicating information&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Person responsible for authorizing release of confidential&#xD;
+        information&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Person or groups who will receive the information&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Methods or technologies used to convey the information such as&#xD;
+        memos, e-mail and/or press releases&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Resources allocated for communication activities including time&#xD;
+        and budget&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Escalation process identifying time frames and the management&#xD;
+        change for escalation of issues that cannot be resolved at a lower staff level&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Method for updating and refining the communications management&#xD;
+        plan as the project progresses and develops&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Glossary of common terminology&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Flow charts of the information flow in the project, workflows&#xD;
+        with possible sequence of authorization, list of reports and meeting plans, etc.&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Communication constraints usually derived from a specific&#xD;
+        legislation or regulation, technology and organizational policies, etc.&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    The project communication plan should also include how meeting notes will be recorded and stored, discussion boards or&#xD;
+    wikiks, project logs. May also include guidelines and templates for project status meeting, project team meetings,&#xD;
+    e-meetings and email messages. The use of a project website and project management software can also be included if&#xD;
+    these are to be used in the project.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    A plan will be established to communicate to the various stakeholders. This plan will document who needs what&#xD;
+    information, who is authorized to access what information, when the information will be communicated, how it will be&#xD;
+    communicated, where the information will be stored, in what format the information will be stored and whether&#xD;
+    localization issues (time zone, language, etc.) needs to be considered.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xaj5X7ZaYOc1UK5YOr0qGg" name="establish_risk_management,_moezYPINEeauf5O-IzarUA" guid="-xaj5X7ZaYOc1UK5YOr0qGg">
+    <refinedDescription>&amp;nbsp;The risk management plan includes the following: &#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0in; unicode-bidi: embed; MARGIN-TOP: 0in; DIRECTION: ltr; MARGIN-LEFT: 0.3in&quot; type=&quot;disc&quot;>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Methodology&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Risk team roles and responsibilities&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Contingency budget&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Risk management activities that will included in the project&#xD;
+        schedule&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>When and how often risk management activities will be&#xD;
+        performed&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Protocols for applying schedule contingency reserves&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Risk categories&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Definition of risk probability and impact&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Probability and impact matrix&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Stakeholders' tolerances&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Reporting formats&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Risk Tracking&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-O_OrgFBNSP3Ew2fZhHiIVg" name="project_management_plan_pmp,_nEptsPOcEeapmpGtP1xa_w" guid="-O_OrgFBNSP3Ew2fZhHiIVg">
+    <refinedDescription>&lt;p>&#xD;
+    Obtain template from &lt;a&#xD; 
+    href=&quot;https://stoneridgesoft.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=MT7fpOHoByUjlJicpCfCO3GMFN jO6LD61xMHEvZygQ=&amp;docid=2_1d1965835254047b6bd44b470669cfbaf&amp;rev=1&quot;&#xD;
+     target=&quot;_blank&quot; >here&lt;/a>.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HpmTrt7e8vPrQXreQidijw" name="project_profile,_1hkqQPOcEeapmpGtP1xa_w" guid="-HpmTrt7e8vPrQXreQidijw">
+    <refinedDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px'>&#xD;
+    &lt;font size=&quot;2&quot;>The purpose of this document is to provide a basis for a smooth transition of an account from sales to&#xD;
+    operations and serve as a general agenda to facilitate the Sales Handoff meeting itself. It will additionally serve as&#xD;
+    a reference for the delivery team, recognizing the data was captured at a point in time, and is subject to change. The&#xD;
+    sales team owns this document and included content, but will ask for contribution from Finance and Delivery team&#xD;
+    members for certain portions. A completed version of this document is to be delivered to the delivery team at least 48&#xD;
+    hours prior to the sales handoff meeting.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px'>&#xD;
+    &lt;font size=&quot;2&quot;>All members of the sales team will participate in the sales handoff meeting, as will all expected&#xD;
+    delivery team members, and a representative from the Accounting team (for billing and collections details).&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px'>&#xD;
+    &lt;font size=&quot;2&quot;>The sales team, and PM will schedule the Sales Handoff meeting within one week of signing the contract.&#xD;
+    The sales team will facilitate completion of this document and collection of any artifacts and documents herein.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px'>&#xD;
+    &lt;font size=&quot;2&quot;>This document is initiated as soon as the sales process starts, and subsets of the information contained&#xD;
+    within this document will be used as input into the SOW. However, the purpose of this document is to state the&#xD;
+    background and reasons on how the sales team came to conclusions as to what is included in the estimates supporting the&#xD;
+    SOW.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-KVdnqJerJDLKDbnBG3RI7Q" name="project_management_plan_pmp,_XdfgsPOeEeapmpGtP1xa_w" guid="-KVdnqJerJDLKDbnBG3RI7Q">
+    <refinedDescription>&lt;p>&#xD;
+    Obtain template from &lt;a&#xD; 
+    href=&quot;https://stoneridgesoft.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=MT7fpOHoByUjlJicpCfCO3GMFN jO6LD61xMHEvZygQ=&amp;docid=2_1d1965835254047b6bd44b470669cfbaf&amp;rev=1&quot;&#xD;
+     target=&quot;_blank&quot; >here&lt;/a>.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wK-4LAXbUe5s_4tjo6qV6g" name="scope_management_plan,_aPS58POeEeapmpGtP1xa_w" guid="-wK-4LAXbUe5s_4tjo6qV6g">
+    <refinedDescription>&amp;nbsp; &#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    Components of the scope management plan include:&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0in; unicode-bidi: embed; MARGIN-TOP: 0in; DIRECTION: ltr; MARGIN-LEFT: 0.3in&quot; type=&quot;disc&quot;>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process for preparing a detailed project scope statement&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process that enables the creation of the WBS from the detailed&#xD;
+        scope statement&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process that establishes how the WBS will be maintained and&#xD;
+        approved&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process that specifies how formal acceptance of the completed&#xD;
+        project deliverables will be obtained&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process to control how requests for changes to the detailed&#xD;
+        project scope statement will be processed&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-4u_bJa3LtpMvYS2xQi_-Mw" name="procurement_management_plan,_SQ28YfOhEeapmpGtP1xa_w" guid="-4u_bJa3LtpMvYS2xQi_-Mw">
+    <refinedDescription>&amp;nbsp; &#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    The procurement management plan may include guidance for:&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0in; unicode-bidi: embed; MARGIN-TOP: 0in; DIRECTION: ltr; MARGIN-LEFT: 0.3in&quot; type=&quot;disc&quot;>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Types of contracts to be used&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Risk management issues&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Whether independent estimates will be used and whether they are&#xD;
+        needed as evaluation criteria&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Actions the project management team can take&#xD;
+        unilaterally&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Standardized procurement documents if needed&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Managing multiple suppliers&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Coordinating procurement with other project aspects&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Any constraints and assumptions that could affect planned&#xD;
+        procurements&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Handling the long lead times to purchase certain items from&#xD;
+        sellers&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Handling the make-or-buy decisions and linking them into the&#xD;
+        estimate activity resources and develop schedule processes.&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Setting the scheduled dates in each contract for contract&#xD;
+        deliverables&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Identifying the requirements for performance bonds or insurance&#xD;
+        contracts&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Establishing the form and format to be used for the&#xD;
+        procurement/contract statements of work&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Identifying prequalified sellers&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Procurement metrics to be used to manage contracts and evaluate&#xD;
+        sellers&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    describes the need, justification, requirements and current boundaries for the project.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uYEZJ0fbU6pPUoIvKHnntQ" name="stakeholder_management_plan,_zMHcgfOhEeapmpGtP1xa_w" guid="-uYEZJ0fbU6pPUoIvKHnntQ">
+    <refinedDescription>&amp;nbsp;The stakeholder management plan contains the following information: &#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0in; unicode-bidi: embed; MARGIN-TOP: 0in; DIRECTION: ltr; MARGIN-LEFT: 0.3in&quot; type=&quot;disc&quot;>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Stakeholder register&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Desired and current engagement levels of key&#xD;
+        stakeholders&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Scope and impact of change to stakeholders&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Identified interrelationships and potential overlap between&#xD;
+        stakeholders&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Stakeholder communication requirements (communication&#xD;
+        plan)&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Information to be distributed to stakeholders (communication&#xD;
+        plan)&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Reason for the distribution of information (communication&#xD;
+        plan)&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Timeframe and frequency of distribution (communication&#xD;
+        plan)&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Method for updating and refining the stakeholder management&#xD;
+        plan&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9Cu0BJ6tM1irOILd08vuoQ" name="conduct_enterprise_process_review,_U2JRsPOjEeapmpGtP1xa_w" guid="-9Cu0BJ6tM1irOILd08vuoQ">
+    <refinedDescription>&amp;nbsp; &#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    As part of our Process Centric Implementation Methodology, Stoneridge Software conducts Enterprise Process Reviews&#xD;
+    during the Initiation phase of the project. The Enterprise Process Review is typically two or more days and involves&#xD;
+    multiple client representatives.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    The purpose of the review is to verify and document the agreed upon scope and approximate size of the implementation&#xD;
+    project. This activity should produce a list of Process Groups and Processes that becomes the basis for defining scope&#xD;
+    and effort and drives all other discovery and analysis. In some cases, a high-level Enterprise Process diagram or set&#xD;
+    of diagrams will be created.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    The review starts with the Functional Consultant using the Statement of Work and the Process Catalog to identify the&#xD;
+    Process Categories and Process Groups that are in-scope for this implementation.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    Next, the consultant should use the Process-Based Questionnaire (if available) to conduct an a review of the existing&#xD;
+    procedures for executing the in-scope processes and any planned changes to processes. Often, this is facilitated with&#xD;
+    white-boarding sessions. Pictures of the white-board can be used for documentation. The interviews should include&#xD;
+    discussion of external systems and risks.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    Once the information has been gathered, the consultant will use it to create the initial list of in-scope processes,&#xD;
+    and high-level process and integration diagrams. The features and requirements gathered will be connected to the&#xD;
+    relevant processes to support traceability.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    Finally, the deliverables are created and delivered to the client.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    &lt;img style=&quot;HEIGHT: 843px; WIDTH: 717px&quot; alt=&quot;&quot; src=&quot;./../../process.process_centric.base/tasks/resources/Enterprise Process Review.png&quot; width=&quot;600&quot;&#xD;
+    height=&quot;600&quot; />&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-W1IFJPdAQFHy8A_3QhMpXg" name="new_guideline,_44IpMEDGEeeuGKojIEpoMQ" guid="-W1IFJPdAQFHy8A_3QhMpXg" changeDate="2017-05-24T16:28:46.849-0500">
+  <mainDescription>&lt;p>&#xD;
+    An Enterprise Process Review is often conducted over multiple days, and possibly even multiple weeks. Several people&#xD;
+    representing a cross-section of the client's business are involved in the review sessions. As a result it can be very&#xD;
+    challenging to even schedule the sessions. However, scheduling isn't the only challenge. In fact, it isn't even the&#xD;
+    primary challenge. The primary challenge of an EPR is to get the necessary information from the client in the amount of&#xD;
+    time allocated. We only get one attempt at a review session so it is imperative that we obtain the necessary&#xD;
+    information from each session.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Proper preparation is essential to ensure the success of each session. This preparation starts with clearly&#xD;
+    communicating proper expectaions and each party's roles and responsibilities.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has been our experience that it works best to start by reviewing the statement of work and the initial in-scope&#xD;
+    process list developed during the Discover phase. Based on this information a list of potential EPR sessions should be&#xD;
+    compiled.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Next you shnould obtain a list of process stakeholders and subject matter experts from the client. Often they will not&#xD;
+    have this readily available but will be able to produce it without much effort. You will want to get the names, titles&#xD;
+    and roles for each person. This will be used to identify who shold be involved in each process review session.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Once you have a list of proposed review sessions and the list of process stakeholders then you can combine the two to&#xD;
+    determine which stakeholders should attend which sessions.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    With this information you can produce a proposed EPR schedule for all the sessions. You may not be able to put dates on&#xD;
+    the sessions because you do not have access the&amp;nbsp;calendars for the process stakeholders. But you can say who needs&#xD;
+    to be in which sessions, how long each session should be and what sessions can be run in parallel.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This proposed EPR schedule should be sent to the client as part of the EPR communication packet. The other items in&#xD;
+    that packet should be an explanation of the EPR process, an explanation of the client responsibilities and a request&#xD;
+    for any existing process documentation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    By providing this information to the client and then coordinating with the client after that to create a schedule with&#xD;
+    dates and appropriate resources this will help prepare the client to fulfill their responsibillites in the EPR.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

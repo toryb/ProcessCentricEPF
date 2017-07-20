@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Sx37Dm2Eu9eOQVBJElXYDw" name=",_NFORAPIMEeauf5O-IzarUA" guid="-Sx37Dm2Eu9eOQVBJElXYDw">
+  <sections xmi:id="_RakgoPIMEeauf5O-IzarUA" name="Acquire Project Team" guid="_RakgoPIMEeauf5O-IzarUA"/>
+  <sections xmi:id="_SxRN0PIMEeauf5O-IzarUA" name="Develop Project Team" guid="_SxRN0PIMEeauf5O-IzarUA"/>
+  <sections xmi:id="_TwsqgPIMEeauf5O-IzarUA" name="Manage Project Team" guid="_TwsqgPIMEeauf5O-IzarUA"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VEG-b9T4pRyLPS1wfABJ7g" name=",_pHkmMFtvEeehWO5wp7dvHQ" guid="-VEG-b9T4pRyLPS1wfABJ7g" changeDate="2017-06-27T14:35:36.181-0500">
+  <mainDescription>In this process we convert our EPR session notes into usable intelligence for the implementation project.</mainDescription>
+  <keyConsiderations>The outputs from this process will vary based on the size and complexity of the project.</keyConsiderations>
+  <purpose>Organize and document findings from an EPR session</purpose>
+</org.eclipse.epf.uma:TaskDescription>

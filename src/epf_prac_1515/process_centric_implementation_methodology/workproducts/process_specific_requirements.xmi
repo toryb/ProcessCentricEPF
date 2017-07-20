@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9st_bIs9jNBUmJhXjJfexw" name="new_artifact,_B6054FtvEeehWO5wp7dvHQ" guid="-9st_bIs9jNBUmJhXjJfexw" changeDate="2017-06-27T14:31:16.018-0500">
+  <mainDescription>As the processes are being defined a list of requirements should be maintained for each process. The requirements may be&#xD;
+business requirements, functional requirements, performance requirements, security requirements, etc.</mainDescription>
+  <purpose>Define requirements specific to a business process</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

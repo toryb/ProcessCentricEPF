@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nRDZhkWHYaTbJmF0UAOraQ" name="new_role,_ix6osEC1EeeuGKojIEpoMQ" guid="-nRDZhkWHYaTbJmF0UAOraQ" authors="Tory" changeDate="2017-05-24T14:27:49.272-0500" version="1.0">
+  <mainDescription>&lt;p role=&quot;listitem&quot; lang=&quot;EN-US&quot; class=&quot;Paragraph SCX125452017&quot;&#xD;
+style=&quot;FONT-SIZE: 20px; OVERFLOW: visible; WORD-WRAP: break-word; CURSOR: text; FONT-FAMILY: Arial; VERTICAL-ALIGN: baseline; POSITION: relative; FONT-WEIGHT: normal; COLOR: windowtext; PADDING-BOTTOM: 0px; DIRECTION: ltr; FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; CLEAR: both; MARGIN: 0px; LINE-HEIGHT: 26px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: transparent; TEXT-INDENT: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y&quot;&#xD;
+ paraeid=&quot;{aac8a190-9684-413e-85d9-beb03f424dc5}{253}&quot; paraid=&quot;0&quot; xml:lang=&quot;EN-US&quot; data-aria-level=&quot;1&quot;&#xD;
+data-aria-posinset=&quot;1&quot;>&#xD;
+    The Solution Delivery Manager (SDM) is responsible for delivering a cohesive solution for our client. This&#xD;
+    responsibility requires the SDM to be aware of the proposed solutions for every business process within the scope of an&#xD;
+    implementation. As a result, the SDM will likely attend all JPDs and review all proposed solutions coming from the&#xD;
+    JPDs. They will also review and approve all proposed customizations and the resulting FDD.&#xD;
+&lt;/p></mainDescription>
+  <skills>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Good listener&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Strong knowledge of product functionality&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Strong Industry Knowledge&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Strong documentation skills&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></skills>
+</org.eclipse.epf.uma:RoleDescription>

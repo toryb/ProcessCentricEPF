@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_-Xi6MKH_EeaNLag47uRY2w" guid="_-Xi6MKH_EeaNLag47uRY2w">
+    <resourceDescriptors xmi:id="_-Xi6MaH_EeaNLag47uRY2w" id="-agmsmUqstnDoCOPbVCU9iw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_-Uvd0KH_EeaNLag47uRY2w" name="diagnose_phase" guid="_-Uvd0KH_EeaNLag47uRY2w">
+    <methodElementProperty xmi:id="_-VvjYKH_EeaNLag47uRY2w" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_NT8oEKIAEeaNLag47uRY2w" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Q-WdQKIAEeaNLag47uRY2w" name="select_lead" guid="_Q-WdQKIAEeaNLag47uRY2w" presentationName="Select Lead" superActivities="_-Uvd0aH_EeaNLag47uRY2w">
+      <methodElementProperty xmi:id="_Q_RqUKIAEeaNLag47uRY2w" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_M9BD8KE-EeaNLag47uRY2w#_6Ym0sKHZEeaNLag47uRY2w"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_TMDq8KIAEeaNLag47uRY2w" name="qualify_lead" guid="_TMDq8KIAEeaNLag47uRY2w" presentationName="Qualify Lead" superActivities="_-Uvd0aH_EeaNLag47uRY2w">
+      <methodElementProperty xmi:id="_TNAGIKIAEeaNLag47uRY2w" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_M9BD8KE-EeaNLag47uRY2w#_AXem4KHaEeaNLag47uRY2w"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_WLFn4KIAEeaNLag47uRY2w" name="develop_strategy" guid="_WLFn4KIAEeaNLag47uRY2w" presentationName="Develop Strategy" superActivities="_-Uvd0aH_EeaNLag47uRY2w">
+      <methodElementProperty xmi:id="_WMLNAKIAEeaNLag47uRY2w" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_M9BD8KE-EeaNLag47uRY2w#_Pg75UKHaEeaNLag47uRY2w"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_XOSKQKIAEeaNLag47uRY2w" name="present_value" guid="_XOSKQKIAEeaNLag47uRY2w" presentationName="Present Value" superActivities="_-Uvd0aH_EeaNLag47uRY2w">
+      <methodElementProperty xmi:id="_XPXIUKIAEeaNLag47uRY2w" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_M9BD8KE-EeaNLag47uRY2w#_iAdIoKHaEeaNLag47uRY2w"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_a7ifIKIAEeaNLag47uRY2w" name="negotiate_terms" guid="_a7ifIKIAEeaNLag47uRY2w" presentationName="Negotiate Terms" superActivities="_-Uvd0aH_EeaNLag47uRY2w">
+      <methodElementProperty xmi:id="_a8jLwKIAEeaNLag47uRY2w" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_M9BD8KE-EeaNLag47uRY2w#_kMgwgKHaEeaNLag47uRY2w"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_-Uvd0aH_EeaNLag47uRY2w" name="diagnose_phase" guid="_-Uvd0aH_EeaNLag47uRY2w" presentationName="Diagnose Phase" briefDescription="The diagnose phase is a part of the sales lifecycle that matches potential clients with solutions offered by Stoneridge Software." breakdownElements="_Q-WdQKIAEeaNLag47uRY2w _TMDq8KIAEeaNLag47uRY2w _WLFn4KIAEeaNLag47uRY2w _XOSKQKIAEeaNLag47uRY2w _a7ifIKIAEeaNLag47uRY2w">
+      <presentation xmi:id="-agmsmUqstnDoCOPbVCU9iw" href="uma://-agmsmUqstnDoCOPbVCU9iw#-agmsmUqstnDoCOPbVCU9iw"/>
+      <defaultContext href="uma://_T6l317ekEd-D7YZN9NgldQ#_hV0lkKE9EeaNLag47uRY2w"/>
+      <validContext href="uma://_T6l317ekEd-D7YZN9NgldQ#_hV0lkKE9EeaNLag47uRY2w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

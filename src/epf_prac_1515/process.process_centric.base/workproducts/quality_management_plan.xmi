@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ung2rV79-4gDUtwEILqLBQ" name="new_artifact,_CnefwPIMEeauf5O-IzarUA" guid="-Ung2rV79-4gDUtwEILqLBQ">
+  <mainDescription>The quality management plan will define how quality will be assured throughout the project life cycle. This will include&#xD;
+information on reviews (when, who, how), test scenarios (when, who, how) and UAT specific information.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

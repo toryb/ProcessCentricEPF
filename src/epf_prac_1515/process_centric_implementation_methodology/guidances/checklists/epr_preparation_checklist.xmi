@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0BUvhkAzmR2JG9yEdE0S_Q" name="new_checklist,_wfaFsFuLEeehWO5wp7dvHQ" guid="-0BUvhkAzmR2JG9yEdE0S_Q">
+  <sections xmi:id="_23fpIFuLEeehWO5wp7dvHQ" name="Review Statement of Work and Project Profile" guid="_23fpIFuLEeehWO5wp7dvHQ"/>
+  <sections xmi:id="_CEiJUFuMEeehWO5wp7dvHQ" name="Instantiate Initial Process Catalog" guid="_CEiJUFuMEeehWO5wp7dvHQ">
+    <sectionDescription>An instance of the process catalog should be instantiated at this time (if it hasn't already). The processes included in&#xD;
+the initial in-scope process list should be marked as &quot;in scope&quot; in the catalog.</sectionDescription>
+  </sections>
+  <sections xmi:id="_HTRfEFuMEeehWO5wp7dvHQ" name="Create proposed review schedule" guid="_HTRfEFuMEeehWO5wp7dvHQ">
+    <sectionDescription>&lt;p>&#xD;
+    Based on the Initial in-scope process list&amp;nbsp;and the estimated time allotted for the EPR, a proposed list of&#xD;
+    sessions should be created. This list, along with the SME list&amp;nbsp;will be used to schedule each session.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Using the SME list provided by the client, the client resources should be mapped to each proposed process review&#xD;
+    session to identify the required people for each session.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Based on the proposed review sessions and the consultants' schedules a proposed review schedule can be created for all&#xD;
+    the proposed review sessions.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_NC57YFuMEeehWO5wp7dvHQ" name="Map client process stakeholders to review sessions" guid="_NC57YFuMEeehWO5wp7dvHQ"/>
+  <sections xmi:id="_n1NgQFuMEeehWO5wp7dvHQ" name="firm review schedule " guid="_n1NgQFuMEeehWO5wp7dvHQ">
+    <sectionDescription>Collaborate with the client to obtained a firm review schedule for all the EPR sessions.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

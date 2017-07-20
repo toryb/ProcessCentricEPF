@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SXRNy2-wr_qM4giBpg4rTA" name="new_artifact,_jveOMFtxEeehWO5wp7dvHQ" guid="-SXRNy2-wr_qM4giBpg4rTA" changeDate="2017-06-27T14:51:21.929-0500">
+  <mainDescription>&lt;p>&#xD;
+    This artifact is a specific instance of the process catalog for a specific project updated as part of the Enterprise&#xD;
+    Process Review. It contains content about what is in and out of scope after verification during the EPR. This product&#xD;
+    is an output from the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../process_centric_implementation_methodology/tasks/document_epr_session_findings_41325DB3.html&quot;&#xD;
+    guid=&quot;_pHkmMFtvEeehWO5wp7dvHQ&quot;>Document EPR Session Findings&lt;/a> process.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The process catalog is a list of business processes that are organized by process category, then process group and&#xD;
+    finally processes. Processes may also be made up of other sub-processes. The Project Specific Process Catalog is used&#xD;
+    to define the business processes that will be implemented for a spedific implementation project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This instance will have additional information specific to a project such as:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        process owner and other RACI information&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        process SME&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        process in or out of scope&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        links to related artifacts&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stoneridge responsible consultant&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

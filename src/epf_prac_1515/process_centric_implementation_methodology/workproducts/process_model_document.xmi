@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3Cs17vOp4mk_l8ba158yLg" name="new_deliverable,_o5bZUFtrEeehWO5wp7dvHQ" guid="-3Cs17vOp4mk_l8ba158yLg" changeDate="2017-06-27T14:11:07.922-0500">
+  <mainDescription>This deliverable is a document that contains process narratives, diagrams, requirements and fit/gap information for a set&#xD;
+of processes. Typically this deliverable will be created prior to a JPD session and will be used to review the set of&#xD;
+processes being contemplated in the JPD. It can also be used in the Process Category Review sessions.</mainDescription>
+  <purpose>Provide detailed documentation for a set of processes to allow for client review.</purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4mBDDns4Onp5zpKV8VbPUQ" name="new_deliverable,_KWA6UFtrEeehWO5wp7dvHQ" guid="-4mBDDns4Onp5zpKV8VbPUQ" changeDate="2017-06-27T14:03:53.479-0500">
+  <purpose>Provide a list of features identified as required for a specific client implementation project.</purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LU8U5uaJkMMryPXanI_IQw" name="new_artifact,_dfGcgEC7EeeuGKojIEpoMQ" guid="-LU8U5uaJkMMryPXanI_IQw" changeDate="2017-05-24T15:01:08.383-0500">
+  <mainDescription>This artifact contains information about a project being undertaken by Stoneridge. It is produced by the sales team and is&#xD;
+used during the sales handoff to inform the project team of the project details.</mainDescription>
+  <purpose>To inform the project team of the project details.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

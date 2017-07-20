@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vr5QyFcbPWkDenfv_feTiw" name=",_tQnxcG2SEeekIpRxJuKVaA" guid="-vr5QyFcbPWkDenfv_feTiw">
+  <sections xmi:id="_96OA8G2SEeekIpRxJuKVaA" name="Develop Project management Plan" guid="_96OA8G2SEeekIpRxJuKVaA"/>
+  <sections xmi:id="_GBfDAG2TEeekIpRxJuKVaA" name="Direct and Manage Project Work" guid="_GBfDAG2TEeekIpRxJuKVaA"/>
+  <sections xmi:id="_IH8ZMG2TEeekIpRxJuKVaA" name="Monitor and Control Project Work" guid="_IH8ZMG2TEeekIpRxJuKVaA"/>
+  <sections xmi:id="_Kt1dYG2TEeekIpRxJuKVaA" name="Perform Integrated Change Control" guid="_Kt1dYG2TEeekIpRxJuKVaA">
+    <sectionDescription>&lt;p>&#xD;
+    Perform change control according to the documented&amp;nbsp;Change Control process defined in the Project Management&#xD;
+    Plan&amp;nbsp;&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_NIuygG2TEeekIpRxJuKVaA" name="Close Phase or Project" guid="_NIuygG2TEeekIpRxJuKVaA"/>
+</org.eclipse.epf.uma:TaskDescription>

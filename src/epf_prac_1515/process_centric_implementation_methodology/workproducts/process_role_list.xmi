@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IPBnCe24GVPKA14K_SW0SA" name="new_artifact,__SS_IFtzEeehWO5wp7dvHQ" guid="-IPBnCe24GVPKA14K_SW0SA" changeDate="2017-06-27T15:07:09.230-0500">
+  <purpose>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Provide a list of people and the roles they fulfill within business processes.&lt;/font>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

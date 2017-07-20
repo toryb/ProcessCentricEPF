@@ -15,7 +15,6 @@
     <resourceDescriptors xmi:id="_cmG3gKEkEeaNLag47uRY2w" id="-_d-xXHFtLQrf4FS2VUAoWg" uri="roles/my_replace_tester.xmi"/>
     <resourceDescriptors xmi:id="_aBZCkKElEeaNLag47uRY2w" id="-NrFgAp2PFKhH2XjV_2xD9Q" uri="roles/my_extend_and_replace_tester.xmi"/>
     <resourceDescriptors xmi:id="_iv4x0KEnEeaNLag47uRY2w" id="_ivyrMKEnEeaNLag47uRY2w" uri="deliveryprocesses/My%20DP/model.xmi"/>
-    <resourceDescriptors xmi:id="_wYmmQFEbEeeBgqQ-JUfktg" id="-nPi84nrlXbZVKo24lxi-5g" uri="workproducts/functional_deisgn_document_fdd.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_IxIuoKEYEeaNLag47uRY2w" name="my_plug-in" guid="_IxIuoKEYEeaNLag47uRY2w" briefDescription="Example plug-in used in tutorial">
     <methodElementProperty xmi:id="_IxVi8aEYEeaNLag47uRY2w" name="plugin_synFree" value="true"/>
@@ -138,14 +137,6 @@
             <methodElementProperty xmi:id="_aBXNYKElEeaNLag47uRY2w" name="me_edited" value="true"/>
             <presentation xmi:id="-NrFgAp2PFKhH2XjV_2xD9Q" href="uma://-NrFgAp2PFKhH2XjV_2xD9Q#-NrFgAp2PFKhH2XjV_2xD9Q"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_A118oMYaEdyXeo04os5BOw#_0ZM4MclgEdmt3adZL5Dmdw"/>
-          </contentElements>
-        </childPackages>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ptvGMFEaEee9psJ80yTN6Q" name="create" guid="_ptvGMFEaEee9psJ80yTN6Q" presentationName="Create" briefDescription="This content package holds the information for the create phase.">
-          <methodElementProperty xmi:id="_ptw7YFEaEee9psJ80yTN6Q" name="pkg_loadCheck" value="true"/>
-          <methodElementProperty xmi:id="_3yVpYFEaEee9psJ80yTN6Q" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_wulSwFEaEee9psJ80yTN6Q" name="functional_deisgn_document_fdd" guid="_wulSwFEaEee9psJ80yTN6Q" presentationName="Functional Deisgn Document (FDD)" briefDescription="This deliveravble is the document provided as the output of design efforts.">
-            <methodElementProperty xmi:id="_3axd8FEaEee9psJ80yTN6Q" name="me_edited" value="true"/>
-            <presentation xmi:id="-nPi84nrlXbZVKo24lxi-5g" href="uma://-nPi84nrlXbZVKo24lxi-5g#-nPi84nrlXbZVKo24lxi-5g"/>
           </contentElements>
         </childPackages>
       </childPackages>

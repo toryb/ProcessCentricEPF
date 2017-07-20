@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fhm-ytNpyNBxVHdWL84sug" name="new_artifact,_KkphUFttEeehWO5wp7dvHQ" guid="-fhm-ytNpyNBxVHdWL84sug" changeDate="2017-06-27T14:19:08.739-0500">
+  <mainDescription>A tool that summarizes the inputs and outputs of one or more processes in table form. The acronym SIPOC stands for&#xD;
+suppliers, inputs, process, outputs, and customers which form the columns of the table. It was in use at least as early as&#xD;
+the total quality management programs of the late 1980s and continues to be used today in Six Sigma, lean manufacturing,&#xD;
+and business process management. &lt;a  href=&quot;https://en.wikipedia.org/wiki/SIPOC&quot; target=&quot;_blank&quot; >From wikipedia&lt;/a></mainDescription>
+  <purpose>Summarize the inputs (and their suppliers) and outputs (and their consumers) to and from a process. This document can&#xD;
+provide a definition of a process.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

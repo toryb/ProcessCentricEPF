@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-K948YCS-dzv8Xw3LJIAzXA" name=",_tXKQwPOgEeapmpGtP1xa_w" guid="-K948YCS-dzv8Xw3LJIAzXA">
+  <sections xmi:id="_4Jt0YPOgEeapmpGtP1xa_w" name="Conduct Procurements" guid="_4Jt0YPOgEeapmpGtP1xa_w"/>
+  <sections xmi:id="_5A_aoPOgEeapmpGtP1xa_w" name="Control Procurements" guid="_5A_aoPOgEeapmpGtP1xa_w"/>
+  <sections xmi:id="_6SmMcPOgEeapmpGtP1xa_w" name="Close Procurements" guid="_6SmMcPOgEeapmpGtP1xa_w"/>
+</org.eclipse.epf.uma:TaskDescription>

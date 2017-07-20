@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gJ2_hMLkhxugO3enrFrzLg" name="new_deliverable,_9kGLYFuIEeehWO5wp7dvHQ" guid="-gJ2_hMLkhxugO3enrFrzLg" changeDate="2017-06-27T17:40:24.710-0500">
+  <mainDescription>&lt;p>&#xD;
+    This artifact is the required features list with additional information including:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Fit or Gap&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        T-Shirt size estimate&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Proposed solution approach&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <purpose>Identify which required features&amp;nbsp;can be met with &quot;out-of-the-box&quot; functionality&amp;nbsp;and&amp;nbsp;which&amp;nbsp;require an&#xD;
+ISV product or customizations.</purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

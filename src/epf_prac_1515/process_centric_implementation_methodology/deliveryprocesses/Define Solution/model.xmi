@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_JtS5YEDQEeeuGKojIEpoMQ" guid="_JtS5YEDQEeeuGKojIEpoMQ">
+    <resourceDescriptors xmi:id="_JtS5YUDQEeeuGKojIEpoMQ" id="-xmDx2ugCKxwC-fLBsPdOLA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Y-LpgEDQEeeuGKojIEpoMQ" id="--mvTgweTS_pHgKsKEVW85g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_6MhzoFt9EeehWO5wp7dvHQ" id="-tWAmRbBCdavL92GcZ26ZSA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_6MleAFt9EeehWO5wp7dvHQ" id="-TIUenPwfAYQJfPhDkO3vQA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_6MpvcFt9EeehWO5wp7dvHQ" id="-IgruJLsgy5JE0MTThkv_jg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_6MtZ0Ft9EeehWO5wp7dvHQ" id="-JQ3-3C89pGCWcVi2VJBLRA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_6MxrQFt9EeehWO5wp7dvHQ" id="-RHeTgvxVJipUGzXlSF_vgg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_6M1VoFt9EeehWO5wp7dvHQ" id="-26E3Cgi9cmgfVc8zo5cC-A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_6M5nEFt9EeehWO5wp7dvHQ" id="-H8NkIouSgKo8pQ3U2pNDuQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="__DWYoFt9EeehWO5wp7dvHQ" id="-67Az7lYyeOGSkneKZ6w1-g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="__DaqEFt9EeehWO5wp7dvHQ" id="-M88qFZQU4ACLKHZpC-Wczg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_DCoRoFt-EeehWO5wp7dvHQ" id="-klnibCmzU8qeClSFXcc3fA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_DCsjEFt-EeehWO5wp7dvHQ" id="-VSLqsm9ak7apbTKVPt0GwA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_DCwNcFt-EeehWO5wp7dvHQ" id="-bESxBOA9DdqXRsIPneHHPA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_DC1F8Ft-EeehWO5wp7dvHQ" id="-kaX7f5iwR-GSpgVRh_MIug" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_PTnFoFt_EeehWO5wp7dvHQ" id="-m4uJ_IMv0xACopj11oQEvA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_JqutkEDQEeeuGKojIEpoMQ" name="Define Solution" guid="_JqutkEDQEeeuGKojIEpoMQ">
+    <methodElementProperty xmi:id="_JqutkkDQEeeuGKojIEpoMQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_ZB8vMEDQEeeuGKojIEpoMQ" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_kPc4UFt9EeehWO5wp7dvHQ" name="Prepare and Conduct Enterprise Process Review" guid="_kPc4UFt9EeehWO5wp7dvHQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_kPc4UVt9EeehWO5wp7dvHQ" name="Prepare and Conduct Enterprise Process Review" guid="_kPc4UVt9EeehWO5wp7dvHQ" presentationName="Prepare and Conduct Enterprise Process Review" superActivities="_JqutkUDQEeeuGKojIEpoMQ" breakdownElements="_yzlQIFt9EeehWO5wp7dvHQ _yzl3MFt9EeehWO5wp7dvHQ _yzl3Mlt9EeehWO5wp7dvHQ _yzl3NFt9EeehWO5wp7dvHQ _yzmeQFt9EeehWO5wp7dvHQ _yzmeQlt9EeehWO5wp7dvHQ _yzmeRFt9EeehWO5wp7dvHQ _yzmeRlt9EeehWO5wp7dvHQ _8Htt8Ft9EeehWO5wp7dvHQ _8HuVAFt9EeehWO5wp7dvHQ _8HuVAlt9EeehWO5wp7dvHQ _8HuVBFt9EeehWO5wp7dvHQ _8HuVBlt9EeehWO5wp7dvHQ _8HuVCFt9EeehWO5wp7dvHQ _A1Dm0Ft-EeehWO5wp7dvHQ _A1Dm0Vt-EeehWO5wp7dvHQ _A1Dm01t-EeehWO5wp7dvHQ _A1Dm1Vt-EeehWO5wp7dvHQ _A1Dm11t-EeehWO5wp7dvHQ _A1Dm2Vt-EeehWO5wp7dvHQ _E5P1AFt-EeehWO5wp7dvHQ">
+        <presentation xmi:id="-m4uJ_IMv0xACopj11oQEvA" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-m4uJ_IMv0xACopj11oQEvA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_yzlQIFt9EeehWO5wp7dvHQ" name="prepare_for_enterprise_process_review_sessions" guid="_yzlQIFt9EeehWO5wp7dvHQ" presentationName="Prepare for Enterprise Process Review Sessions" briefDescription="This task represents the necessary work to prepare all participating parties and stakeholders for the Enterprise Process Review Sessions." isPlanned="true" superActivities="_kPc4UVt9EeehWO5wp7dvHQ" isEventDriven="true" isSynchronizedWithSource="false" additionallyPerformedBy="_yzl3Mlt9EeehWO5wp7dvHQ _yzl3NFt9EeehWO5wp7dvHQ" mandatoryInput="_yzmeQFt9EeehWO5wp7dvHQ" optionalInput="_yzmeQlt9EeehWO5wp7dvHQ" output="_yzmeRFt9EeehWO5wp7dvHQ _yzmeRlt9EeehWO5wp7dvHQ" performedPrimarilyBy="_yzl3MFt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_yzphkFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <methodElementProperty xmi:id="_NPU5sFt_EeehWO5wp7dvHQ" name="descriptor_customization" value="0"/>
+        <presentation xmi:id="-tWAmRbBCdavL92GcZ26ZSA" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-tWAmRbBCdavL92GcZ26ZSA"/>
+        <guidelines href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_44IpMEDGEeeuGKojIEpoMQ"/>
+        <Task href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_7rZxIEC9EeeuGKojIEpoMQ"/>
+        <selectedSteps href="uma://-Tq-5bxHiyUzuIWZEYH1f_A#_XFAxIEC_EeeuGKojIEpoMQ"/>
+        <selectedSteps href="uma://-Tq-5bxHiyUzuIWZEYH1f_A#_gAsSsEC_EeeuGKojIEpoMQ"/>
+        <selectedSteps href="uma://-Tq-5bxHiyUzuIWZEYH1f_A#_bMY6MFtuEeehWO5wp7dvHQ"/>
+        <selectedSteps href="uma://-Tq-5bxHiyUzuIWZEYH1f_A#_bTNP4EC_EeeuGKojIEpoMQ"/>
+        <selectedSteps href="uma://-Tq-5bxHiyUzuIWZEYH1f_A#_nxXZsEC_EeeuGKojIEpoMQ"/>
+        <selectedSteps href="uma://-Tq-5bxHiyUzuIWZEYH1f_A#_uLzGgEC_EeeuGKojIEpoMQ"/>
+        <selectedSteps href="uma://-Tq-5bxHiyUzuIWZEYH1f_A#_KGaFUEDCEeeuGKojIEpoMQ"/>
+        <selectedSteps href="uma://-Tq-5bxHiyUzuIWZEYH1f_A#_cN-tsEDNEeeuGKojIEpoMQ"/>
+        <selectedSteps href="uma://-Tq-5bxHiyUzuIWZEYH1f_A#_kltOoEDCEeeuGKojIEpoMQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_yzl3MFt9EeehWO5wp7dvHQ" name="solution_delivery_manager" guid="_yzl3MFt9EeehWO5wp7dvHQ" presentationName="Solution Delivery Manager" briefDescription="Solution delivery manager is responsible for the cohesiveness of the solution delivered to our client." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ" modifies="_yzmeRFt9EeehWO5wp7dvHQ _yzmeRlt9EeehWO5wp7dvHQ _8HuVBFt9EeehWO5wp7dvHQ _8HuVBlt9EeehWO5wp7dvHQ _8HuVCFt9EeehWO5wp7dvHQ _A1Dm01t-EeehWO5wp7dvHQ _A1Dm1Vt-EeehWO5wp7dvHQ _A1Dm11t-EeehWO5wp7dvHQ _A1Dm2Vt-EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_yzl3MVt9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_yzvoMFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-TIUenPwfAYQJfPhDkO3vQA" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-TIUenPwfAYQJfPhDkO3vQA"/>
+        <Role href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_ix6osEC1EeeuGKojIEpoMQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_yzl3Mlt9EeehWO5wp7dvHQ" name="project_manager" guid="_yzl3Mlt9EeehWO5wp7dvHQ" presentationName="Project Manager" isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_yzl3M1t9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_yzr90Ft9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Role href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_D6zpQEDDEeeuGKojIEpoMQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_yzl3NFt9EeehWO5wp7dvHQ" name="functional_consultant" guid="_yzl3NFt9EeehWO5wp7dvHQ" presentationName="Functional Consultant" briefDescription="A Functional Consultant " isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_yzl3NVt9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_yzvBIFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-IgruJLsgy5JE0MTThkv_jg" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-IgruJLsgy5JE0MTThkv_jg"/>
+        <Role href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_IoYaYEC9EeeuGKojIEpoMQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_yzmeQFt9EeehWO5wp7dvHQ" name="statement_of_work" guid="_yzmeQFt9EeehWO5wp7dvHQ" presentationName="Statement of Work" briefDescription="This is a place holder for the various types of statements of work." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_yzmeQVt9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_yzuaEFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-JQ3-3C89pGCWcVi2VJBLRA" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-JQ3-3C89pGCWcVi2VJBLRA"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_koUpUEC4EeeuGKojIEpoMQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_yzmeQlt9EeehWO5wp7dvHQ" name="project_profile_fact_sheet" guid="_yzmeQlt9EeehWO5wp7dvHQ" presentationName="Project Profile Fact Sheet" briefDescription="This artifact contains information about a project being undertaken by Stoneridge and is used to inform the project team of the project details." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_yzmeQ1t9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_yzqIoFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-RHeTgvxVJipUGzXlSF_vgg" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-RHeTgvxVJipUGzXlSF_vgg"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_dfGcgEC7EeeuGKojIEpoMQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_yzmeRFt9EeehWO5wp7dvHQ" name="enterprise_process_review_communication_packet" guid="_yzmeRFt9EeehWO5wp7dvHQ" presentationName="Enterprise Process Review Communication Packet" briefDescription="A set of information sent to the client prior to the Enterprise Process Review (EPR) as part of the EPR planning." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ" deliverableParts="_yzsk4Vt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_yzmeRVt9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_yztL8Ft9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-26E3Cgi9cmgfVc8zo5cC-A" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-26E3Cgi9cmgfVc8zo5cC-A"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_8kYScEC7EeeuGKojIEpoMQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_yzmeRlt9EeehWO5wp7dvHQ" name="project_specific_process_catalog" guid="_yzmeRlt9EeehWO5wp7dvHQ" presentationName="Project Specific Process Catalog" briefDescription="This artifact is a specific instance of the process catalog for a specific project. It contains content about what is in and out of scope for that project and possibly project specific processes." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_yzmeR1t9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_yzrWwFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-H8NkIouSgKo8pQ3U2pNDuQ" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-H8NkIouSgKo8pQ3U2pNDuQ"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_9gJGAFtoEeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_yzsk4Vt9EeehWO5wp7dvHQ" name="epr_schedule_sample" guid="_yzsk4Vt9EeehWO5wp7dvHQ" presentationName="EPR Schedule Sample" briefDescription="This is an example of a proposed enterprise process review schedule" isPlanned="false">
+        <methodElementProperty xmi:id="_yzsk4lt9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_yztzAFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_i8PAUEDLEeeuGKojIEpoMQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8Htt8Ft9EeehWO5wp7dvHQ" name="conduct_enterprise_process_review_sessions" guid="_8Htt8Ft9EeehWO5wp7dvHQ" presentationName="Conduct Enterprise Process Review Sessions" briefDescription="The Enterprise Process Review (EPR) session is the process of learning the &quot;as-is&quot; client processes and their vision for the desired &quot;to-be.&quot;" isPlanned="true" superActivities="_kPc4UVt9EeehWO5wp7dvHQ" isRepeatable="true" linkToPredecessor="_bkwHIFt_EeehWO5wp7dvHQ" additionallyPerformedBy="_yzl3NFt9EeehWO5wp7dvHQ" mandatoryInput="_yzmeRlt9EeehWO5wp7dvHQ" optionalInput="_8HuVAFt9EeehWO5wp7dvHQ _8HuVAlt9EeehWO5wp7dvHQ" output="_8HuVBFt9EeehWO5wp7dvHQ _8HuVBlt9EeehWO5wp7dvHQ _8HuVCFt9EeehWO5wp7dvHQ" performedPrimarilyBy="_yzl3MFt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_8H57MFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-67Az7lYyeOGSkneKZ6w1-g" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-67Az7lYyeOGSkneKZ6w1-g"/>
+        <Task href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_rl6ccFtlEeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8HuVAFt9EeehWO5wp7dvHQ" name="client_provided_process_assets" guid="_8HuVAFt9EeehWO5wp7dvHQ" presentationName="Client Provided Process Assets" briefDescription="This artifact is a representation of any artifact provided by the client to help define the as-is or to-be client process." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_8HuVAVt9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_8H8XcFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_azbkcFtqEeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8HuVAlt9EeehWO5wp7dvHQ" name="process_based_questionnaire" guid="_8HuVAlt9EeehWO5wp7dvHQ" presentationName="Process Based Questionnaire" briefDescription="This is a questionnaire that provides standard questions for a process or process group the guide the consultant during the EPR session." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_8HuVA1t9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_8H6iQFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_vxRQUFtqEeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8HuVBFt9EeehWO5wp7dvHQ" name="required_features" guid="_8HuVBFt9EeehWO5wp7dvHQ" presentationName="Required Features" briefDescription="This artifact is a list of features required for a specific client implementation project." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_8HuVBVt9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_8H8-gFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_KWA6UFtrEeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8HuVBlt9EeehWO5wp7dvHQ" name="process_narrative" guid="_8HuVBlt9EeehWO5wp7dvHQ" presentationName="Process Narrative" briefDescription="This artifact is any type of document that describes or defines a process. It may be an instance of the Stoneridge process narrative template or a SIPOC or simply a page in OneNote that provides the necessary documentation." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_8HuVB1t9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_8H7wYFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_x9nhMFtsEeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8HuVCFt9EeehWO5wp7dvHQ" name="process_specific_requirements" guid="_8HuVCFt9EeehWO5wp7dvHQ" presentationName="Process Specific Requirements" briefDescription="This artifact is a list of requirements specific to a process." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_8HuVCVt9EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_8H9lkFt9EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-M88qFZQU4ACLKHZpC-Wczg" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-M88qFZQU4ACLKHZpC-Wczg"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_B6054FtvEeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_A1Dm0Ft-EeehWO5wp7dvHQ" name="document_epr_session_findings" guid="_A1Dm0Ft-EeehWO5wp7dvHQ" presentationName="Document EPR Session Findings" briefDescription="Organize and document findings from an EPR session." isPlanned="true" superActivities="_kPc4UVt9EeehWO5wp7dvHQ" isRepeatable="true" additionallyPerformedBy="_yzl3NFt9EeehWO5wp7dvHQ" mandatoryInput="_A1Dm0Vt-EeehWO5wp7dvHQ _8HuVBlt9EeehWO5wp7dvHQ _8HuVCFt9EeehWO5wp7dvHQ" optionalInput="_8HuVAFt9EeehWO5wp7dvHQ _8HuVAlt9EeehWO5wp7dvHQ" output="_A1Dm01t-EeehWO5wp7dvHQ _8HuVBFt9EeehWO5wp7dvHQ _A1Dm1Vt-EeehWO5wp7dvHQ _A1Dm11t-EeehWO5wp7dvHQ _A1Dm2Vt-EeehWO5wp7dvHQ" performedPrimarilyBy="_yzl3MFt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_A1WhwFt-EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-klnibCmzU8qeClSFXcc3fA" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-klnibCmzU8qeClSFXcc3fA"/>
+        <Task href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_pHkmMFtvEeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_A1Dm0Vt-EeehWO5wp7dvHQ" name="initial_in-scope_process_list" guid="_A1Dm0Vt-EeehWO5wp7dvHQ" presentationName="Initial In-Scope Process List" briefDescription="This artifact is a specific instance of the process catalog for a specific project updated as part of the sales hand-off. It contains content about what is in and out of scope at the time of beginning of the Initiate phase." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_A1Dm0lt-EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_A1Xv4Ft-EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-VSLqsm9ak7apbTKVPt0GwA" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-VSLqsm9ak7apbTKVPt0GwA"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_79DpAFtwEeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_A1Dm01t-EeehWO5wp7dvHQ" name="verified_in-scope_process_list" guid="_A1Dm01t-EeehWO5wp7dvHQ" presentationName="Verified In-Scope Process List" briefDescription="This artifact is a specific instance of the process catalog for a specific project updated as part of the Enterprise Process Review. It contains content about what is in and out of scope after verification during the EPR. This product is an output from the Document EPR Session Findings process." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_A1Dm1Ft-EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_A1YW8Ft-EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-bESxBOA9DdqXRsIPneHHPA" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-bESxBOA9DdqXRsIPneHHPA"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_jveOMFtxEeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_A1Dm1Vt-EeehWO5wp7dvHQ" name="external_system_integrations" guid="_A1Dm1Vt-EeehWO5wp7dvHQ" presentationName="External System Integrations" briefDescription="This artifact is a list of integrations that are necessary for the implementation project." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_A1Dm1lt-EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_A1ZlEFt-EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_WXkuEFtzEeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_A1Dm11t-EeehWO5wp7dvHQ" name="process_role_list" guid="_A1Dm11t-EeehWO5wp7dvHQ" presentationName="Process Role List" briefDescription="A list of people and the roles they fulfill within business processes." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_A1Dm2Ft-EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_A1Y-AFt-EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#__SS_IFtzEeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_A1Dm2Vt-EeehWO5wp7dvHQ" name="risk_list" guid="_A1Dm2Vt-EeehWO5wp7dvHQ" presentationName="Risk List" briefDescription="A list that identifies scenarios and circumstances that can jeopardize the project timeline or budget." isPlanned="false" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_A1Dm2lt-EeehWO5wp7dvHQ" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_A1aMIFt-EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-kaX7f5iwR-GSpgVRh_MIug" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-kaX7f5iwR-GSpgVRh_MIug"/>
+        <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_ra7WoFt0EeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_E5P1AFt-EeehWO5wp7dvHQ" name="create_epr_deliverables" guid="_E5P1AFt-EeehWO5wp7dvHQ" presentationName="Create EPR Deliverables" briefDescription="Create and delivery client deliverables for the EPR." isPlanned="true" superActivities="_kPc4UVt9EeehWO5wp7dvHQ">
+        <methodElementProperty xmi:id="_E5lMMFt-EeehWO5wp7dvHQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_hWWroFt6EeehWO5wp7dvHQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_bkwHIFt_EeehWO5wp7dvHQ" guid="_bkwHIFt_EeehWO5wp7dvHQ" pred="_yzlQIFt9EeehWO5wp7dvHQ"/>
+    </childPackages>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_XpDpoEDQEeeuGKojIEpoMQ" name="enterprise_process_review_communication_packet" guid="_XpDpoEDQEeeuGKojIEpoMQ" presentationName="Enterprise Process Review Communication Packet" briefDescription="A set of information sent to the client prior to the Enterprise Process Review (EPR) as part of the EPR planning." isPlanned="false" superActivities="_JqutkUDQEeeuGKojIEpoMQ" deliverableParts="_XpRFAUDQEeeuGKojIEpoMQ">
+      <methodElementProperty xmi:id="_XpDpoUDQEeeuGKojIEpoMQ" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_XpSTIEDQEeeuGKojIEpoMQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="--mvTgweTS_pHgKsKEVW85g" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#--mvTgweTS_pHgKsKEVW85g"/>
+      <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_8kYScEC7EeeuGKojIEpoMQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_XpRFAUDQEeeuGKojIEpoMQ" name="epr_schedule_sample" guid="_XpRFAUDQEeeuGKojIEpoMQ" presentationName="EPR Schedule Sample" briefDescription="This is an example of a proposed enterprise process review schedule" isPlanned="false">
+      <methodElementProperty xmi:id="_XpRFAkDQEeeuGKojIEpoMQ" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_XpUIUEDQEeeuGKojIEpoMQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <WorkProduct href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_i8PAUEDLEeeuGKojIEpoMQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_JqutkUDQEeeuGKojIEpoMQ" name="Define Solution" guid="_JqutkUDQEeeuGKojIEpoMQ" presentationName="Define Solution" breakdownElements="_XpDpoEDQEeeuGKojIEpoMQ _kPc4UVt9EeehWO5wp7dvHQ">
+      <presentation xmi:id="-xmDx2ugCKxwC-fLBsPdOLA" href="uma://-xmDx2ugCKxwC-fLBsPdOLA#-xmDx2ugCKxwC-fLBsPdOLA"/>
+      <defaultContext href="uma://_T6l317ekEd-D7YZN9NgldQ#_Asu30EDQEeeuGKojIEpoMQ"/>
+      <validContext href="uma://_T6l317ekEd-D7YZN9NgldQ#_Asu30EDQEeeuGKojIEpoMQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

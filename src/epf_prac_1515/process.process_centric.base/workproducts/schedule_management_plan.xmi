@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pFCjc6icNnj14SDoABLFFA" name="new_artifact,_05mFYPIJEeauf5O-IzarUA" guid="-pFCjc6icNnj14SDoABLFFA" changeDate="2017-02-13T10:33:30.871-0600">
+  <mainDescription>&amp;nbsp; &#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    The schedule management plan may establish the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0in; unicode-bidi: embed; MARGIN-TOP: 0in; DIRECTION: ltr; MARGIN-LEFT: 0.3in&quot; type=&quot;disc&quot;>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Project schedule model development&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Level of accuracy&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Units of measure&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Organizational procedures links&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Project schedule model maintenance&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Control thresholds&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Rules of performance measurement&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Reporting formats&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Process descriptions&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <purpose>The schedule management plan is a component of the project management plan that establishes the criteria and the activities&#xD;
+for developing, monitoring and controlling the schedule. The schedule management plan also defines how schedule&#xD;
+contingencies will be reported and assessed.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

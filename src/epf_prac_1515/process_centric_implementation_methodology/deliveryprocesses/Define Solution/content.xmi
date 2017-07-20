@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-xmDx2ugCKxwC-fLBsPdOLA" name="Define Solution,_JqutkUDQEeeuGKojIEpoMQ" guid="-xmDx2ugCKxwC-fLBsPdOLA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--mvTgweTS_pHgKsKEVW85g" name="enterprise_process_review_communication_packet,_XpDpoEDQEeeuGKojIEpoMQ" guid="--mvTgweTS_pHgKsKEVW85g">
+    <refinedDescription>&lt;p>&#xD;
+    A set of information sent to the client prior to the Enterprise Process Review (EPR) as part of the EPR planning.&lt;br />&#xD;
+    &lt;br />&#xD;
+    Includes:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Proposed process review schedule&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Email containing&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Explanation of EPR and client responsibilities&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Request for SME and stakeholder list&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Request that SMEs and process owners attend review meetings&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Request for process documentation, existing documents, reports, training manuals and screen captures of&#xD;
+                exiting systems&lt;br />&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-tWAmRbBCdavL92GcZ26ZSA" name="prepare_for_enterprise_process_review_sessions,_yzlQIFt9EeehWO5wp7dvHQ" guid="-tWAmRbBCdavL92GcZ26ZSA">
+    <refinedDescription>&lt;p>&#xD;
+    This task represents the necessary work to prepare all participating parties and stakeholders for the Enterprise&#xD;
+    Process Review Sessions.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To prepare the client for the EPR the SDM or Project Manager should send out an &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../process_centric_implementation_methodology/workproducts/enterprise_review_communication_packet_3BA61FF0.html&quot;&#xD;
+     guid=&quot;_8kYScEC7EeeuGKojIEpoMQ&quot;>Enterprise Process Review Communication Packet&lt;/a> to the client.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To prepare the functional consultant and the SDM, each party should review the Statement of Work, should identify the&#xD;
+    SME leads for each functional area (process category or process group) and should review the initial in-scope process&#xD;
+    list.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TIUenPwfAYQJfPhDkO3vQA" name="solution_delivery_manager,_yzl3MFt9EeehWO5wp7dvHQ" guid="-TIUenPwfAYQJfPhDkO3vQA">
+    <refinedDescription>&lt;p role=&quot;listitem&quot; lang=&quot;EN-US&quot; class=&quot;Paragraph SCX125452017&quot;&#xD;
+style=&quot;FONT-SIZE: 20px; OVERFLOW: visible; WORD-WRAP: break-word; CURSOR: text; FONT-FAMILY: Arial; VERTICAL-ALIGN: baseline; POSITION: relative; FONT-WEIGHT: normal; COLOR: windowtext; PADDING-BOTTOM: 0px; DIRECTION: ltr; FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; CLEAR: both; MARGIN: 0px; LINE-HEIGHT: 26px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: transparent; TEXT-INDENT: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y&quot;&#xD;
+ paraeid=&quot;{aac8a190-9684-413e-85d9-beb03f424dc5}{253}&quot; paraid=&quot;0&quot; xml:lang=&quot;EN-US&quot; data-aria-level=&quot;1&quot;&#xD;
+data-aria-posinset=&quot;1&quot;>&#xD;
+    The Solution Delivery Manager (SDM) is responsible for delivering a cohesive solution for our client. This&#xD;
+    responsibility requires the SDM to be aware of the proposed solutions for every business process within the scope of an&#xD;
+    implementation. As a result, the SDM will likely attend all JPDs and review all proposed solutions coming from the&#xD;
+    JPDs. They will also review and approve all proposed customizations and the resulting FDD.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-IgruJLsgy5JE0MTThkv_jg" name="functional_consultant,_yzl3NFt9EeehWO5wp7dvHQ" guid="-IgruJLsgy5JE0MTThkv_jg">
+    <refinedDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div role=&quot;listitem&quot; lang=&quot;EN-US&quot; class=&quot;Paragraph SCX125452017&quot;&#xD;
+        style=&quot;FONT-SIZE: 20px; OVERFLOW: visible; WORD-WRAP: break-word; CURSOR: text; FONT-FAMILY: Arial; VERTICAL-ALIGN: baseline; POSITION: relative; FONT-WEIGHT: normal; COLOR: windowtext; PADDING-BOTTOM: 0px; DIRECTION: ltr; FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; CLEAR: both; MARGIN: 0px; LINE-HEIGHT: 26px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: transparent; TEXT-INDENT: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y&quot;&#xD;
+         data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot; xml:lang=&quot;EN-US&quot; paraid=&quot;0&quot;&#xD;
+        paraeid=&quot;{aac8a190-9684-413e-85d9-beb03f424dc5}{253}&quot;>&#xD;
+            Gather requirements and relate them to processes​&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div role=&quot;listitem&quot; lang=&quot;EN-US&quot; class=&quot;Paragraph SCX125452017&quot;&#xD;
+        style=&quot;FONT-SIZE: 20px; OVERFLOW: visible; WORD-WRAP: break-word; CURSOR: text; FONT-FAMILY: Arial; VERTICAL-ALIGN: baseline; POSITION: relative; FONT-WEIGHT: normal; COLOR: windowtext; PADDING-BOTTOM: 0px; DIRECTION: ltr; FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; CLEAR: both; MARGIN: 0px; LINE-HEIGHT: 26px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: transparent; TEXT-INDENT: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y&quot;&#xD;
+         data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot; xml:lang=&quot;EN-US&quot; paraid=&quot;0&quot;&#xD;
+        paraeid=&quot;{aac8a190-9684-413e-85d9-beb03f424dc5}{253}&quot;>&#xD;
+            Develop functional design documents​&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div role=&quot;listitem&quot; lang=&quot;EN-US&quot; class=&quot;Paragraph SCX125452017&quot;&#xD;
+        style=&quot;FONT-SIZE: 20px; OVERFLOW: visible; WORD-WRAP: break-word; CURSOR: text; FONT-FAMILY: Arial; VERTICAL-ALIGN: baseline; POSITION: relative; FONT-WEIGHT: normal; COLOR: windowtext; PADDING-BOTTOM: 0px; DIRECTION: ltr; FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; CLEAR: both; MARGIN: 0px; LINE-HEIGHT: 26px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: transparent; TEXT-INDENT: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y&quot;&#xD;
+         data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot; xml:lang=&quot;EN-US&quot; paraid=&quot;0&quot;&#xD;
+        paraeid=&quot;{aac8a190-9684-413e-85d9-beb03f424dc5}{253}&quot;>&#xD;
+            Configure the system and populate master data​&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div role=&quot;listitem&quot; lang=&quot;EN-US&quot; class=&quot;Paragraph SCX125452017&quot;&#xD;
+        style=&quot;FONT-SIZE: 20px; OVERFLOW: visible; WORD-WRAP: break-word; CURSOR: text; FONT-FAMILY: Arial; VERTICAL-ALIGN: baseline; POSITION: relative; FONT-WEIGHT: normal; COLOR: windowtext; PADDING-BOTTOM: 0px; DIRECTION: ltr; FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; CLEAR: both; MARGIN: 0px; LINE-HEIGHT: 26px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: transparent; TEXT-INDENT: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y&quot;&#xD;
+         data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot; xml:lang=&quot;EN-US&quot; paraid=&quot;0&quot;&#xD;
+        paraeid=&quot;{aac8a190-9684-413e-85d9-beb03f424dc5}{253}&quot;>&#xD;
+            Develop testing scripts​&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div role=&quot;listitem&quot; lang=&quot;EN-US&quot; class=&quot;Paragraph SCX125452017&quot;&#xD;
+        style=&quot;FONT-SIZE: 20px; OVERFLOW: visible; WORD-WRAP: break-word; CURSOR: text; FONT-FAMILY: Arial; VERTICAL-ALIGN: baseline; POSITION: relative; FONT-WEIGHT: normal; COLOR: windowtext; PADDING-BOTTOM: 0px; DIRECTION: ltr; FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; CLEAR: both; MARGIN: 0px; LINE-HEIGHT: 26px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: transparent; TEXT-INDENT: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y&quot;&#xD;
+         data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot; xml:lang=&quot;EN-US&quot; paraid=&quot;0&quot;&#xD;
+        paraeid=&quot;{aac8a190-9684-413e-85d9-beb03f424dc5}{253}&quot;>&#xD;
+            Develop training content for end users​&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div role=&quot;listitem&quot; lang=&quot;EN-US&quot; class=&quot;Paragraph SCX125452017&quot;&#xD;
+        style=&quot;FONT-SIZE: 20px; OVERFLOW: visible; WORD-WRAP: break-word; CURSOR: text; FONT-FAMILY: Arial; VERTICAL-ALIGN: baseline; POSITION: relative; FONT-WEIGHT: normal; COLOR: windowtext; PADDING-BOTTOM: 0px; DIRECTION: ltr; FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; CLEAR: both; MARGIN: 0px; LINE-HEIGHT: 26px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: transparent; TEXT-INDENT: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y&quot;&#xD;
+         data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot; xml:lang=&quot;EN-US&quot; paraid=&quot;0&quot;&#xD;
+        paraeid=&quot;{aac8a190-9684-413e-85d9-beb03f424dc5}{253}&quot;>&#xD;
+            Participate in user acceptance testing and issue resolution​&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div role=&quot;listitem&quot; lang=&quot;EN-US&quot; class=&quot;Paragraph SCX125452017&quot;&#xD;
+        style=&quot;FONT-SIZE: 20px; OVERFLOW: visible; WORD-WRAP: break-word; CURSOR: text; FONT-FAMILY: Arial; VERTICAL-ALIGN: baseline; POSITION: relative; FONT-WEIGHT: normal; COLOR: windowtext; PADDING-BOTTOM: 0px; DIRECTION: ltr; FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; CLEAR: both; MARGIN: 0px; LINE-HEIGHT: 26px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: transparent; TEXT-INDENT: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y&quot;&#xD;
+         data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot; xml:lang=&quot;EN-US&quot; paraid=&quot;0&quot;&#xD;
+        paraeid=&quot;{aac8a190-9684-413e-85d9-beb03f424dc5}{253}&quot;>&#xD;
+            Train the power users on the system​&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-JQ3-3C89pGCWcVi2VJBLRA" name="statement_of_work,_yzmeQFt9EeehWO5wp7dvHQ" guid="-JQ3-3C89pGCWcVi2VJBLRA">
+    <keyConsiderations>&lt;a&#xD;  
+href=&quot;https://stoneridgesoft.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=jT⯛QiBmUaMqw54xh7UKmDSybZttCbix+pBBmQV/Cg=&amp;docid=2_1a21d1ef7130b411397519d85d63a3bba&amp;rev=1&quot;  >&#xD;
+https://stoneridgesoft.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=jT⯛QiBmUaMqw54xh7UKmDSybZttCbix%2bpBBmQV%2fCg%3d&amp;amp;docid=2_1a21d1ef7130b411397519d85d63a3bba&amp;amp;rev=1&lt;/a></keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    The statement of work template for implementation projects can be found &lt;a&#xD; 
+    href=&quot;https://stoneridgesoft.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=jT⯛QiBmUaMqw54xh7UKmDSybZttCbix+pBBmQV/Cg=&amp;docid=2_1a21d1ef7130b411397519d85d63a3bba&amp;rev=1&quot;&#xD;
+     target=&quot;_blank&quot; >here&lt;/a>. The template for consulting projects can be found &lt;a&#xD; 
+    href=&quot;https://stoneridgesoft.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=rQ2r58uPXfebO5/pHDzBCaQqmNrJBtIxTRjVaAMp4yU=&amp;docid=2_17efff7d29d9549bfb176046b96dea238&amp;rev=1&quot;&#xD;
+     target=&quot;_blank&quot; >here&lt;/a>.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-RHeTgvxVJipUGzXlSF_vgg" name="project_profile_fact_sheet,_yzmeQlt9EeehWO5wp7dvHQ" guid="-RHeTgvxVJipUGzXlSF_vgg">
+    <refinedDescription>This artifact contains information about a project being undertaken by Stoneridge. It is produced by the sales team and is&#xD;
+used during the sales handoff to inform the project team of the project details.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-26E3Cgi9cmgfVc8zo5cC-A" name="enterprise_process_review_communication_packet,_yzmeRFt9EeehWO5wp7dvHQ" guid="-26E3Cgi9cmgfVc8zo5cC-A">
+    <refinedDescription>&lt;p>&#xD;
+    A set of information sent to the client prior to the Enterprise Process Review (EPR) as part of the EPR planning.&lt;br />&#xD;
+    &lt;br />&#xD;
+    Includes:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Proposed process review schedule&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Email containing&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Explanation of EPR and client responsibilities&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Request for SME and stakeholder list&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Request that SMEs and process owners attend review meetings&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Request for process documentation, existing documents, reports, training manuals and screen captures of&#xD;
+                exiting systems&lt;br />&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-H8NkIouSgKo8pQ3U2pNDuQ" name="project_specific_process_catalog,_yzmeRlt9EeehWO5wp7dvHQ" guid="-H8NkIouSgKo8pQ3U2pNDuQ">
+    <refinedDescription>&lt;p>&#xD;
+    The process catalog is a list of business processes that are organized by process category, then process group and&#xD;
+    finally processes. Processes may also be made up of other sub-processes. The Project Specific Process Catalog is used&#xD;
+    to define the business processes that will be implemented for a spedific implementation project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This instance will have additional information specific to a project such as:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        process owner and other RACI information&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        process SME&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        process in or out of scope&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        links to related artifacts&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stoneridge responsible consultant&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-67Az7lYyeOGSkneKZ6w1-g" name="conduct_enterprise_process_review_sessions,_8Htt8Ft9EeehWO5wp7dvHQ" guid="-67Az7lYyeOGSkneKZ6w1-g">
+    <refinedDescription>&lt;p>&#xD;
+    The purpose of the Enterprise Process Review is to verify and document the agreed upon scope and approximate size of an&#xD;
+    implementation project. The scope is defined and documented by identifying the Process Groups and business Processes to&#xD;
+    be implemented. We use the complexity of the client's requirements for these processes to estimate the approximate&#xD;
+    effort to complete the implementation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In this process we Interview Subject Matter Experts (SMEs) and other process stakeholders to review process groups and&#xD;
+    processes. During this interview you will seek to understand the requirements related to a process through a discussion&#xD;
+    of their existing processes, a review of their existing process artifacts and reviewing what works well and what causes&#xD;
+    pain in their existing processes.&lt;br />&#xD;
+    &lt;br />&#xD;
+    We also identify any new process requirements, confirm and identify roles for each process, confirm and identify&#xD;
+    external system integrations and confirm and identify risks.&lt;br />&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-M88qFZQU4ACLKHZpC-Wczg" name="process_specific_requirements,_8HuVCFt9EeehWO5wp7dvHQ" guid="-M88qFZQU4ACLKHZpC-Wczg">
+    <refinedDescription>As the processes are being defined a list of requirements should be maintained for each process. The requirements may be&#xD;
+business requirements, functional requirements, performance requirements, security requirements, etc.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-klnibCmzU8qeClSFXcc3fA" name="document_epr_session_findings,_A1Dm0Ft-EeehWO5wp7dvHQ" guid="-klnibCmzU8qeClSFXcc3fA">
+    <keyConsiderations>The outputs from this process will vary based on the size and complexity of the project.</keyConsiderations>
+    <refinedDescription>In this process we convert our EPR session notes into usable intelligence for the implementation project.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VSLqsm9ak7apbTKVPt0GwA" name="initial_in-scope_process_list,_A1Dm0Vt-EeehWO5wp7dvHQ" guid="-VSLqsm9ak7apbTKVPt0GwA">
+    <refinedDescription>&lt;p>&#xD;
+    The process catalog is a list of business processes that are organized by process category, then process group and&#xD;
+    finally processes. Processes may also be made up of other sub-processes. The Project Specific Process Catalog is used&#xD;
+    to define the business processes that will be implemented for a spedific implementation project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This instance will have additional information specific to a project such as:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        process owner and other RACI information&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        process SME&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        process in or out of scope&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        links to related artifacts&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stoneridge responsible consultant&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-bESxBOA9DdqXRsIPneHHPA" name="verified_in-scope_process_list,_A1Dm01t-EeehWO5wp7dvHQ" guid="-bESxBOA9DdqXRsIPneHHPA">
+    <refinedDescription>&lt;p>&#xD;
+    This artifact is a specific instance of the process catalog for a specific project updated as part of the Enterprise&#xD;
+    Process Review. It contains content about what is in and out of scope after verification during the EPR. This product&#xD;
+    is an output from the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../process_centric_implementation_methodology/tasks/document_epr_session_findings_41325DB3.html&quot;&#xD;
+    guid=&quot;_pHkmMFtvEeehWO5wp7dvHQ&quot;>Document EPR Session Findings&lt;/a> process.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The process catalog is a list of business processes that are organized by process category, then process group and&#xD;
+    finally processes. Processes may also be made up of other sub-processes. The Project Specific Process Catalog is used&#xD;
+    to define the business processes that will be implemented for a spedific implementation project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This instance will have additional information specific to a project such as:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        process owner and other RACI information&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        process SME&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        process in or out of scope&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        links to related artifacts&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stoneridge responsible consultant&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kaX7f5iwR-GSpgVRh_MIug" name="risk_list,_A1Dm2Vt-EeehWO5wp7dvHQ" guid="-kaX7f5iwR-GSpgVRh_MIug">
+    <refinedDescription>Project risks are used to identify scenarios and circumstances that can jeopardize the project timeline or budget. By&#xD;
+identifying the possible risks, mitigation plans can be defined to either minimize the potential for the risk or the impact&#xD;
+of the risk.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-m4uJ_IMv0xACopj11oQEvA" name="Prepare and Conduct Enterprise Process Review,_kPc4UVt9EeehWO5wp7dvHQ" guid="-m4uJ_IMv0xACopj11oQEvA">
+    <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>As part of our Process Centric Implementation Methodology, Stoneridge Software conducts Enterprise&#xD;
+    Process Reviews during the Initiation phase of the project. The Enterprise Process Review is typically two or more days&#xD;
+    and involves multiple client representatives.&lt;/font>&lt;br align=&quot;left&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The purpose of the review is to verify and document the agreed upon scope and approximate size of the&#xD;
+    implementation project. This activity should produce a list of Process Groups and Processes that becomes the basis for&#xD;
+    defining scope and effort and drives all other discovery and analysis. In some cases, a high-level Enterprise Process&#xD;
+    diagram or set of diagrams will be created.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The review starts with the Functional Consultant using the Statement of Work and the Process Catalog to&#xD;
+    identify the Process Categories and Process Groups that are in-scope for this implementation.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Next, the consultant should use the Process-Based Questionnaire (if available) to conduct an a review of&#xD;
+    the existing procedures for executing the in-scope processes and any planned changes to processes. Often, this is&#xD;
+    facilitated with white-boarding sessions. Pictures of the white-board can be used for documentation. The interviews&#xD;
+    should include discussion of external systems and risks.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Once the information has been gathered, the consultant will use it to create the initial list of&#xD;
+    in-scope processes, and high-level process and integration diagrams. The features and requirements gathered will be&#xD;
+    connected to the relevant processes to support traceability.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Finally, the deliverables are created and delivered to the client.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+</xmi:XMI>

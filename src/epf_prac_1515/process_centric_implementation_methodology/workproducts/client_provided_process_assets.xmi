@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LKznNmYJnJNGY5WyuteoWg" name="new_artifact,_azbkcFtqEeehWO5wp7dvHQ" guid="-LKznNmYJnJNGY5WyuteoWg" changeDate="2017-06-27T13:58:59.102-0500">
+  <purpose>Provide an exmple or documentation for understanding the as-is or to-be client process.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

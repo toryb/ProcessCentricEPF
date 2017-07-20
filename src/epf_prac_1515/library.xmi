@@ -56,6 +56,7 @@
     <subManagers xmi:id="_XPLl4JljEeGlkdGl1HQlDA" href="uma://_XOu58JljEeGlkdGl1HQlDA#_XPLl4JljEeGlkdGl1HQlDA"/>
     <subManagers xmi:id="_IxU74KEYEeaNLag47uRY2w" href="uma://_IxIuoKEYEeaNLag47uRY2w#_IxU74KEYEeaNLag47uRY2w"/>
     <subManagers xmi:id="_M9FVYKE-EeaNLag47uRY2w" href="uma://_M9BD8KE-EeaNLag47uRY2w#_M9FVYKE-EeaNLag47uRY2w"/>
+    <subManagers xmi:id="_bZ6nwECyEeeuGKojIEpoMQ" href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_bZ6nwECyEeeuGKojIEpoMQ"/>
     <resourceDescriptors xmi:id="_20ICIbekEd-D7YZN9NgldQ" id="_2z-4MLekEd-D7YZN9NgldQ" uri=""/>
     <resourceDescriptors xmi:id="_9I2IgbekEd-D7YZN9NgldQ" id="_MRPloEFXEdy9ENCpSugIjA" uri="core.default.cat_def.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_9JS0gLekEd-D7YZN9NgldQ" id="_vsno4EKmEdyrauqpmnA8jQ" uri="core.default.nav_view.base/plugin.xmi"/>
@@ -113,6 +114,7 @@
     <resourceDescriptors xmi:id="_XPLl4ZljEeGlkdGl1HQlDA" id="_XOu58JljEeGlkdGl1HQlDA" uri="practice.gen.production_release.assign/plugin.xmi"/>
     <resourceDescriptors xmi:id="_IxVi8KEYEeaNLag47uRY2w" id="_IxIuoKEYEeaNLag47uRY2w" uri="my_plug-in/plugin.xmi"/>
     <resourceDescriptors xmi:id="_M9FVYaE-EeaNLag47uRY2w" id="_M9BD8KE-EeaNLag47uRY2w" uri="process.process_centric.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_bZ6nwUCyEeeuGKojIEpoMQ" id="_bZoT4ECyEeeuGKojIEpoMQ" uri="process_centric_implementation_methodology/plugin.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodLibrary xmi:id="_T6l317ekEd-D7YZN9NgldQ" guid="_T6l317ekEd-D7YZN9NgldQ">
     <methodElementProperty xmi:id="_-gnMsLekEd-D7YZN9NgldQ" name="library_synFree" value="true"/>
@@ -171,5 +173,6 @@
     <methodPlugins xmi:id="_XOu58JljEeGlkdGl1HQlDA" href="uma://_XOu58JljEeGlkdGl1HQlDA#_XOu58JljEeGlkdGl1HQlDA"/>
     <methodPlugins xmi:id="_IxIuoKEYEeaNLag47uRY2w" href="uma://_IxIuoKEYEeaNLag47uRY2w#_IxIuoKEYEeaNLag47uRY2w"/>
     <methodPlugins xmi:id="_M9BD8KE-EeaNLag47uRY2w" href="uma://_M9BD8KE-EeaNLag47uRY2w#_M9BD8KE-EeaNLag47uRY2w"/>
+    <methodPlugins xmi:id="_bZoT4ECyEeeuGKojIEpoMQ" href="uma://_bZoT4ECyEeeuGKojIEpoMQ#_bZoT4ECyEeeuGKojIEpoMQ"/>
   </org.eclipse.epf.uma:MethodLibrary>
 </xmi:XMI>

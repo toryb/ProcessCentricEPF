@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_bZ6nwECyEeeuGKojIEpoMQ" guid="_bZ6nwECyEeeuGKojIEpoMQ">
+    <subManagers xmi:id="_JtS5YEDQEeeuGKojIEpoMQ" href="uma://_JqutkEDQEeeuGKojIEpoMQ#_JtS5YEDQEeeuGKojIEpoMQ"/>
+    <subManagers xmi:id="_lcE3EG2SEeekIpRxJuKVaA" href="uma://_lX0pMG2SEeekIpRxJuKVaA#_lcE3EG2SEeekIpRxJuKVaA"/>
+    <resourceDescriptors xmi:id="_PBiHEEC4EeeuGKojIEpoMQ" id="-nRDZhkWHYaTbJmF0UAOraQ" uri="roles/solution_delivery_manager.xmi"/>
+    <resourceDescriptors xmi:id="_uu-60EC5EeeuGKojIEpoMQ" id="-f-EpI_o-Yaod0uR7OpZIXA" uri="workproducts/statement_of_work.xmi"/>
+    <resourceDescriptors xmi:id="_EakBAEC7EeeuGKojIEpoMQ" id="-_MTGF9d2ZkdaJ8t2Ko2akg" uri="workproducts/implementation_statement_of_work.xmi"/>
+    <resourceDescriptors xmi:id="_H0rXcEC7EeeuGKojIEpoMQ" id="-UaMGx19L-68I1aR1cBhhmw" uri="workproducts/consulting_statement_of_work.xmi"/>
+    <resourceDescriptors xmi:id="_2SvVQEC7EeeuGKojIEpoMQ" id="-LU8U5uaJkMMryPXanI_IQw" uri="workproducts/project_profile_fact_sheet.xmi"/>
+    <resourceDescriptors xmi:id="_VMAvgEC8EeeuGKojIEpoMQ" id="-1ThOeFJX5YCPcnoDJLJeNA" uri="workproducts/enterprise_process_review_communication_packet.xmi"/>
+    <resourceDescriptors xmi:id="_Kf7x4EC9EeeuGKojIEpoMQ" id="-YINA_I0NVy-_rEFykK-elA" uri="roles/functional_consultant.xmi"/>
+    <resourceDescriptors xmi:id="_4i22YEC-EeeuGKojIEpoMQ" id="-Tq-5bxHiyUzuIWZEYH1f_A" uri="tasks/prepare_for_enterprise_process_review_sessions.xmi"/>
+    <resourceDescriptors xmi:id="_i8SqsEDLEeeuGKojIEpoMQ" id="-W1IFJPdAQFHy8A_3QhMpXg" uri="guidances/guidelines/epr_preparation_guidline.xmi"/>
+    <resourceDescriptors xmi:id="_u2qK8EDLEeeuGKojIEpoMQ" id="-OHofhBLhFzjk99_2DMFrUg" uri="workproducts/epr_schedule_sample.xmi"/>
+    <resourceDescriptors xmi:id="_fOML0EDMEeeuGKojIEpoMQ" id="-OUBek93azGDT9FxhyoHHnw" uri="workproducts/epr_schedule_communication_email_sample.xmi"/>
+    <resourceDescriptors xmi:id="_Jsdy8EDQEeeuGKojIEpoMQ" id="_JqutkEDQEeeuGKojIEpoMQ" uri="deliveryprocesses/Define%20Solution/model.xmi"/>
+    <resourceDescriptors xmi:id="_O-DOsFtmEeehWO5wp7dvHQ" id="-b_7exYtzSj80RUyiflRvyg" uri="tasks/conduct_enterprise_process_review_sessions.xmi"/>
+    <resourceDescriptors xmi:id="_s0Jp0FtoEeehWO5wp7dvHQ" id="-LcBz7QGy2sOSiEnweLFVYQ" uri="workproducts/process_catalog.xmi"/>
+    <resourceDescriptors xmi:id="_SWOHkFtqEeehWO5wp7dvHQ" id="-xEOzEwbkrWcXdDdy9TRIcA" uri="workproducts/project_specific_process_catalog.xmi"/>
+    <resourceDescriptors xmi:id="_tBpBUFtqEeehWO5wp7dvHQ" id="-LKznNmYJnJNGY5WyuteoWg" uri="workproducts/client_provided_process_assets.xmi"/>
+    <resourceDescriptors xmi:id="_Ay92wFtrEeehWO5wp7dvHQ" id="-AayV3PS_jOfzz52yKVFFNw" uri="workproducts/process_based_questionnaire.xmi"/>
+    <resourceDescriptors xmi:id="_ZgvYEFtrEeehWO5wp7dvHQ" id="-4mBDDns4Onp5zpKV8VbPUQ" uri="workproducts/required_features.xmi"/>
+    <resourceDescriptors xmi:id="_x9ryoFtsEeehWO5wp7dvHQ" id="-3Cs17vOp4mk_l8ba158yLg" uri="workproducts/process_model_document.xmi"/>
+    <resourceDescriptors xmi:id="_JL93IFttEeehWO5wp7dvHQ" id="-mjPZWtAsSucmbGu1dYqE0w" uri="workproducts/process_narrative.xmi"/>
+    <resourceDescriptors xmi:id="_2UF8wFttEeehWO5wp7dvHQ" id="-fhm-ytNpyNBxVHdWL84sug" uri="workproducts/sipoc.xmi"/>
+    <resourceDescriptors xmi:id="_VZ9MEFtvEeehWO5wp7dvHQ" id="-9st_bIs9jNBUmJhXjJfexw" uri="workproducts/process_specific_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_FsvP0FtwEeehWO5wp7dvHQ" id="-VEG-b9T4pRyLPS1wfABJ7g" uri="tasks/document_epr_session_findings.xmi"/>
+    <resourceDescriptors xmi:id="_JdHfQFtyEeehWO5wp7dvHQ" id="-SXRNy2-wr_qM4giBpg4rTA" uri="workproducts/verified_in-scope_process_list.xmi"/>
+    <resourceDescriptors xmi:id="_tdEC8FtzEeehWO5wp7dvHQ" id="-E6XKNJA8qJxfRZMn-v5VoQ" uri="workproducts/external_system_integrations.xmi"/>
+    <resourceDescriptors xmi:id="_NlfX8Ft0EeehWO5wp7dvHQ" id="-IPBnCe24GVPKA14K_SW0SA" uri="workproducts/process_role_list.xmi"/>
+    <resourceDescriptors xmi:id="_6CHpgFt0EeehWO5wp7dvHQ" id="-rjv5_5W9ustXwWMgGRMP8w" uri="workproducts/risk_list.xmi"/>
+    <resourceDescriptors xmi:id="_8JQtcFt6EeehWO5wp7dvHQ" id="-uAsI6iBgjq8ZgqnsqmQdtQ" uri="tasks/create_epr_deliverables.xmi"/>
+    <resourceDescriptors xmi:id="_1Ak1sFuJEeehWO5wp7dvHQ" id="-gJ2_hMLkhxugO3enrFrzLg" uri="workproducts/fit_gap.xmi"/>
+    <resourceDescriptors xmi:id="_GnDkMFuKEeehWO5wp7dvHQ" id="-5ortazhx5Zm5ZsxwbAgKeA" uri="workproducts/external_systems_integration_diagram.xmi"/>
+    <resourceDescriptors xmi:id="_jdDfIFuKEeehWO5wp7dvHQ" id="-wuKHCpkptL_aK7Gqxrij7w" uri="workproducts/high-level_process_map.xmi"/>
+    <resourceDescriptors xmi:id="_qHUFwFuMEeehWO5wp7dvHQ" id="-0BUvhkAzmR2JG9yEdE0S_Q" uri="guidances/checklists/epr_preparation_checklist.xmi"/>
+    <resourceDescriptors xmi:id="_lbg2YG2SEeekIpRxJuKVaA" id="_lX0pMG2SEeekIpRxJuKVaA" uri="deliveryprocesses/Define%20Project/model.xmi"/>
+    <resourceDescriptors xmi:id="_OoqUMG2TEeekIpRxJuKVaA" id="-vr5QyFcbPWkDenfv_feTiw" uri="tasks/establish_project_integration_management.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_bZoT4ECyEeeuGKojIEpoMQ" name="process_centric_implementation_methodology" guid="_bZoT4ECyEeeuGKojIEpoMQ" presentationName="Process Centric Implementation Methodology" briefDescription="This plugin contains all the Process Centric content packages for the Stoneridge Software Process Centric implementation methodology" changeDate="2017-05-24T13:57:40.928-0500" changeDescription="Initial version" version="1.0">
+    <ownedRules xmi:id="_5Y7n8FuHEeehWO5wp7dvHQ" name="wpState" guid="_5Y7n8FuHEeehWO5wp7dvHQ" briefDescription="The template used as an input to a process that instantiates the artifact." body="Template"/>
+    <ownedRules xmi:id="_IF82AFuIEeehWO5wp7dvHQ" name="wpState" guid="_IF82AFuIEeehWO5wp7dvHQ" briefDescription="Newly instantiated artifact from a template." body="New Instance"/>
+    <ownedRules xmi:id="_W1i28FuIEeehWO5wp7dvHQ" name="wpState" guid="_W1i28FuIEeehWO5wp7dvHQ" briefDescription="The instantiated artifact initial customized values ready for initial approval." body="Initial"/>
+    <ownedRules xmi:id="_fAzBIFuIEeehWO5wp7dvHQ" name="wpState" guid="_fAzBIFuIEeehWO5wp7dvHQ" briefDescription="After the values are verified." body="Verified"/>
+    <methodElementProperty xmi:id="_bZ714ECyEeeuGKojIEpoMQ" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_3MCq4ECyEeeuGKojIEpoMQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bZoT4UCyEeeuGKojIEpoMQ" name="Content" guid="_bZoT4UCyEeeuGKojIEpoMQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bZoT4kCyEeeuGKojIEpoMQ" name="Categories" guid="_bZoT4kCyEeeuGKojIEpoMQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bZoT40CyEeeuGKojIEpoMQ" name="Domains" guid="_bZoT40CyEeeuGKojIEpoMQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bZoT5ECyEeeuGKojIEpoMQ" name="Disciplines" guid="_bZoT5ECyEeeuGKojIEpoMQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bZoT5UCyEeeuGKojIEpoMQ" name="RoleSets" guid="_bZoT5UCyEeeuGKojIEpoMQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bZoT5kCyEeeuGKojIEpoMQ" name="WP Types" guid="_bZoT5kCyEeeuGKojIEpoMQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bZoT50CyEeeuGKojIEpoMQ" name="Tools" guid="_bZoT50CyEeeuGKojIEpoMQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bZoT6ECyEeeuGKojIEpoMQ" name="StandardCategories" guid="_bZoT6ECyEeeuGKojIEpoMQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bZoT6UCyEeeuGKojIEpoMQ" name="CustomCategories" guid="_bZoT6UCyEeeuGKojIEpoMQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bZoT6kCyEeeuGKojIEpoMQ" name="Hidden" guid="_bZoT6kCyEeeuGKojIEpoMQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_bZoT60CyEeeuGKojIEpoMQ" name="Custom Categories" guid="_bZoT60CyEeeuGKojIEpoMQ" categorizedElements="_rqohkEDQEeeuGKojIEpoMQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_rqohkEDQEeeuGKojIEpoMQ" name="playbook_navigation" guid="_rqohkEDQEeeuGKojIEpoMQ" presentationName="Playbook Navigation">
+            <methodElementProperty xmi:id="_vHK54EDQEeeuGKojIEpoMQ" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_lX0pMG2SEeekIpRxJuKVaA#_lX0pMW2SEeekIpRxJuKVaA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_JqutkEDQEeeuGKojIEpoMQ#_JqutkUDQEeeuGKojIEpoMQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_FT9NUFt5EeehWO5wp7dvHQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_caAi4Ft5EeehWO5wp7dvHQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_FT9NUFt5EeehWO5wp7dvHQ" name="roles" guid="_FT9NUFt5EeehWO5wp7dvHQ" presentationName="Roles" categorizedElements="_IoYaYEC9EeeuGKojIEpoMQ _D6zpQEDDEeeuGKojIEpoMQ _ix6osEC1EeeuGKojIEpoMQ">
+            <methodElementProperty xmi:id="_P-bL8Ft5EeehWO5wp7dvHQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_caAi4Ft5EeehWO5wp7dvHQ" name="artifacts" guid="_caAi4Ft5EeehWO5wp7dvHQ" presentationName="Artifacts" categorizedElements="_glHRYFt5EeehWO5wp7dvHQ _isU1gFt5EeehWO5wp7dvHQ">
+            <methodElementProperty xmi:id="_f686EFt5EeehWO5wp7dvHQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_glHRYFt5EeehWO5wp7dvHQ" name="shared_artifacts" guid="_glHRYFt5EeehWO5wp7dvHQ" presentationName="Shared Artifacts" categorizedElements="_azbkcFtqEeehWO5wp7dvHQ _GUGVgEC7EeeuGKojIEpoMQ _u7TDEEC6EeeuGKojIEpoMQ _vxRQUFtqEeehWO5wp7dvHQ _DdlxUFtoEeehWO5wp7dvHQ _o5bZUFtrEeehWO5wp7dvHQ _x9nhMFtsEeehWO5wp7dvHQ _B6054FtvEeehWO5wp7dvHQ _dfGcgEC7EeeuGKojIEpoMQ _9gJGAFtoEeehWO5wp7dvHQ _KWA6UFtrEeehWO5wp7dvHQ _ra7WoFt0EeehWO5wp7dvHQ _KkphUFttEeehWO5wp7dvHQ _koUpUEC4EeeuGKojIEpoMQ">
+            <methodElementProperty xmi:id="_iQEXUFt5EeehWO5wp7dvHQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_isU1gFt5EeehWO5wp7dvHQ" name="initiate_artifacts" guid="_isU1gFt5EeehWO5wp7dvHQ" presentationName="Initiate Artifacts" categorizedElements="_8kYScEC7EeeuGKojIEpoMQ _LyVQEEDMEeeuGKojIEpoMQ _i8PAUEDLEeeuGKojIEpoMQ _WXkuEFtzEeehWO5wp7dvHQ _79DpAFtwEeehWO5wp7dvHQ __SS_IFtzEeehWO5wp7dvHQ _jveOMFtxEeehWO5wp7dvHQ">
+            <methodElementProperty xmi:id="_lsO8MFt5EeehWO5wp7dvHQ" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bZoT7ECyEeeuGKojIEpoMQ" name="CoreContent" guid="_bZoT7ECyEeeuGKojIEpoMQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_-8V-cECyEeeuGKojIEpoMQ" name="discover_content_package" guid="_-8V-cECyEeeuGKojIEpoMQ" presentationName="Discover Content Package">
+          <methodElementProperty xmi:id="_-8WlgECyEeeuGKojIEpoMQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_L3xTEECzEeeuGKojIEpoMQ" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ISE-wECzEeeuGKojIEpoMQ" name="initiate_content_package" guid="_ISE-wECzEeeuGKojIEpoMQ" presentationName="Initiate Content Package">
+          <methodElementProperty xmi:id="_ISFl0ECzEeeuGKojIEpoMQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_LSA6oECzEeeuGKojIEpoMQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_8kYScEC7EeeuGKojIEpoMQ" name="enterprise_process_review_communication_packet" guid="_8kYScEC7EeeuGKojIEpoMQ" presentationName="Enterprise Process Review Communication Packet" briefDescription="A set of information sent to the client prior to the Enterprise Process Review (EPR) as part of the EPR planning." deliveredWorkProducts="_i8PAUEDLEeeuGKojIEpoMQ">
+            <methodElementProperty xmi:id="_VL-TQEC8EeeuGKojIEpoMQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-1ThOeFJX5YCPcnoDJLJeNA" href="uma://-1ThOeFJX5YCPcnoDJLJeNA#-1ThOeFJX5YCPcnoDJLJeNA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_44IpMEDGEeeuGKojIEpoMQ" name="epr_preparation_guidline" guid="_44IpMEDGEeeuGKojIEpoMQ" presentationName="EPR Preparation Guidline" briefDescription="This guidline provides more detail about preparing for an EPR">
+            <methodElementProperty xmi:id="_zm4_wEDLEeeuGKojIEpoMQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-W1IFJPdAQFHy8A_3QhMpXg" href="uma://-W1IFJPdAQFHy8A_3QhMpXg#-W1IFJPdAQFHy8A_3QhMpXg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_i8PAUEDLEeeuGKojIEpoMQ" name="epr_schedule_sample" guid="_i8PAUEDLEeeuGKojIEpoMQ" presentationName="EPR Schedule Sample" briefDescription="This is an example of a proposed enterprise process review schedule">
+            <methodElementProperty xmi:id="_q-cjQEDLEeeuGKojIEpoMQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-OHofhBLhFzjk99_2DMFrUg" href="uma://-OHofhBLhFzjk99_2DMFrUg#-OHofhBLhFzjk99_2DMFrUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_LyVQEEDMEeeuGKojIEpoMQ" name="epr_schedule_communication_email_sample" guid="_LyVQEEDMEeeuGKojIEpoMQ" presentationName="EPR Schedule Communication Email Sample" briefDescription="This artifact is a sample of an email used to help communicate with a client regarding an EPR schedule.">
+            <methodElementProperty xmi:id="_fOJvkEDMEeeuGKojIEpoMQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-OUBek93azGDT9FxhyoHHnw" href="uma://-OUBek93azGDT9FxhyoHHnw#-OUBek93azGDT9FxhyoHHnw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7rZxIEC9EeeuGKojIEpoMQ" name="prepare_for_enterprise_process_review_sessions" guid="_7rZxIEC9EeeuGKojIEpoMQ" presentationName="Prepare for Enterprise Process Review Sessions" briefDescription="This task represents the necessary work to prepare all participating parties and stakeholders for the Enterprise Process Review Sessions." checklists="_wfaFsFuLEeehWO5wp7dvHQ" guidelines="_44IpMEDGEeeuGKojIEpoMQ" performedBy="_ix6osEC1EeeuGKojIEpoMQ" mandatoryInput="_koUpUEC4EeeuGKojIEpoMQ" output="_8kYScEC7EeeuGKojIEpoMQ _9gJGAFtoEeehWO5wp7dvHQ" additionallyPerformedBy="_D6zpQEDDEeeuGKojIEpoMQ _IoYaYEC9EeeuGKojIEpoMQ" optionalInput="_dfGcgEC7EeeuGKojIEpoMQ">
+            <methodElementProperty xmi:id="_4i0aIEC-EeeuGKojIEpoMQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Tq-5bxHiyUzuIWZEYH1f_A" href="uma://-Tq-5bxHiyUzuIWZEYH1f_A#-Tq-5bxHiyUzuIWZEYH1f_A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rl6ccFtlEeehWO5wp7dvHQ" name="conduct_enterprise_process_review_sessions" guid="_rl6ccFtlEeehWO5wp7dvHQ" presentationName="Conduct Enterprise Process Review Sessions" briefDescription="The Enterprise Process Review (EPR) session is the process of learning the &quot;as-is&quot; client processes and their vision for the desired &quot;to-be.&quot;" performedBy="_ix6osEC1EeeuGKojIEpoMQ" mandatoryInput="_9gJGAFtoEeehWO5wp7dvHQ" output="_KWA6UFtrEeehWO5wp7dvHQ _x9nhMFtsEeehWO5wp7dvHQ _B6054FtvEeehWO5wp7dvHQ" additionallyPerformedBy="_IoYaYEC9EeeuGKojIEpoMQ" optionalInput="_azbkcFtqEeehWO5wp7dvHQ _vxRQUFtqEeehWO5wp7dvHQ">
+            <methodElementProperty xmi:id="_O-BZgFtmEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-b_7exYtzSj80RUyiflRvyg" href="uma://-b_7exYtzSj80RUyiflRvyg#-b_7exYtzSj80RUyiflRvyg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pHkmMFtvEeehWO5wp7dvHQ" name="document_epr_session_findings" guid="_pHkmMFtvEeehWO5wp7dvHQ" presentationName="Document EPR Session Findings" briefDescription="Organize and document findings from an EPR session." performedBy="_ix6osEC1EeeuGKojIEpoMQ" mandatoryInput="_79DpAFtwEeehWO5wp7dvHQ _x9nhMFtsEeehWO5wp7dvHQ _B6054FtvEeehWO5wp7dvHQ" output="_jveOMFtxEeehWO5wp7dvHQ _KWA6UFtrEeehWO5wp7dvHQ _WXkuEFtzEeehWO5wp7dvHQ __SS_IFtzEeehWO5wp7dvHQ _ra7WoFt0EeehWO5wp7dvHQ" additionallyPerformedBy="_IoYaYEC9EeeuGKojIEpoMQ" optionalInput="_azbkcFtqEeehWO5wp7dvHQ _vxRQUFtqEeehWO5wp7dvHQ">
+            <methodElementProperty xmi:id="_FsszkFtwEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-VEG-b9T4pRyLPS1wfABJ7g" href="uma://-VEG-b9T4pRyLPS1wfABJ7g#-VEG-b9T4pRyLPS1wfABJ7g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_79DpAFtwEeehWO5wp7dvHQ" name="initial_in-scope_process_list" guid="_79DpAFtwEeehWO5wp7dvHQ" presentationName="Initial In-Scope Process List" briefDescription="This artifact is a specific instance of the process catalog for a specific project updated as part of the sales hand-off. It contains content about what is in and out of scope at the time of beginning of the Initiate phase." variabilityType="extends" variabilityBasedOnElement="_9gJGAFtoEeehWO5wp7dvHQ" fulfills="_DdlxUFtoEeehWO5wp7dvHQ">
+            <methodElementProperty xmi:id="_K3NUIFtxEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jveOMFtxEeehWO5wp7dvHQ" name="verified_in-scope_process_list" guid="_jveOMFtxEeehWO5wp7dvHQ" presentationName="Verified In-Scope Process List" briefDescription="This artifact is a specific instance of the process catalog for a specific project updated as part of the Enterprise Process Review. It contains content about what is in and out of scope after verification during the EPR. This product is an output from the Document EPR Session Findings process.">
+            <methodElementProperty xmi:id="_JdFDAFtyEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-SXRNy2-wr_qM4giBpg4rTA" href="uma://-SXRNy2-wr_qM4giBpg4rTA#-SXRNy2-wr_qM4giBpg4rTA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_WXkuEFtzEeehWO5wp7dvHQ" name="external_system_integrations" guid="_WXkuEFtzEeehWO5wp7dvHQ" presentationName="External System Integrations" briefDescription="This artifact is a list of integrations that are necessary for the implementation project.">
+            <methodElementProperty xmi:id="_tdCNwFtzEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-E6XKNJA8qJxfRZMn-v5VoQ" href="uma://-E6XKNJA8qJxfRZMn-v5VoQ#-E6XKNJA8qJxfRZMn-v5VoQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="__SS_IFtzEeehWO5wp7dvHQ" name="process_role_list" guid="__SS_IFtzEeehWO5wp7dvHQ" presentationName="Process Role List" briefDescription="A list of people and the roles they fulfill within business processes.">
+            <methodElementProperty xmi:id="_NldiwFt0EeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-IPBnCe24GVPKA14K_SW0SA" href="uma://-IPBnCe24GVPKA14K_SW0SA#-IPBnCe24GVPKA14K_SW0SA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hWWroFt6EeehWO5wp7dvHQ" name="create_epr_deliverables" guid="_hWWroFt6EeehWO5wp7dvHQ" presentationName="Create EPR Deliverables" briefDescription="Create and delivery client deliverables for the EPR." output="_9kGLYFuIEeehWO5wp7dvHQ __B-pMFuJEeehWO5wp7dvHQ _o5bZUFtrEeehWO5wp7dvHQ">
+            <methodElementProperty xmi:id="_qQz90Ft9EeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-uAsI6iBgjq8ZgqnsqmQdtQ" href="uma://-uAsI6iBgjq8ZgqnsqmQdtQ#-uAsI6iBgjq8ZgqnsqmQdtQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_9kGLYFuIEeehWO5wp7dvHQ" name="fit_gap" guid="_9kGLYFuIEeehWO5wp7dvHQ" presentationName="Fit Gap" briefDescription="A list of required features with fit and/or gap information identified." fulfills="_KWA6UFtrEeehWO5wp7dvHQ">
+            <methodElementProperty xmi:id="_1A4XsFuJEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-gJ2_hMLkhxugO3enrFrzLg" href="uma://-gJ2_hMLkhxugO3enrFrzLg#-gJ2_hMLkhxugO3enrFrzLg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="__B-pMFuJEeehWO5wp7dvHQ" name="external_systems_integration_diagram" guid="__B-pMFuJEeehWO5wp7dvHQ" presentationName="External Systems Integration Diagram" briefDescription="A diagram of the proposed external systems integrations.">
+            <methodElementProperty xmi:id="_GnfCAFuKEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-5ortazhx5Zm5ZsxwbAgKeA" href="uma://-5ortazhx5Zm5ZsxwbAgKeA#-5ortazhx5Zm5ZsxwbAgKeA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_TwNy0FuKEeehWO5wp7dvHQ" name="high-level_process_map" guid="_TwNy0FuKEeehWO5wp7dvHQ" presentationName="High-Level Process Map" briefDescription="A high-level diagram of the enterprise processes determined to be in scope for the implementation project.">
+            <methodElementProperty xmi:id="_jc8xcFuKEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-wuKHCpkptL_aK7Gqxrij7w" href="uma://-wuKHCpkptL_aK7Gqxrij7w#-wuKHCpkptL_aK7Gqxrij7w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_wfaFsFuLEeehWO5wp7dvHQ" name="epr_preparation_checklist" guid="_wfaFsFuLEeehWO5wp7dvHQ" presentationName="EPR Preparation Checklist" briefDescription="Checklist for EPR Preparation">
+            <methodElementProperty xmi:id="_qHPNQFuMEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-0BUvhkAzmR2JG9yEdE0S_Q" href="uma://-0BUvhkAzmR2JG9yEdE0S_Q#-0BUvhkAzmR2JG9yEdE0S_Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tQnxcG2SEeekIpRxJuKVaA" name="establish_project_integration_management" guid="_tQnxcG2SEeekIpRxJuKVaA" presentationName="Establish Project Integration Management">
+            <methodElementProperty xmi:id="_OoofAG2TEeekIpRxJuKVaA" name="me_edited" value="true"/>
+            <presentation xmi:id="-vr5QyFcbPWkDenfv_feTiw" href="uma://-vr5QyFcbPWkDenfv_feTiw#-vr5QyFcbPWkDenfv_feTiw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xQdZEEC5EeeuGKojIEpoMQ" name="shared_content_package" guid="_xQdZEEC5EeeuGKojIEpoMQ" presentationName="Shared Content Package" briefDescription="This package contains method content that is used across multiple project phases">
+          <methodElementProperty xmi:id="_xQeAIEC5EeeuGKojIEpoMQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_4MORUEC5EeeuGKojIEpoMQ" name="pakage_supporting" value="true"/>
+          <methodElementProperty xmi:id="_aOwGEEC7EeeuGKojIEpoMQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ix6osEC1EeeuGKojIEpoMQ" name="solution_delivery_manager" guid="_ix6osEC1EeeuGKojIEpoMQ" presentationName="Solution Delivery Manager" briefDescription="Solution delivery manager is responsible for the cohesiveness of the solution delivered to our client.">
+            <methodElementProperty xmi:id="_PBgR4EC4EeeuGKojIEpoMQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-nRDZhkWHYaTbJmF0UAOraQ" href="uma://-nRDZhkWHYaTbJmF0UAOraQ#-nRDZhkWHYaTbJmF0UAOraQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_koUpUEC4EeeuGKojIEpoMQ" name="statement_of_work" guid="_koUpUEC4EeeuGKojIEpoMQ" presentationName="Statement of Work" briefDescription="This is a place holder for the various types of statements of work." isAbstract="true">
+            <methodElementProperty xmi:id="_uu9FoEC5EeeuGKojIEpoMQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-f-EpI_o-Yaod0uR7OpZIXA" href="uma://-f-EpI_o-Yaod0uR7OpZIXA#-f-EpI_o-Yaod0uR7OpZIXA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_u7TDEEC6EeeuGKojIEpoMQ" name="implementation_statement_of_work" guid="_u7TDEEC6EeeuGKojIEpoMQ" presentationName="Implementation Statement of Work" briefDescription="This statement of work is used for implementation projects." fulfills="_koUpUEC4EeeuGKojIEpoMQ">
+            <methodElementProperty xmi:id="_0k_2gEC6EeeuGKojIEpoMQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-_MTGF9d2ZkdaJ8t2Ko2akg" href="uma://-_MTGF9d2ZkdaJ8t2Ko2akg#-_MTGF9d2ZkdaJ8t2Ko2akg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_GUGVgEC7EeeuGKojIEpoMQ" name="consulting_statement_of_work" guid="_GUGVgEC7EeeuGKojIEpoMQ" presentationName="Consulting Statement of Work" briefDescription="This statement of work is used for consulting projects such as discovery only projects." fulfills="_koUpUEC4EeeuGKojIEpoMQ">
+            <methodElementProperty xmi:id="_H0o7MEC7EeeuGKojIEpoMQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-UaMGx19L-68I1aR1cBhhmw" href="uma://-UaMGx19L-68I1aR1cBhhmw#-UaMGx19L-68I1aR1cBhhmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_dfGcgEC7EeeuGKojIEpoMQ" name="project_profile_fact_sheet" guid="_dfGcgEC7EeeuGKojIEpoMQ" presentationName="Project Profile Fact Sheet" briefDescription="This artifact contains information about a project being undertaken by Stoneridge and is used to inform the project team of the project details.">
+            <methodElementProperty xmi:id="_2StgEEC7EeeuGKojIEpoMQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-LU8U5uaJkMMryPXanI_IQw" href="uma://-LU8U5uaJkMMryPXanI_IQw#-LU8U5uaJkMMryPXanI_IQw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_IoYaYEC9EeeuGKojIEpoMQ" name="functional_consultant" guid="_IoYaYEC9EeeuGKojIEpoMQ" presentationName="Functional Consultant" briefDescription="A Functional Consultant ">
+            <methodElementProperty xmi:id="_Kf4ukEC9EeeuGKojIEpoMQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-YINA_I0NVy-_rEFykK-elA" href="uma://-YINA_I0NVy-_rEFykK-elA#-YINA_I0NVy-_rEFykK-elA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_D6zpQEDDEeeuGKojIEpoMQ" name="project_manager" guid="_D6zpQEDDEeeuGKojIEpoMQ" presentationName="Project Manager">
+            <methodElementProperty xmi:id="_FIgygEDDEeeuGKojIEpoMQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_DdlxUFtoEeehWO5wp7dvHQ" name="process_catalog" guid="_DdlxUFtoEeehWO5wp7dvHQ" presentationName="Process Catalog" briefDescription="This artifact is the place holder for an instance of the process catalog." isAbstract="true">
+            <methodElementProperty xmi:id="_s0HNkFtoEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_icZlUFuIEeehWO5wp7dvHQ" name="Workproduct_states" value="_fAzBIFuIEeehWO5wp7dvHQ/_W1i28FuIEeehWO5wp7dvHQ/_IF82AFuIEeehWO5wp7dvHQ/_5Y7n8FuHEeehWO5wp7dvHQ"/>
+            <presentation xmi:id="-LcBz7QGy2sOSiEnweLFVYQ" href="uma://-LcBz7QGy2sOSiEnweLFVYQ#-LcBz7QGy2sOSiEnweLFVYQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9gJGAFtoEeehWO5wp7dvHQ" name="project_specific_process_catalog" guid="_9gJGAFtoEeehWO5wp7dvHQ" presentationName="Project Specific Process Catalog" briefDescription="This artifact is a specific instance of the process catalog for a specific project. It contains content about what is in and out of scope for that project and possibly project specific processes." fulfills="_DdlxUFtoEeehWO5wp7dvHQ">
+            <methodElementProperty xmi:id="_UDbswFtpEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-xEOzEwbkrWcXdDdy9TRIcA" href="uma://-xEOzEwbkrWcXdDdy9TRIcA#-xEOzEwbkrWcXdDdy9TRIcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_azbkcFtqEeehWO5wp7dvHQ" name="client_provided_process_assets" guid="_azbkcFtqEeehWO5wp7dvHQ" presentationName="Client Provided Process Assets" briefDescription="This artifact is a representation of any artifact provided by the client to help define the as-is or to-be client process." isAbstract="true">
+            <methodElementProperty xmi:id="_tBl-AFtqEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-LKznNmYJnJNGY5WyuteoWg" href="uma://-LKznNmYJnJNGY5WyuteoWg#-LKznNmYJnJNGY5WyuteoWg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vxRQUFtqEeehWO5wp7dvHQ" name="process_based_questionnaire" guid="_vxRQUFtqEeehWO5wp7dvHQ" presentationName="Process Based Questionnaire" briefDescription="This is a questionnaire that provides standard questions for a process or process group the guide the consultant during the EPR session." isAbstract="true">
+            <methodElementProperty xmi:id="_Ay7agFtrEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-AayV3PS_jOfzz52yKVFFNw" href="uma://-AayV3PS_jOfzz52yKVFFNw#-AayV3PS_jOfzz52yKVFFNw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_KWA6UFtrEeehWO5wp7dvHQ" name="required_features" guid="_KWA6UFtrEeehWO5wp7dvHQ" presentationName="Required Features" briefDescription="This artifact is a list of features required for a specific client implementation project." isAbstract="true">
+            <methodElementProperty xmi:id="_ZgrGoFtrEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_5F8lEFuIEeehWO5wp7dvHQ" name="Workproduct_states"/>
+            <presentation xmi:id="-4mBDDns4Onp5zpKV8VbPUQ" href="uma://-4mBDDns4Onp5zpKV8VbPUQ#-4mBDDns4Onp5zpKV8VbPUQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_o5bZUFtrEeehWO5wp7dvHQ" name="process_model_document" guid="_o5bZUFtrEeehWO5wp7dvHQ" presentationName="Process Model Document" briefDescription="This deliverable is a document that contains process narratives, diagrams, requirements and fit/gap information for a set of processes.">
+            <methodElementProperty xmi:id="_JL7a4FttEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-3Cs17vOp4mk_l8ba158yLg" href="uma://-3Cs17vOp4mk_l8ba158yLg#-3Cs17vOp4mk_l8ba158yLg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KkphUFttEeehWO5wp7dvHQ" name="sipoc" guid="_KkphUFttEeehWO5wp7dvHQ" presentationName="SIPOC" briefDescription="A tool that summarizes the inputs and outputs of one or more processes in table form. The acronym SIPOC stands for suppliers, inputs, process, outputs, and customers which form the columns of the table." fulfills="_x9nhMFtsEeehWO5wp7dvHQ">
+            <methodElementProperty xmi:id="_2UEHkFttEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-fhm-ytNpyNBxVHdWL84sug" href="uma://-fhm-ytNpyNBxVHdWL84sug#-fhm-ytNpyNBxVHdWL84sug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_x9nhMFtsEeehWO5wp7dvHQ" name="process_narrative" guid="_x9nhMFtsEeehWO5wp7dvHQ" presentationName="Process Narrative" briefDescription="This artifact is any type of document that describes or defines a process. It may be an instance of the Stoneridge process narrative template or a SIPOC or simply a page in OneNote that provides the necessary documentation." isAbstract="true">
+            <methodElementProperty xmi:id="_JMXfwFttEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-mjPZWtAsSucmbGu1dYqE0w" href="uma://-mjPZWtAsSucmbGu1dYqE0w#-mjPZWtAsSucmbGu1dYqE0w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_B6054FtvEeehWO5wp7dvHQ" name="process_specific_requirements" guid="_B6054FtvEeehWO5wp7dvHQ" presentationName="Process Specific Requirements" briefDescription="This artifact is a list of requirements specific to a process.">
+            <methodElementProperty xmi:id="_VZ5hsFtvEeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-9st_bIs9jNBUmJhXjJfexw" href="uma://-9st_bIs9jNBUmJhXjJfexw#-9st_bIs9jNBUmJhXjJfexw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ra7WoFt0EeehWO5wp7dvHQ" name="risk_list" guid="_ra7WoFt0EeehWO5wp7dvHQ" presentationName="Risk List" briefDescription="A list that identifies scenarios and circumstances that can jeopardize the project timeline or budget.">
+            <methodElementProperty xmi:id="_6CD_IFt0EeehWO5wp7dvHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-rjv5_5W9ustXwWMgGRMP8w" href="uma://-rjv5_5W9ustXwWMgGRMP8w#-rjv5_5W9ustXwWMgGRMP8w"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bZoT7UCyEeeuGKojIEpoMQ" name="CapabilityPatterns" guid="_bZoT7UCyEeeuGKojIEpoMQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bZoT7kCyEeeuGKojIEpoMQ" name="DeliveryProcesses" guid="_bZoT7kCyEeeuGKojIEpoMQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_HDwEQEDQEeeuGKojIEpoMQ" name="Initiate" guid="_HDwEQEDQEeeuGKojIEpoMQ">
+        <methodElementProperty xmi:id="_HDwEQUDQEeeuGKojIEpoMQ" name="pkg_loadCheck" value="true"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_JqutkEDQEeeuGKojIEpoMQ" href="uma://_JqutkEDQEeeuGKojIEpoMQ#_JqutkEDQEeeuGKojIEpoMQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_lX0pMG2SEeekIpRxJuKVaA" href="uma://_lX0pMG2SEeekIpRxJuKVaA#_lX0pMG2SEeekIpRxJuKVaA"/>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bZoT70CyEeeuGKojIEpoMQ" name="ProcessContributions" guid="_bZoT70CyEeeuGKojIEpoMQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

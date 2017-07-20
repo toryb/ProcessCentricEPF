@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8FMUuRP0SHxwdJ1cwU4U8w" name=",_RAHQwPOiEeapmpGtP1xa_w" guid="-8FMUuRP0SHxwdJ1cwU4U8w" changeDate="2017-02-15T11:15:17.359-0600">
+  <mainDescription>&amp;nbsp; &#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    As part of our Process Centric Implementation Methodology, Stoneridge Software conducts Enterprise Process Reviews&#xD;
+    during the Initiation phase of the project. The Enterprise Process Review is typically two or more days and involves&#xD;
+    multiple client representatives.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    The purpose of the review is to verify and document the agreed upon scope and approximate size of the implementation&#xD;
+    project. This activity should produce a list of Process Groups and Processes that becomes the basis for defining scope&#xD;
+    and effort and drives all other discovery and analysis. In some cases, a high-level Enterprise Process diagram or set&#xD;
+    of diagrams will be created.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    The review starts with the Functional Consultant using the Statement of Work and the Process Catalog to identify the&#xD;
+    Process Categories and Process Groups that are in-scope for this implementation.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    Next, the consultant should use the Process-Based Questionnaire (if available) to conduct an a review of the existing&#xD;
+    procedures for executing the in-scope processes and any planned changes to processes. Often, this is facilitated with&#xD;
+    white-boarding sessions. Pictures of the white-board can be used for documentation. The interviews should include&#xD;
+    discussion of external systems and risks.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    Once the information has been gathered, the consultant will use it to create the initial list of in-scope processes,&#xD;
+    and high-level process and integration diagrams. The features and requirements gathered will be connected to the&#xD;
+    relevant processes to support traceability.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    Finally, the deliverables are created and delivered to the client.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    &lt;img style=&quot;HEIGHT: 843px; WIDTH: 717px&quot; alt=&quot;&quot; src=&quot;resources/Enterprise Process Review.png&quot; width=&quot;600&quot;&#xD;
+    height=&quot;600&quot; />&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_3-hmIPOiEeapmpGtP1xa_w" name="Prepare for Enterprise Process Review Sessions" guid="_3-hmIPOiEeapmpGtP1xa_w">
+    <sectionDescription>&lt;p>&#xD;
+    This activity is our internal preparation and the interactions with the client that are intended to make the EPR&#xD;
+    sessions effective. The primary tasks are to create a proposed session schedule and make sure the client has the&#xD;
+    correct understanding of the process in order to have the proper people available and ready to participate.&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    Enterprise Process Review Communication Packet:&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.8in&quot;>&#xD;
+    A set of information sent to the client prior to the Enterprise Process Review (EPR) as part of the EPR planning.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.8in&quot;>&#xD;
+    Includes:&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0in; unicode-bidi: embed; MARGIN-TOP: 0in; DIRECTION: ltr; MARGIN-LEFT: 1.174in&quot; type=&quot;disc&quot;>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Proposed process review schedule&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+        &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Email containing&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul style=&quot;MARGIN-BOTTOM: 0in; unicode-bidi: embed; MARGIN-TOP: 0in; DIRECTION: ltr; MARGIN-LEFT: 0.375in&quot;&#xD;
+        type=&quot;square&quot;>&#xD;
+            &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+                &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Explanation of EPR and client responsibilities&lt;/span>&#xD;
+            &lt;/li>&#xD;
+            &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+                &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Request for SME and stakeholder list&lt;/span>&#xD;
+            &lt;/li>&#xD;
+            &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+                &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Request that SMEs and process owners attend review&#xD;
+                meetings&lt;/span>&#xD;
+            &lt;/li>&#xD;
+            &lt;li style=&quot;MARGIN-BOTTOM: 0px; VERTICAL-ALIGN: middle; MARGIN-TOP: 0px&quot;>&#xD;
+                &lt;span style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri&quot;>Request for process documentation, existing documents,&#xD;
+                reports, training manuals and screen captures of exiting systems&lt;/span>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_FS174POjEeapmpGtP1xa_w" name="Conduct Enterprise Process Review Sessions" guid="_FS174POjEeapmpGtP1xa_w">
+    <sectionDescription>&amp;nbsp; &#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    In this process we Interview SMEs and other process stakeholders to review process groups and processes. During this&#xD;
+    interview you will seek to understand the requirements related to a process through a discussion of their existing&#xD;
+    process, a review of their existing process artifacts and reviewing what works well and what causes pain in their&#xD;
+    existing processes.&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;FONT-SIZE: 11pt; FONT-FAMILY: Calibri; MARGIN: 0in 0in 0in 0.3in&quot;>&#xD;
+    We also identify any new process requirements, confirm and identify roles for each process, confirm and identify&#xD;
+    external system integrations and confirm and identify risks.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_LKuVQPOjEeapmpGtP1xa_w" name="Document Findings From Enterprise Process Review Sessions" guid="_LKuVQPOjEeapmpGtP1xa_w"/>
+  <sections xmi:id="_O_4o8POjEeapmpGtP1xa_w" name="Create Enterprise Process Review Deliverables" guid="_O_4o8POjEeapmpGtP1xa_w"/>
+  <purpose>The purpose of the Enterprise Process Review is to verify and document the agreed upon scope and approximate size of an&#xD;
+implementation project. The scope is defined and documented by identifying the Process Groups and business Processes to be&#xD;
+implemented. The complexity of the client's requirements for these processes is used to estimate the approximate effort to&#xD;
+complete the implementation.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rjv5_5W9ustXwWMgGRMP8w" name="new_artifact,_ra7WoFt0EeehWO5wp7dvHQ" guid="-rjv5_5W9ustXwWMgGRMP8w" changeDate="2017-06-27T15:11:40.954-0500">
+  <mainDescription>Project risks are used to identify scenarios and circumstances that can jeopardize the project timeline or budget. By&#xD;
+identifying the possible risks, mitigation plans can be defined to either minimize the potential for the risk or the impact&#xD;
+of the risk.&lt;br /></mainDescription>
+  <purpose>Identify scenarios and circumstances that can jeopardize the project timeline or budget</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>
